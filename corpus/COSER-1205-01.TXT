@@ -1,0 +1,754 @@
+Provincia:	Cantabria
+Enclave:	Castrillo de Valdelomar (Valderredible) (1205)
+Fecha:	25 de marzo de 1994
+Duración:	01:24:25
+Informantes:	I1: mujer, 65 años
+I2: varón, 64 años
+Encuesta:	César Díez, Gudrun Schacht, Inés Fernández-Ordóñez, Mercedes Méndez
+Transcripción:	Mercedes Méndez de Mesa, Marta Marín Barrientos, Irene Helena Ponce Asensio, Bernedine Elleine Bayot Diana, Oskar Lubisnki, Víctor Lara Bermejo, Alba Aires Salvador
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+2. Alimentación (pan, horno, manteca, huevos, bollos, recetas, pescado)
+3. Animales domésticos (burro, caballo, buey, conejo, gallina, gato, perro)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+11. Vida vecinal (anécdotas, inquietudes, gobierno municipal, guardia civil)
+13. Familia (contraste entre generaciones: abuelos, hijos, padres)
+14. Bodas y noviazgos (boda, anillos, ajuar)
+20. Caza, pesca y monte (leña, animales y plantas no domésticos)
+
+E1: |T1| ¿Nunca ha criado cerdos con...?
+I1: Aquí... Se crían los cerdos, paren las cerdas y se crían. Les da de mamar hasta un mes, después se les echa de comer, a los dos meses se venden...
+E2: Y después ya, la matanza.
+I1: Y se deja uno para, para casa. [HS:E2 ¿Y [A-Nul]...?] Y al año, se le va engordando; al año se le mata.
+E2: Pero ¿cómo se mata al cerdo?
+I1: [OTRAS-EM] [A-Pau: ¿Cómo se mata al cerdo?] Es que yo no sé cómo se mata, yo no le mato, me le mata un señor.
+E2: O sea que...
+I1: [A-Inn] [A-PIn: un matazán.]
+E2: [Asent]. Bueno, pero cuando tenemos el cerdo ya muerto, después, ¿lo primero que hace...?
+I1: Lo primero que hace, se abre el ce-, se... limpia el cerdo, se mata al cerdo, se limpia, se le abre, se le saca el vientre, se le deja enfriar, a otro día se le estaza, se..., se adoba la carne, se hacen los chorizos, el tocino se echa en sal, y los huesos. [OTRAS-EM] Los chorizos se cuelgan a curar, y después que están curaos, se comen. [HS:E2 Hábleme,]
+E2: hábleme un poco de lo de la carne, cómo...
+I1: ¿Como la carne? Se abre el cerdo... [HS:E1 [Asent].] La carne va por un lao, o sea, se abre el cerdo, se saca el vientre. [HS:E2 Sí.] Se deja al chon enfriar, se le saca el vientre, se le..., se deja el chon que se enfríe. [HS:E2 [Asent].] [R-Anm] Y después a otro día se le estaza, [R-Anm] llamamos estazar; se le..., se le parte, la carne por un sitio, los huesos por otro, el tocino por otro...
+E2: Sí.
+I1: Luego la carne se adoba, se hacen... jijas, y los huesos se adoban también. El tocino se echa en sal; a otro día s'hacen los chorizos y se curan.
+E2: Y la sangre, ¿qué pasa con la sangre? [HS:I1 Con la sangre se hacen]
+I1: las morcillas.
+E2: ¿Me puede describir cómo se hace una morcilla?
+I1: La morcilla, la morcilla [A-Inn]. La morcilla se hace con arroz, cebolla, pan y la sangre.
+E2: Pero...
+I1: La, la morcilla se hace con la san-, con la sangre del cerdo, con... so-, con pan, arroz y cebolla, y un poco de pimienta, [HS:E2 [Asent].] así la hacemos.
+E2: Entonces me ha contado lo de la sangre, la carne, los chorizos. ¿Y jamones?
+I1: Si se quiere, se deja y si no, pues jamones, oye, pues ahí están los jamones, claro. Los jamones, se..., se deja el jamón, se echan en sal y después se, se cura.
+E2: Se cura, ¿mucho tiempo?, ¿poco tiempo?
+I1: Yo eso no lo sé, eso... según. Yo te he dicho que tenéis que [A-Inn] en aquel pueblo.
+E2: Bueno, y además de, de cerdos, ¿qué otros animales hay? ¿Qué otros animales han tenido aquí?
+I1: Cabras, ovejas, vacas, terneros, gallinas.
+E2: ¿Y la matanza de la vaca?
+I1: No matamos.
+E2: ¿No matan vacas?
+I1: [OTRAS-EM] De eso nada.
+E2: No, ¿aquí no matan | no hacen productos de la vaca?
+I1: [CHASQ] Nada.
+E2: Pero la leche sí trabajan con ella.
+I1: La leche lo vendemos, y luego lo tomamos.
+E2: [Asent]. ¿Y queso?
+I1: Queso, tampoco.
+E2: ¿Y ovejas no tienen? No tienen... [HS:I1 No.] ¿Cabras tampoco? [HS:I1 Tampoco.] O sea, que leche... de vaca, nada más.
+I1: Nada más.
+E2: Nada más de vaca.
+I1: Nada más de vaca.
+E2: |T3| Y no sé. Y gallinas, hemos visto que hay... [HS:I1 Gallinas.] huevos. Más cosas, cuénteme más cosas.
+I1: Nada más.
+E2: ¿No tienen más?
+I1: Ya no hay más, ya no hay más, no, no.
+E2: Y, no sé, no sé, es que me ha hablado muy poco de la matanza, no me ha contado...
+I1: Lo de la matanza es lo que es.
+E1: |T1| No, pero, lo, lo ha contado muy esquemáticamente, tendría que contárnoslo un poco más detallado. Por ejemplo, cuándo | cómo matan al cerdo, cómo sujetan aquí al cerdo, con un gancho, con cuerdas, vienen varios hombres a sujetar al cerdo o vienen, o...
+I1: Hombres, los de casa, dos hombres o tres, [A-Inn] y le matan. [HS:E1 Pero cómo...]
+E1: Pero ¿cómo hacen para agarrar el cerdo? Porque no es igual en todas las partes del...
+I1: [OTRAS-EM] Ay, hija, yo no lo sé, porque cuando yo voy, ya le tienen en la banca.
+E1: [Asent]. Ah, y hay banca aquí.
+I1: La banca, la banca es una mesa. [HS:E1 [Asent].] Le echan en la mesa y le, y allí le sangran.
+E1: Y para limpiar, ¿cómo lo hacen aquí? ¿Con qué? ¿Qué utilizan para limpiar el cerdo?
+I1: Con, con pajas, le queman.
+E2: ¿Echan algo a la sangre? O sea, huevo o algo... No, [HS:I1 [CHASQ]] la sangre, nada.
+I1: No, no, nada nada.
+E2: Cuando cae la sangre en una artera.
+I1: ¿Eh?
+E2: En la artera cae la sangre.
+I1: En un, en un cacharro.
+E1: ¿En, en una artesa o en un cuenco, [HS:I1 En una artesa.] o cómo llaman aquí? [HS:I1 [OTRAS-EM]]
+I1: En una artesa.
+E1: Aquí lo llaman artesa. ¿Y son de, son de madera?
+I1: De madera.
+E1: De madera. ¿Tiene todavía usted las artesas?
+I1: Yo no he tenido artesas nunca.
+E1: Nunca, entonces, ¿dónde recogía la sangre? [HS:I1 Pues]
+I1: en una..., en un cubo.
+E1: ¿En un cubo? [HS:I1 Claro.] ¿En un cubo de qué, de plástico simplemente o de...? [HS:I1 No, es un,]
+I1: en fin, de ordeñar, un cubo de ordeñar.
+E1: ¿Un cubo de ordeñar normal y corriente?
+I1: Normal y corriente.
+E1: Y de, ¿y de dónde sacaban la sangre, de...? ¿Dónde pinchaban al cerdo?
+I1: Ah, eso no lo sé. Yo qué te voy a decir, si eso... [HS:E1 ¿Y cuando salía]
+E1: la sangre? Usted la recogía, ¿recogía la sangre cuando...? [HS:I1 Claro,]
+I1: yo recojo la sangre.
+E1: ¿Y cómo, cómo hace?
+I1: Poniendo el cubo allí debajo.
+E1: ¿Y qué hace entonces?
+I1: Pues darle vuelta a la sangre, na más.
+E1: ¿Nada más? ¿Y para qué le da vuelta?
+I1: Pues pa que no se cuaje. [HS:E1 [Asent].] Ya, ya está todo ahí salido, ¿no? Luego lo, luego lo pones después, a ver cómo sale.
+E1: Y... ¿Y no, y no tiene que echar nada [R-Anm] en la sangre para evitar que se cuaje?
+I1: [CHASQ] [HS:E1 ¿Nada?] Nada.
+E1: ¿Aquí no echan miga de pan, no echa sal, no echan...? ¿Nada de nada? [HS:I1 No echamos]
+I1: nada. [HS:E2 [HCruz: Hola, buenas tardes.]] [HCruz: Aquí están unos muchachos haciendo un trabajo de la matanza... [RISA] de la universidad de, de Madrid.] [HS:I2 Oye..., de eso, de eso no entiendo. De eso no entiendo.]
+E1: ¿No entiende usted?
+I2: De matanza, no.
+E1: ¿De vacas sí?
+I2: Eso las mujeres. De vacas sí, hombre.
+E1: De vacas sí.
+I2: Claro.
+E1: |T7| Y, bueno, ento-, ¿y qué, cómo es el cuidado de las vacas? [R-Prt] ¿Qué...? [HS:I1 ¿Eh?] Que cómo es el cuidado de las vacas. ¿Cómo es el trabajo de las vacas?
+I1: Pues soltarlas a pacer. [HS:E1 [Asent].] Echarlas a comer en casa.
+E1: [Asent]. Y, ¿y cómo, cuántas veces se echa de comer a las vacas? [R-Anm]
+I1: [A-Inn] una vez. Por la mañana y por la tarde.
+E1: ¿Dos veces?
+I1: Dos veces.
+E1: ¿Y antiguamente era igual?
+I1: Ay, yo no lo sé, que yo los antiguos no sé cómo lo harían.
+E1: ¿Y usted cuántas veces...? [V-Ljn]
+I1: [HCruz: ¿Cuántas veces le echan a comer a las vacas?] Dos, por la mañana y por la tarde.
+I2: [A-Inn] en general dos. Algunos echan... por el mediodía, pero no.
+I1: [A-PIn: No hables] mucho, que aquí sale todo, que es lo que menos me gusta a mí, que me vengan con el chisme que me está saliendo todo, [V-Mrm] y ahí pone [A-Inn] gustaba también, pero bueno. Como el día que me sacó ese ahí, por la calle cuidando las vacas, [A-Inn] y después salí en el vídeo.
+E1: No, aquí no va a salir en ningún sitio, siento decepcionarla, pero no.
+I2: Es igual, coño, ¿pa qué estamos, más que pa salir?
+E1: No, pero bueno, que a ella le moles-, [HS:I1 No me gusta.] a ella no le gusta, pues yo, yo no quiero engañarla. Y que, ¿y con la leche qué hacen?
+I1: Venderlo, a la lechera que pasa por áhi.
+E1: Y, ¿cómo vie-, cuándo viene la lechera?
+I1: Todos los días.
+E1: [Asent]. ¿Todos los días? ¿Y cómo conservan la leche?
+I1: Pues, oye, en unas garra-, en unas chismas, en unas perolas.
+I2: Se echa anticongelante.
+E1: ¿Cómo dice? ¿Cómo dice?
+I1: Unas perolas, unas...
+I2: Y echamos anticongelante en ellas.
+I1: Se echa... [HS:E2 ¿Y no hacen...?] un líquido.
+E1: Ah, [HS:E2 ¿Y queso?] se echa algún tipo de líquido especial. [HS:I2 También queso, hombre.] ¿No tienen, no tienen que tener un tanque?
+I2: Sí..., algunos sí le tienen, y... no [A-PIn: les] pueden obligar, pero hasta ahora, creo que no. [HS:I1 Yo creo que ya no, ya]
+I1: no le tengo, que ya no tengo leche; yo ya me he retirao, hombre, en una palabra.
+E2: Bueno, entonces, ¿me cuenta también lo del queso y lo de la cuajada? Porque cuajada hacen, ¿o no?
+I1: |T7| Cuajada, ¿queso fresco? Pues bue-. Mira, aquello se hace: [OTRAS-EM] se calienta la, sale la leche de la vaca; como sale a buena temperatura, se echa la fresura, se deja que cuaje, y después ya, se, se saca el suero y se echa el quesero, el queso. [R-Anm].
+E2: Aquí ha dicho muchas cosas que yo no sé, ¿qué es la fresura, por ejemplo?
+I2: Ah, claro.
+I1: [HCruz: ¿Eso cómo se llama?]
+I2: Eso es un... cuajo, cuajo artificial que se llama. [A-Inn]
+I1: Cuajo. Yo a [NP] le digo: "Tráeme... cuajo". [HS:I2 Cuajo.] [A-Inn].
+E2: ¿Y el suero?
+I1: El suero es el agua que, que dicen, que, los que-, el queso fresco, [A-Inn] que echan mucho agua, pues eso lo llamamos suero.
+E2: Entonces... Ya tenemos que lo de...
+I1: La cuajada es lo que tiene el queso.
+I2: [A-Inn] lo que queda del suero, la, la, la leche.
+I1: La leche, la manteca.
+I2: Claro, la leche buena ya pa hacer el queso.
+I1: La leche lo pones a hervir. [HS:E2 [Asent].] Hace nata, ¿verdad?
+E2: Sí.
+I1: Pos lo quitas la nata y tomas la leche; si no, tomas la leche y la nata todo junto, pero bueno. Y, y la leche, según se saca de la vaca, que lo echas la presura, pos lo dejas allí... media hora o lo que sea y ya enseguida ya empieza ya estilar. Y se queda la leche cuajada; un yogur, que es la leche cuajada.
+E2: [Asent]. Sí, tengo una, una idea, no mucha pero... [HS:I1 ¿De dónde]
+I1: sois vosotros?
+E2: De Madrid, Madrid, por eso le digo, que yo soy de capital auténtico.
+I1: ¿Todos, los, los cuatro?
+E1: Sí.
+E2: Y otra cosa: me ha dicho la manteca.
+I1: No, no... ¿Cómo que le echa la manteca? La... [HS:E2 Acaba de hablar]
+E2: de manteca.
+I1: La leche cuajada se queda... pues cuajao, lo que es cuajao, y empieza enseguida a destilar. [HS:E2 [Asent].] Que es el suero, [HS:I2 Es el suero.] echar el suero. [HS:I2 Es el suero.] Se echa el suero, se va sacando el suero y van quedando ya pues solo lo, solo la, la cuajada. [HS:I2 [A-Nul].] [A-Inn]. Que a mí esto no me gusta, [A-Nul].
+E1: ¿Y no tiene que echar sal?
+I1: No. Al queso, no.
+E1: ¿No?
+I1: Hasta que no sale no. Y el caso, después que se hace así, se echa así.
+E1: ¿Y cómo es eso? ¿Cómo?
+I1: Os lo, os voy a enseñar. [A-Nul] [A-Crt] Aquí se pone un trapo, [HS:E1 [Asent].] y aquí dentro se echa la cuajada, que ya ha cuajao, y, y sacao el suero.
+E1: Y sale el suero por, por el queso. [HS:I1 Y sale,]
+I1: va saliendo por aquí, aquí se pone una prensa, [HS:E2 [Asent].] en una tabla redonda y luego se pone una cosa pa que pren-, pa que vaya prensando poco a poco, se deja veinti-, vinticuatro horas, yo lo dejo veinticuatro horas. Es que yo, yo lo hago a mi aire, por eso os digo que, yo no soy profesional.
+E1: ¿Usted no vende el queso?
+I1: Pues no, no vendo queso.
+E2: Y así, productos de la matanza, ¿los vende o...?
+I1: Tampoco, no vendo nada. [HS:I1 ¿No vende nada?] Na más que hago la matanza para mí y para que prueben un poco los hijos, una matanza, una matanza [A-Inn] una familia, ¿qué pue sé? Pues el chorizo cada uno. Hago un poco chorizo, un poco salchichón y un poco de, de, de jamón.
+E2: Explíqueme, ¿y la diferencia entre el chorizo y el salchichón cómo es?
+I1: Pues mira, la diferencia es que el chorizo tiene sal, pimiento y... sal, pimiento y un poco de pimienta, pimentón, dulce y picante. El salchichón no tiene más, tiene, el salchichón tiene la pimienta, la sal, el coñá y nada más.
+E2: ¿Y longaniza no?
+I1: Ay, no sé lo que lleva la longaniza, es el chorizo, la longaniza.
+E2: Chorizo.
+I1: Claro, digo yo, que el chorizo será la longaniza.
+E2: Y más cosas.
+E1: Sí, en otros sitios se llama al chorizo longaniza.
+I1: Claro.
+E2: |T2| Y manteca, ¿la manteca no...?
+I1: ¿La manteca de cerdo? [HS:E2 [Asent].] La manteca de cerdo se deshace y se... gasta, y además la manteca se echa a las morcillas, también. La morcilla se hace con el arroz. [A-Crt] Por ejemplo en Galicia, en Galicia la hacen con manzana, con cebolla y..., y yo no sé con qué más, pero [A-PIn: aquí estuvo] una maestra una vez y..., y lo traía así, [A-Nul]. [HS:E2 [Asent].] Aquí la hacemos así, y en otros sitios la hacen con arroz solo. Aquí la hacemos con pan, con pan, pero eso es echao sopas. Claro, no vas a echar el pan entero, echan sopas.
+E1: Pero eso se echa con la leche recién salida del cerdo o con la leche...
+I1: Con la leche, con la sangre.
+E1: Con la san-, digo, con la sangre recién salida del cerdo. [HS:I1 Sí,]
+I1: con la sangre recién salida del cerdo. Hombre, si vas a buscar un, un sitio, un vientre, pues a lo mejor está la sangre ya frío, pero por regla general, oye, aquí en casa matas, [A-PIn: el cerdo] lo matas, oye, lo ha-, lo haces seguido, pero si no, si no lo tienes que echar más frío. [HS:E1 [Asent].] [A-PIn: El azúcar] lo echas y las, las das vuelta... y eso... [HS:E1 [Asent].] Después echas el arroz, la cebolla, la pimienta y la manteca.
+E2: Y cuando acaba la matanza, ¿qué hacen con los productos?, ¿los guardan...? ¿Cómo los conservan?
+I1: ¿Cómo con los productos? Primero hay que curarlo, después de hacer el chorizo, se cura, al humo. Se ahúma el chorizo, y el salchichón se cura al aire, y el jamón, pues hay que, el jamón... lleva la sal, primero, tres semanas, luego después en una prensa, que se llama, con... puesto peso, para... Y luego después se saca y, y se adoba y se pone a curar. [A-Nul].
+E2: ¿Y aceite? ¿Aceite no usan para...?
+I1: Aceite también, se usa para meter el chorizo.
+E2: Para guardar el chorizo.
+I1: Pa guardar el chorizo.
+E2: ¿Lo, está guardado en el aceite?
+I1: Claro, ¿[A-Inn] cuánto tiempo se guarda en aceite?
+E2: Sí, cuánto...
+I1: Lo que quieras, hasta que lo comas, si lo comes ya enseguida pues ya no lo tienes. Y si lo tienes un año, pues un año se guarda. No, no, te aguanta un año.
+E2: ¿Un año?
+I1: Un año te aguanta, pero si lo comes antes, ya no lo tienes. Claro, hay mujeres que, oye, yo, si comiese chorizo to los días pues, me duraría un mes, pero, tú comprende, yo tengo hijos, y luego un sobrino. Venía con más hambre que lobo, luego tengo ahí la tienda para ir a comprar un kilo de carne o un kilo de filete o un kilo de lo que sea. [A-Inn] huevos y una..., un poco chorizo. [A-Nul] [HS:E2 [Asent].] [A-Nul] Conservas así, teniéndolo en...
+E1: Y los lomos, ¿cómo preparan los lomos?
+I1: Los lomos también adobaos, en sal adobaos y colgaos un poco al humo, y después...
+E1: ¿Y cuánto, de... de dónde cuelgan los lomos?
+I1: Pues en una cocina que hay aparente pa..., o hornera, en una hornera, pues [A-Inn] se hace el pan, donde se hacía.
+E1: ¿Usted ha cocido pan?
+I1: Yo he cocido.
+E1: ¿Y cómo era lo del pan?
+I1: Mira, [A-Inn] pan. ¿Has puesto, has puesto ya todo lo de la matanza?
+E1: No, porque...
+I1: Pues termina lo de la matanza si quieres, porque te... [HS:E1 Sí, es que...] porque hemos empezao mal lo de la matanza, porque había que haber hablao primero y después te lo habría explicao. Lo que has puesto ahí no lo has puesto bien, claro.
+E1: Y los jamones entonces, ¿nunca vendieron jamones?
+I1: Nunca hemos vendido nada de nada.
+E1: Nada de nada.
+I1: Nada de nada. Que nosotros hemos hecho la matanza, pa nosotros. Eso es, hay quien se dedica y lo vende y hace chorizos para venderlos, hace jamones para venderlos, compra chones y los vende. Pero nosotros mata-, criamos cerdos, teníamos cerdas pa criar, aquí nunca s'ha vendido nada, porque, oye, yo hago una matanza y es pequeña y tengo cuatro hijos y les tengo tos por ahí fuera, pues vienen en verano de vacaciones o vienen un día a verme, ¿tú comprendes? Les tengo que dar algo. [HS:E2 [Asent].] [A-Inn] en Madrid también, lo creas que no. ¿Dónde vivís? ¿Dónde vivís? ¿Qué calle?
+E3: En Madrid.
+I1: Pero ¿en qué calle?
+E3: Pues, eh, cerca de, de Hortaleza, en la zona norte de Madrid, de dentro de la capital.
+I1: ¿Dentro de la capital? Los hijos míos viven cerca de la Avenida América. [HS:E2 Yo vivo cerca de ahí.] Y han ido, y han ido al colegio Menesiano. Le conocéis, ¿no? [HS:E3 Sí.] [A-Inn] muy cerca del colegio... [HS:E2 Sí, esa zona...] [A-Nul] [V-Sml] ¿Conocéis las ambula-, ambulancias Alerta? [HS:E2 Sí.] ¿Las conoces?, ¿las conoces, ambulancias Alerta? [HS:E2 Y..., cuando [A-Nul]...] Ahí, ahí trabaja [OTRAS-EM] mi yerno, en las ambulancias Alerta, en la empresa esa.
+E1: Y entonces, ¿qué pasa? ¿Que sus hijos no estudiaron aquí?
+I1: Mis hijos | Aquí... ónde van a estudiar, hija mía, aquí cómo van a estudiar, dónde.
+E1: Pero es que ahora lo niños van y vuelven.
+I1: Van, van y vuelven. ¿Hasta, hasta dónde estudian? Van y vuelven. Los hijos míos [A-PIn: cerraron la escuela de este pueblo.] [A-Nul] [HS:E1 ¿Y qué hizo entonces?] Pues llevarles a Aguilar, [HS:E1 [Asent].] al colegio. Les he tenío todos internos, los cuatro internos.
+E1: ¿Los cuatro?
+I1: Los cuatro internos, sí. Yo no sabía ni, ni qué hacer.
+E1: ¿Y cómo, cómo conseguía pagar eso?
+I1: ¿Cómo conseguía? Pues mira, trabajando mucho, hija. Y ahorrando...
+E1: Y los, y los tenía internos en el colegio de Aguilar. [HS:I1 En el colegio de Aguilar,]
+I1: y después en Madrid y desp-, y Santander. [A-Inn]. [HS:E2 [Asent].] Tengo una que es médico. [A-PIn: Tengo otra que hizo Magisterio.] [HS:E2 [Asent].] Otro que terminó los estudios, que ya se colocó. Y otra..., otro que, que no ha hecho nada, pero ha estado por ahí, [A-Inn], estudiando, [A-Inn]. [HS:E2 [Asent].] Ese está trabajando en Aguilar, se va a ir a vivir allí. [HS:E2 [Asent].] Así que, mira.
+E1: ¿Y aquí los chorizos, nunca guardan los chorizos en manteca?
+I1: ¿Cómo manteca?
+E1: En vez de en aceite.
+I1: En aceite, hemos echado a lo mejor algo de manteca con el aceite. Pero mu poco, pero no manteca sola.
+E1: ¿No?
+E2: Es que la, la idea que tenemos de la manteca, o sea, no es muy exacta, ¿cómo es la manteca?
+I1: Pues oye, la manteca es una | cuando vais a una carnicería, digo yo, no sé si en las carnicerías tienen...
+E2: Ya no tienen, ¿cómo es?
+I1: Pues la manteca..., no sé cómo deciros que es. Es una cosa así blanca, en vez de ser carne, pues es manteca, donde sale, por ejemplo, la punta del cerdo, es... [A-Inn]. [R-Ind] Por ejemplo, [A-Nul], este periódico, así, [A-PIn: lo] pones así el periódico, pos sacas la manteca, queda así colgando como si fuese un... [A-Inn]. Pones un tra-, un trapo, un... palo aquí, le cuelgas y se queda frío, [A-PIn: queda así gordo], más gordo que esto, [HS:E2 [Asent].] [A-Pau: después] se parte, se va partiendo poco a poco, pa echárselo a las morcillas. Se deshace y, si te sobra, pos deshaces un poco y a lo mejor echas un poco a..., a la carne. [A-Inn] [R-Ppl] Es que está mi marido por áhi, ha andao con las perolas, [A-Inn]. [A-Crt] Está..., ha estao él con las perolas aquí, con [A-Inn]. [A-Crt] Porque es que... no sé lo que has puesto áhi tú.
+E1: |T3| Claro, pues lo he puesto mal. Porque como no... ¿Y qué pasa con las gallinas? ¿Aquí por ejemplo usted criaba pollos?
+I1: Sí.
+E1: Ha criado pollos.
+I1: Las gallinas, por ejemplo, una gallina pone un postón, pone | después se pone [L-Otra: lloca]. [HS:E1 [Asent].] [L-Otra: Lloca], eh. ¿Tú no sabes lo que es ponerse [L-Otra: lloca]?
+E1: Que se pone para...
+I1: Pues clueca, [HS:E1 Clueca.] clueca, sí. [HS:E1 Aquí, aquí lo llaman [L-Otra: lloca].] [L-Otra: Lloca]. Clueca, se pone clueca, ¿verdá?, la gallina, y cuando se pone clueca, [OTRAS-EM] ya es para echarla pollos. [HS:E1 [Asent].] La echas pollos, pero tienes que tener gallo, porque si no eso..., ya sabes tú. Si no tienes gallo, pues no, los pollos no salen. [HS:E1 [Asent].] La echas, y a los veintiún días, saca pollos. [HS:E1 [Asent].] Y esos pollos pues les crías, les das miga y pan, [HS:E1 [Asent].] eso y trigo, o pienso compuesto, [HS:E1 [Asent].] también pienso comprao. Y pones un gran cuco y ya, oye, salen a la ca-, salen a la calle, con las demás gallinas [HS:E1 [Asent].] y unos salen pollos, otros pollas, y cuando son grandes, los pollos los comes y las pollas pa, pa gallinas. [HS:E1 [Asent].] Eso es.
+E1: Y con los huevos, ¿qué hacen?
+I1: Comerlos. [HS:E1 ¿Sí?] Y si te sobran, vendes alguno [HS:E1 [Asent].] o los regalas.
+E1: ¿Y usted vendía habitualmente?
+I1: Oy, no he vendido muchos porque... ya te he dicho, tengo muchos hermanos y si vienen a verme pues les doy una docena de huevos. [HS:E1 [Asent].] Y se marchan más contentos.
+E1: [RISA] Sí, sí, sí.
+I1: Eso.
+E1: Pero normalmente no vendía los huevos, no.
+I1: No, normalmente no, para decir, oye, yo tengo un señor, tiene una señora [A-Inn] huevos. No, normalmente no, [HS:E1 [Asent].] porque tampoco tengo gallinas yo para vender, tengo más para, pa'l gasto de casa.
+E1: ¿Y conejos?
+I1: Conejos no he tenío nunca porque no m'han gustao.
+E1: ¿Por qué no le gustaban?
+I1: Pos porque no. No me gustan, son mu sucios.
+E1: [Asent]. Y, ¿qué hacían con los huesos de la matanza? Que se nos ha olvidado hablar de los huesos, ¿cómo...?
+I1: Pues comerlos.
+E1: ¿Sí?
+I1: Bueno, los huesos no. Se dejan con algo de carne. [HS:E2 [Asent].] Y la carne, pues...
+E1: ¿Pero, y no preparan los huesos de una manera especial, como...? [HS:I1 Sí, hombre,]
+I1: se adoban.
+E1: ¿Y cómo es el adobo? ¿Como el de los lomos?
+I1: Adobo es, en un... recipiente se echa..., pica un poquitín de ajo, se echa el pimentón, que tiene así un poco color a los huesos, y se les adoba y se les echa un poco de sal en una artesilla, [HS:E1 [Asent].] artesa, como has dicho tú, [HS:E1 [Asent].] una artesa. Yo, como artesas no tengo, pues en un barreñón, un barreñón que es un recipiente así grande. [HS:E1 [Asent].] [R-Inf] Les echo en el barreñón con la sal y a los tres días pues ya los saco porque ya han tomao la sal, y les pongo en una hornera. [HS:E2 [Asent].] Y después de aquí los voy comiendo, [HS:E2 [Asent].] voy comiendo, los voy comiendo, les echo al puchero o les pongo a cocer y la carne lo quito y lo echo con unas patatas, y los huesos se los echo al perro, que ahí está. O a la basura. [HS:E1 [Asent].]
+E1: A la basura. Y, ¿siguen conservando los utensilios de la matanza, por ejemplo el cuchillo?
+I1: Ay, yo no porque, mire, busco matazán.
+E1: Busca mataz-. Cómo lo llaman aquí, ¿matazal o matazán?
+I1: ¿Cómo has dicho? Mataz-, mataz-.
+E1: Matazán.
+I1: Matazán, yo creo.
+E1: ¿Con ene o con ele final?
+I1: Ay, se lo tendría que preguntar a mi marido porque yo soy muy despistada. Creo que hay una receta de un postre, y me lo han tenido que corregir, porque...
+E1: No, si yo digo que la | ¿cómo lo pronuncia usted? Matazán con ene.
+I1: |T1| [HCruz: [NP], ¿cómo es? Matazán, ¿verdá?]
+E1: Matazán. Entonces el matazán trae... [HS:I1 Trae todos los chismes él.] todos los chismes él. [HS:I1 Sí, señor,]
+I1: yo no me tengo que preocupar, no, no, eso, de nada.
+E1: ¿Y el banco, el banco sí que lo tienen?
+I1: Pues un banco como este, más que así, [HS:I2 Una mesa.] una mesa se llama, una mesa ancha. [HS:E1 [Asent].] Pero no la tengo aquí, tengo en el almacén.
+E1: No tiene aquí el, el..., ¿y el gancho aquí lo usan?
+I1: Ah, el gancho yo no sé si l'usan. El matazán que tuvimos este año no usó gancho, yo no le vi.
+E2: [HS:E2 [Asent].] O sea que fue rápido.
+I1: No sé cómo le cogieron. Con un cordel le deben de coger el chon, yo no lo sé. ¿Con qué cogen el chon? Si yo no lo sé con qué le cogen.
+I2: Con un gancho. [HS:I1 [HCruz: ¿Pero a quién? ¿Este año tenían gancho?]] Un gancho, con un cordel para, para...
+I1: [NP] sí, trajo gancho el otro año, pero yo no he visto gancho a | este año yo [A-Inn] gancho. [HS:I2 El padre.] [HCruz: Les he dicho que tenían que haber parao en San Andrés, allí...] [A-Inn]. [HS:I2 Que, que, que...]
+E1: Que él, no lo va a saber, ella claro que lo sabe.
+I2: Este, esto va a ser un trabajo artesano de verdá, eh.
+E1: Sí.
+I1: Sí, pero es que a mí no me gusta el chisme este y él lleva... [HS:I2 [HCruz: ¿Por qué?]] [HCruz: Porque no me gusta a mí salir ahí a...]
+I2: [HCruz: Oye, pues así sales en Madrid y en Jerusalén.]
+I1: Como aquella vez cuando vinieron con aquel carro, de ahí salieron las vacas, el carro y todo, [OTRAS-EM] el verano.
+E1: ¿Tiene carro usted todavía?
+I1: Sí, tengo carro. [HS:E1 ¿Lo conserva?] Luego os enseño el carro también, hombre. El carro sí os le voy a enseñar. Carro y la... Y cómo te | se llama... [A-Inn]. [HS:E1 ¿Y el trillo también?] Sí, pero, pero el trillo está muy lejos. [HS:E1 Bueno,]
+E1: vamos a, vamos a seguir con...
+I1: Bueno, ¿de la matanza ya está puesto todo? [HS:E1 Sí, ya está puesto todo.] Ya habéis puesto todo lo de los huesos y, y los salchichones también, que se hacen, cómo se hacen... ¿Ya lo habéis puesto también?
+E1: |T2| Sí, sí, todo. [HS:I1 El jamón.] Sí, sí. Vamos a, voy a preguntarle del pan. [OTRAS-EM] Usted dice que cocía. [HS:I1 Cocía. Sí.] ¿Y cómo?, bueno, cuéntenos primero cómo..., ¿había molino aquí?
+I2: Aquí no, pero cerca.
+I1: Había en un pueblo molino y lo llevaba mi marido, el trigo al molino, [HS:E1 [Asent].] y lo molían; la harina por un sitio y los salvaos por otro. [HS:E1 ¿Y qué hacían...?] Y los salvaos para los animales, pa los cerdos y la harina para cocerlo. [HS:E1 [Asent].] Y cocíamos, [HS:E1 [Asent].] en una artesa. [HS:E1 [Asent].] Una artesa, llamábamos una artesa que es así...
+I2: Una artesa [HS:I1 Cuadrada.] grande. [HS:E1 Sí.]
+I1: Se echaba la harina, [HS:E1 [Asent].] se hacía un hoyo, [HS:E1 [Asent].] se echaba la levadura. Por la noche...
+E1: ¿Y aquí cómo llaman a la levadura? [HS:I1 La lev-.] ¿No lo llaman el hurmiento?
+I2: Eso es. Eso se tiene que hacer por la noche.
+E1: Ah. Entonces cuénteme cómo es. [HS:I2 Antes se hacía el reciento.]
+I1: El reciento, el reciento se dejaba de una vez para otra, se dejaba en una cazuela, una tacita, una taza, lo que es una taza, esto es una taza o no sé cómo..., aquí lo llaman taza. [HS:E1 [Asent].] Pues se dejaba, cuando se cocía, un poquitín de masa, [HS:E1 [Asent].] que aquello era para otra vez. [HS:I2 Eso se llamaba el reciento.] Se llamaba el reciento. [HS:E1 El reciento.] Y a los ocho días que volvías otra vez a cocer, pues por la noche, en una escriña, una escriña, unos en una escriña y otros en una cazuela, [HS:I2 De paja [A-Nul] antigua.] de esa paja antigua, [HS:I2 Hecho de paja. Grande.] pues echabas la harina y un poquito de agua, como un cuartillo de agua, más, algo más, [HS:E1 [Asent].] y echabas el reciento. Lo deshacías bien y hacías como un pan, [HS:E1 [Asent].] un panecito, y lo dejabas ahí to la noche.
+I2: Eso se llamaba recental.
+I1: Eso se llamaba recental, recental. [HS:I2 Claro.] Y a otro día ya... amasabas. [HS:I2 Se echaba el pan.] [HS:E1 Se echaba la harina.] Se echaba la harina por la mañana [HS:I2 [A-Nul] pa que saliera el pan.] para hac-, amasalo con la harina, eso era la, la, la levadura.
+E1: [Asent]. Y eso... mezclaba entonces la harina con el reciento. [HS:I1 La harina con ello, con el,]
+I1: con el reciento de por la noche. Lo amasabas bien amasadito. Ya cuando estaba bien amasao, lo tapabas con unas maseras, llamábamos maseras, con una sábana, [HS:E1 [Asent].] cuando lo envolvías con una sábana. [HS:E1 [Asent].] Luego ponías una manta, una manta de lana o un [A-Inn] una manta...
+I2: [HS:E1 [Asent].] Pa que diera calor.
+I1: Pa que lo daría calor, lo envolvías allí bien en ello. [HS:E1 [Asent].] Y a la hora y media o así, o por áhi, pues ya, ya había levantao la masa, ya levantaba eso. [HS:E1 ¿Cómo llamaban]
+E1: levantar la masa?
+I1: Pues que subía. [HS:I2 Soltar.] Soltar, decían soltaba masa. [HS:E1 ¿No decían, no decían]
+E1: no decían yeldar?
+I1: No, yeldar era cuando decían que se había estropeao el pan, está como yeldo.
+E1: Sí, ¿aquí no decían para que cuando se abría la masa lo conseguía, que ya yelda o eso ya no, aquí no?
+I1: Eso de yeldo, oía decir cuando decía uno: "Ahí está el pan, parece yen-, yendo", o sé cómo decían las mujeres, yo no me acuerdo. Yo lo que sí que, cuando eso dejabas el pan ya tapao, la masa, que venías y decías: "Huy, mira que [A-Inn] hubiese soltao la masa". Se ha soltao, que había levantao ya, había crecido y con eso ibas y hacías el pan.
+E1: ¿Cuántos panes hacían?
+I1: Dieciocho, según el horno, lo que sería. Y luego yo, cuando era joven en mi casa hacía veintitrés, porque teníamos un horno muy grande y éramos muchos en casa, veintitrés panes.
+E1: Veintitrés panes. [HS:I1 Pero aquí en este, era más pequeño, [A-Inn].] ¿Y cómo preparaba el horno? ¿Tiene todavía el horno?
+I1: Sí.
+E2: ¿Todavía hace pan?
+E1: Todavía cuece. ¿Hasta hace cua-, hasta hace poco ha cocido?
+I1: Ocho años hará. [A-Inn].
+E1: ¿Y no ha tirado el horno? ¿No ha tirado el horno?
+I1: No, no lo he tirao. Está muy estropeado, pero no l'he tirao.
+I2: Pa qué lo vamos a tirar, que esté ahí.
+E1: No, ya, bueno, es que hay si-, hay sitios que tiran el horno, [HS:I2 [A-Nul] Sí, lo han tirao, sí.] por eso pregunto.
+I2: Muchos, muchos hornos los han hecho cocheras ya.
+E1: Por eso digo, que pregunto si... conservan el horno.
+I1: [A-PIn: El horno sí está] conservao. Hacíamos el pan y se dejaba el pan en soltaderos.
+E1: ¿Qué son los soltaderos?
+I2: Pues unos tableros, una tabla, [A-Nul]. [HS:I1 Pues unos tableros,]
+I1: unas mesas largas. Se ponía el pan allí y cuando el pan empezaba a abrise a la media hora o así, empezaba como a abrirse, [HS:E1 [Asent].] ya decíamos que estaba el pan suelto. [HS:E1 [Asent].] Trapeábamos el horno. El horno se enciende.
+E1: [HS:I2 [A-Nul]] ¿Cómo llaman lo de... encender el horno?
+I1: [HS:I2 Bueno... [A-Nul]] ¿Vamos a ir a verle? Aunque casi [A-Inn] el horno porque [A-Inn] ha puesto [NP] unos chismes por encima y no se pue entrar. [HS:E [HCruz: Gracias. Muchas gracias.]] Y... el horno se calentaba, [HS:E1 [Asent].] se echaba leña, se ponía unos palos, [R-Prt] unos troncos así, pa que la leña quedaría un poco más en el aire y ardería, se echaba un poco de brezo [A-Inn], ardería, [HS:E1 [Asent].] se echaba, se encendía, se echaba la leña, se iba echando la leña, se iba echando, se iba echando, se iba echando hasta que calentaba el horno. Se dejaba que ardería, ardía la leña, cuando estaba la leña bien quemadito ya, pues lo dejabas, lo esparcías bien por todo el horno para que cogería calor el horno. [HS:E1 [Asent].] Y ya cuando había cogido ya el horno calor... Además hay que hacerlo todo a nivel de..., de la masa. Por ejemplo, amasabas, a la media hora encendías el horno pa calcular que ya cuando tenías que hacer el pan y todo, [HS:E1 [Asent].] y ya cuando ya tenías el pan hecho y ya iba a soltar el pan, ya el horno ya también ya estaba el horno... blanco por arriba, [HS:E1 [Asent].] [A-Inn] ya trapeabas el horno. Trapear era con un palo, [HS:E1 [Asent].] y en el palo se ataba un saco. [HS:E1 Un saco, ¿no era un paño?] No, un saco. [A-Inn] Tiene que ser un, un saco, de esos sacos finos, no de esos fuertes, de esos sacos que había antes finos que parecían... Le atabas bien atadito a un palo que tenía así como dos ganchos, largo, con dos ganchos, y ponías el palo, le atabas con unas cuerdas, le mojabas en un cubo, echabas y trapeabas, traías to la brasa a la boca el horno. [HS:E1 [Asent].] Y cuando estaba la brasa ya a la boca del horno, ya todo bien trapeao, metías lo primero las tortas. Las tortas son las delgadas, unos panecitos así más delgaos, [HS:E1 ¿Y se echaba a...?] y a la torta, se las ponía a las tortas, por ejemplo, hacías seis, ponías tres tortas, echabas el aceite...
+E1: ¿Echabas...?, [HS:I1 Aceite.] es lo que le iba a preguntar, que qué echabas... [HS:I1 En cada...]
+I1: en las sei-, en las tres, luego hacías otra torta, la cogías y la ponías encima. [R-Anm] [HS:E1 ¿Ah, sí?, ¿ponían unas encima de otras?] Unas encima de otras. Luego aquellas tortas, antes de meterlas, las espinchabas así con el dedo.
+E1: [Asent]. No con un tenedor.
+I1: Ah, allí no llevabas el tenedor allí, porque a lo mejor se te olvidaba y se perdía. No, regla general, o con un palito, ya que tenías leña. Yo, por ejemplo, o sea tenía un palo hecho, muy majo, con... aparente, porque el dedo algunas veces a lo mejor [A-PIn: lo] tenías sucio y te se quedaba [A-Inn] to la ceniza en la torta; pues tenías un palo. [HS:E1 [Asent].] Con el palito les pinchabas, hacías cinco pinchos o los que te parecían, cogías la torta, ponías la... [HS:E1 Echabas un poco de aceite.] Sí, el aceite, pa que no se pegarían una con otra, porque si no se pegaban. Pa que no se peguen, echas el aceite, y para que | cuando se van a cocer las tortas, el aceite las da un color muy, muy gracioso y muy buen gusto. [HS:E1 [Asent].] Y la torta, la torta por arriba gusta muy bien. Lo ponías a la..., no me sale, la pala. La pala era pues una cosa así redonda con un palo, [HS:E1 [Asent].] bien hecha. La ponías a la boca del horno, [HS:E1 [Asent].] trapeabas [A-Inn] atrás, ponías la torta encima y metes la torta, para que la torta | metías la primera pa que cocería a la bravura del horno. [HS:E1 [Asent].] Metes la torta, la metes al horno, metes las, las que tengas, tapas, las dejas que cuezan media hora o lo que sea. Destapas a ver, no se quemen, porque según el calor que tenga el horno. Cuando está la torta cocida, ya la sacas, y seguido metes el pan, [HS:E1 [Asent].] los panes les tienes en el soltadero. Pues también, la pala...
+E1: Dice que los panes...
+I1: Les tienes en el soltadero, [HS:E1 [Asent].] en el soltadero, sí, les tienes en el soltadero, en, en la mesa. [A-Inn], [A-PIn: desde luego] os vais a reír un rato, eh, os lo vais a pasar muy bien. [HS:E2 No, no, en absoluto.] Y, y, [A-Inn] más, veréis. [HS:E2 Pero aprendemos mucho.] Y, y, y los pones y metes los panes, les vas colocando, porque el horno es así, redondo. [HS:E1 [Asent].] Es una pena. No os le puedo enseñar porque me ha puesto el hijo unos chismes allí por delante y no se puede abrir la puerta, [A-PIn: no pue-, no puedes entrar]. [HS:E1 [Asent].] Bueno, pues metes los panes, los vas colocando [A-Inn] horno, [HS:E1 [Asent].] y luego ya llenas el horno, lo tapas. [HS:E1 [Asent].] Tapas el horno y ya tienes cuidao, porque si el horno está muy caliente, tienes que tener cuidao a abrir a ver si tiene mucho calor. Cuando coja el hor-, el pan ya color, bueno, pues ya te parece [A-Inn] "pues lo voy a destaparlo un poco", y lo dejas pues cinco cuartos de hora, el pan en el horno. Porque los panes les hacíamos bastante grandes y gordos. Si les dejabas poco tiempo no se cocían, pero a la, a los tres cuartos de hora o así les movías los panes un poco, no hacías más que moverles un poco [A-Inn] a lo mejor había que sacar alguno, pa moverles, porque a lo mejor quedaban pegaos y hacían pegas. [HS:I1 Claro.] Yo les movía los panes pa levantarles del suelo y cocerían mejor por debajo. [HS:E1 [Asent].] Y con eso les teníamos cinco cuartos de hora, los sacabas, los metías en un..., les ponías en un sitio todos así bien puestos en fila y con una masera, la masera de... más gorda [HS:E1 [Asent].] pues tapabas a que sudarían. Porque yo, yo he vendido pan, eh, he vendido bastante pan por ahí a la gente. [HS:E1 Ah, ¿ha vendido]
+E1: pan?
+I1: A la gente que vendi-, a la gente que venía por áhi.
+E1: ¿Porque hacía un pan buenísimo?
+I1: Sí, les, les gustaba mucho el pan. Y yo, por ejemplo, cuando recién sacao el pan, no me gustaba venderlo. [HS:E1 [Asent].] Me gustaba más venderlo pues a otro día o que llevaría unas horas allí el pan. [HS:E1 [Asent].] Porque como sale con mucho calor, pues el pan allí, oye, si es que tú no veas qué calor despide, quitabas la masera y dispidía vapor para arriba, que no sé. Claro, decían que el pan empanaba allí.
+E1: Pero entonces, ¿metía los panes en un sitio especial?
+I1: No, no, no. En el mismo..., por ejemplo, las solta-, en las... tablas, [HS:E1 ¿En los soltaderos?] los [A-InfErr: tablenos,] tablones que había estaban pegando así, a la pared, [HS:E1 [Asent].] y en la misma pared, pues iba yo a poner yo los panes pinaos.
+E1: ¿Ah, pinaos?
+I1: Pinaos. [R-Inf]
+E1: Sí, sí, le entiendo, pero... [HS:I1 Pinaos, así, pinaos,]
+I1: pinaos sobre la pared, [HS:E1 [Asent].] sobre la pared pinaos. [HS:E2 [Asent].] Y una..., por ejemplo, una cosa que pondría yo allí para que no se caerían pa'l otro lao, pinaos. Y después que ya les ponía a todos ahí pinaos | puestos, los cogía y los tapaba, echaba un trapo así por encima, los tapaba, [A-PIn: y hala]. Y les tenía hasta otro día.
+E1: Hasta otro día.
+I1: A otro día los traía. Sí, porque como no nos hacía falta el pan, porque el pan..., regla general... [R-Anm] Hombre, si no teni-, hacíamos la torta, [HS:E1 [Asent].] porque el pan, aquel pan, el pan de panadero te gusta mejor... A mí lo que cuezo, lo que cuecen ahora no me sabe mejor a otro día, lo de estos panaderos de aquí. Pero, por ejemplo, la barra que compras o el pan de... Yo voy a Madrid o voy a Ávila, o voy, [A-PIn: donde] tengo los hijos a Santander, pues yo voy a comer el pan y ya a otro día parece que está | tiene correa. [HS:E1 [Asent].] Debe tener el pan, como de... que se hacía en casa no, tiene una correa, una correa que no hay quien lo coma, y el pan que cocíamos no, estaba mejor a otro día, o a otro mejor que, que el primer día.
+E1: Mejor.
+I1: Y por eso hacíamos la torta. [HS:E1 [Asent].] Digo pa que comía, cogía la bravura del horno, y otro porque aquel día ya la torta estaba muy rica, estaba muy rica con miel. Con, con miel y nata está... Tenías vacas, las vacas, [HS:E1 [Asent].] pues la nata pues lo quitabas y tenías pa merendar con miel, con azúcar, como querrías.
+E2: Y la nata, ¿me habla de la nata? [HS:I1 ¿Eh?] La nata me la explica...
+I1: La nata, te voy a enseñar la cazuela. [A-Crt] [A-Inn] está la vaca recién parida, [A-Inn]. Mira, la nata | se hierve la leche [HS:E2 [Asent].] y, y al enfriarse, pues las grasas sube arriba, y la nata. Esto se quita con una cuchara o un plato y está muy rico, al que le guste, con miel, con azúcar, con lo que quieras. Y de esto, esta nata, cuando tiene varios días, lo puedes deshacer, lo echas a la sartén. Puedes hacer mantequilla.
+E2: Eso es lo que...
+I1: De esa nata, después que tiene tres o cuatro días o los que quieras, si tienes un recipiente, lo das vueltas y se hace la mantequilla. Cuando da muchas vueltas, se pone como arroz con leche, que es como queda el arroz con leche, que parece que quedan los granos por un lao y la leche por otro. Pues esto se queda, la manteca, lo que es la manteca, se queda solo y lo que es... ya no manteca, que queda como leche, pues va por otro sitio. Lo aprietas y sale y queda la mantequilla sola, [HS:E2 [Asent].] y la..., lo que es la mantequilla, que es muy rico. Pero si no quieres hacer mantequilla y lo quieres deshacer, pues lo deshaces y se queda la manteca por un lao y lo otro por otro, que lo llamamos heces. Yo así se lo oía a, a mí padre y a mi madre. Yo en esta casa no sé si lo oí a mi suegra [R-Anm] o no, pero yo en casa sí; heces, que muchas veces lo deshacíamos y de esto sale muy rico el pan frito.
+E2: ¿Qué es eso del pan frito?
+I1: El pan, freílo, para desayunar.
+E1: ¿Con el suero de la...?
+I1: Con la, con la mantequilla esta.
+E1: Ah, con la mantequilla.
+I1: Con la mantequilla esa.
+E1: Ya, ¿pero no es la mantequilla original, sino...? [HS:I1 No, la mantequilla]
+I1: original, no. [R-Anm] La mantequilla original, [R-Anm] la mantequilla original se hace y se da vuelta en un recipiente y queda como arroz con leche, pero después ya l'aprietas con una cuchara... bien prieto. Lo vas apretando, lo vas apretando y va saliendo la leche por un lao y queda la manteca por otro. Y entonces ya coges, ya cuando l'has quitao bien toa la... ¿Cómo se llama esto? [CARRASP] No me acuerdo cómo se llama esto que sale... Mazaos, decían los mazaos. Y luego esto lo quitas, lo tiras o haces lo que quieras con ello, y queda la manteca sola. Ya cuando ya está bien, bien limpia la manteca, que ya es manteca sola, pues coges y en un plato mismo la haces con una cuchara en forma de redondo, como este, como este tarro, [HS:E2 [Asent].] forma redonda. [R-Anm] Y te queda una mantequilla, que antes se vendía mucho, pero ahora ya no he visto, ahora con eso de la margarina, la Natacha y to esas cosas, yo no he visto en las tiendas nunca mantequilla, y antes sí, se vendía mucho, mantequilla de vaca. Yo me acuerdo mucho verlo en, en las tiendas de ultramarinos, pero mantequilla de vaca, que..., oye, que lo llevaban y era hecho así, natural, pero ahora yo ya no lo he visto.
+E2: ¿Porque de mantequilla, solo con la leche de vaca, no con otra leche?
+I1: Pues, mira, dicen: "Leche de cabra, queso de oveja... y manteca de vaca". No sé si lo he dicho bien, no sé si [A-PIn: se dice] así.
+E1: Aquí di-, aquí para mantequilla le llaman manteca, ¿verdad?
+I1: Sí, mantequilla, manteca, manteca, y manteca de, mante-, mante-. [OTRAS-EM] Pues, bueno, vamos a decir mantequilla: mantequilla de vaca, leche de cabra y queso de oveja.
+E2: ¿Y qué diferencia hay entre la, la leche de cabra y la de oveja y la de vaca? [HS:I1 Ah, pues, pues]
+I1: mucho, pa los quesos. Y si no vosotros cuando compréis queso allí en Madrid, que en Madrid hay muy buen queso, por lo menos en un supermercao donde lo compra [A-Inn] algunas veces mi hijo, [R-Anm] [A-Inn], pero bueno, un capricho, pero bueno. Sin embargo, el queso es man-, el queso manchego, eh, por ejemplo, no sé si es por Ciudad Real o por ahí, no sé por dónde es, es un queso muy bueno, muy bueno. La Mancha. Eso es queso..., además lo deben de vender queso en aceite, porque a mí eso... el yerno, cuando sale a por los enfermos o lo que sea, algunas veces me lo ha mandao. Pero eso es queso de, de oveja. [R-Anm] El queso de la leche de oveja para hacer la..., el queso, es más..., sabe mejor, y el queso de vaca, oye, sin embargo, la mantequilla... El queso, la leche de oveja, de cabra a mí no me gusta, pero... [A-Inn] No hace tanta nata, es más leche, leche. [R-Anm] Ahora en las fábricas se hace el..., el queso de todo, eh, [HS:E1 [Asent].] de vaca, de oveja, de cabra, y de todo envuelto, [HS:E1 [Asent].] porque lo pone en los quesos. [R-Anm] Los quesos grandes que compras se... ahí pone de qué son los quesos. [HS:E1 [Asent].] [R-Anm] ¿Os habéis enterado ya?
+E1: Sí, bueno. ¿Le preguntamos más cosas?
+E2: Sí, yo...
+I1: [A-PIn: Lo de trillar]. Espera un poco. Ya estáis, os habéis enterado de esto, ¿no? [HS:E2 Sí,]
+E2: de esto sí. [HS:E1 Sí.]
+I1: Pos esto lo vamos a retirar. [R-Cas] Y esto que dices del pan frito. Mira. Esto..., [R-Ind] tú cuando vayas a desayunar por la mañana, te gusta a lo mejor desayunar pues unas rebadañas, no sé cómo las llaman, de pan, a lo mejor de pan Bimbo o así, [R-Anm] y las untas margarina y azúcar o en to caso..., [HS:E1 Sí.] algo así. Bueno, pues en vez de untar, y las, y luego lo tomas con la leche o echas mermelada. Pues esto... mi hija lo suele freír y lo pone bien torruscadillo, [R-Anm] porque dice que coge menos manteca, lo fríe y dice que la gusta muy bien con la leche y está muy rico con chocolate, las tostadas con chocolate, con esto. Y yo lo uso pa hacer torrejas. [R-Anm] Ya sabéis cómo se hacen las torrejas, ¿no? [HS:E1 No,]
+E1: no, díganos [A-Pau: qué es eso.]
+I1: Ay, vos voy a dar una receta de las torrejas. [A-Inn] No la he hecho yo, pero me la han dao. Las torrejas [A-PIn: me las ha hecho mi hija]. [A-Crt] [R-Ppl] Orejuelas. [A-Inn] [A-Crt] Seis huevos... Orejuelas pa seis huevos. ¿Tú has puesto orejuelas? O-, orejuelas o... [HS:E1 No, he puesto orejones.] Orejones. [HS:E1 Orejones.] Bueno. Seis huevos, un vaso de los de agua de orujo. [R-Anm] Eso, pa que te las haga tu madre. [RISAS] Un vaso de anís, la misma cantidad, ¿eh? Un vaso de anís. Otro de aceite, hay que calentarlo el aceite. Otro de azúcar. Una cucharada de bicarbonato, no muy llena. Un chorro de anís, un chorro de esencia de anís.
+E2: ¿Y qué es eso de esencia de anís?
+I1: Pues eso se compra en la farmacia, dices esencia de anís, te dan un frasquito así y, hala. [R-Anm] Espera, y harina lo que lleven, hay que amasarlas, [HS:E1 [Asent].] harina lo que lleven, eso tú no entiendes, pero tu madre pue entender porque hará alguna cosa de... [HS:E1 [Asent].] Digo yo, yo no sé las madres vuestras. [A-Inn] yo, la cocina se me da bien, pero... Hacerlas, hacerlo todo junto en un cuenco, batir los huevos, y el aceite caliente con una..., el aceite caliente. Ah, calentar el aceite, batirlo..., los huevos, el aceite calentarlo con una corteza de limón y luego dejarlo enfriar. La masa se deja soltar veinte minutos, y luego después se hacen, y alguno también. Luego se hacen, encima de la mesa, estirarlo bien con una botella, o un... molde para estirarlo, estirarlo, hacerlas bien finas y freírlas, en bastante cantidad de aceite. He dicho con una botella porque hay quien... [A-Inn]. ¿Quieres más cosas? ¿Más recetas? [HS:E1 No, más recetas no, mejor que nos hable de...] Bueno, pues entonces no os doy más recetas. Entonces, [HS:E2 Del, de los cultivos.] entonces vamos a hablar ahora de qué, ¿del trigo?
+E1: |T7| No, de, de, las vacas, no... [HS:I1 ¿Las vacas?]
+I1: Pues las vacas, oye, pues mira, las vacas, ¿y qué te voy a decir de las vacas? Las vacas, oye.
+E1: Las vacas, cuando van a parir, ¿qué hacen? ¿Llaman al veterinario?
+I1: [TOS] Cuando las vacas van a parir... pues no sé qué te diga.
+E1: ¿Cómo hacen para llegar...?
+I1: Pues algunas veces no llamabas al veterinario, el otro día casi le tuvimos que llamar, porque el otro día, pero ya no hubo remedio, pero bueno. No, no, no, no pongas eso.
+E1: No. [A-Crt]
+I1: Las, [OTRAS-EM] para, para ayudarlas a las vacas, para ayudarlas a, a parir.
+E1: ¿Aquí el ternero le llaman jato?
+I1: Claro, a parir, para ayudar a salir el ternero. Sí, le llamamos jato, para... [HS:E1 No, es que en muchos]
+E1: sitios le llaman jato, pero... [HS:I1 Sí, sí,]
+I1: también nosotros le llamamos jato, te lo digo normal... [HS:E1 Lo más normal, ¿no?] Y..., y eso se, les ayudamos, pero en regla general, de no ser algún caso que el ternero venga mal, miramos a ver si el ternero viene mal o no. [HS:E1 [Asent].] Nos ponemos un guante de... [HS:E1 [Asent].] plástico, guante de esos finos. Miramos a ver si el ternero viene bien, cuando la vaca está ya de parto, ya... está el, el ternero, el ternero apuntando, y si vemos que la cabeza viene bien, pues nada.
+E1: Le, le dejan a... [HS:I1 Lo dejamos.]
+I1: Si viene mal, pues llamamos al veterinario. [HS:E1 [Asent].] Pero también se dan casos, a nosotros el otro año, una que parió dos y el uno, pues venía con las patas de atrás..., no te sé decirlo; las traía mal y no salía. [HS:E1 [Asent].] Y tiramos muchísimo, hasta con un tractor, [HS:E1 ¿Con un tractor?] hasta, hasta arrastramos la vaca a la calle. [HS:E1 Ay, pobre.] [A-Inn] hemos hecho nunca, lo que nos ocurrió. Y tuvo que venir el veterinario, le sacó ya muerto, claro, porque ya cuando vino el veterinario, el veterinario le llamamos y todo, aunque tenemos teléfono, pero en cuanto le llamamos ya..., el, al jato le sacó mue-, muerto. Y luego vio el veterinario que tenía otro, y tenía otro la vaca.
+E1: ¿Tenía otro? [HS:E2 ¿Otro ternero?] [HS:I1 Y a las...] ¿Eran dos? Y por eso era un parto tan complicado.
+I1: Y a las seis, ocho horas...
+E1: Pobre vaca. Después de... [HS:I1 A las]
+I1: ocho horas, después de to la tarde pa allá y pa acá, la vaca ya se levantó, después de mucho tiempo, se levantó. Y a las ocho horas, ya vimos a la vaca, mi hijo vio a la vaca y dijo: "Papá, papá, mira la vaca, que no sé qué tiene la vaca, que yo creo que no sé qué, que está aquí la vaca tumbada, que empuja, que empuja". Fuimos y la vaca que ha, que se ha asomao un ternero, se asoma otro, ya, pues eso, muerto. [HS:E1 ¿Y no se habían]
+E1: dado cuenta que estaba muy gorda?
+I1: Pues sí, habíamos visto que tenía mucha tripa, pero como el que parió era grande, pues oye, echó mucha agua y eso y así nos quedamos. Oye, ¿y el veterinario?
+E1: No se dio cuenta. [HS:I1 Que, que,]
+I1: que le sacó el ternero.
+E1: ¿Y la placenta?
+I1: Pues la placenta, esperar a ver si la echaba. La suelen echar y el veterinario pues a veces la echa, pero, mirar la vaca, mirar la vaca, hasta que, que, que vio otro.
+E1: ¿Y ese ya nació vivo?
+I1: No, no, nació muerto también.
+E1: Caray. Pues menuda broma. ¿Con los terneros qué hacen?
+I1: Los terneros, venderlos. [HS:E1 [Asent].] Si son terneras, se recrían si se quiere. [HS:E1 [Asent].] Los terneros venderlos a los, según, a las tres semanas, los quince días, entre-, [HS:E1 ¿Para carne?] entregábamos la..., ahí, ahí ya no lo sé.
+E2: ¿En algún mercado?
+I1: [OTRAS-EM] Vienen a comprarles a casa, les llevan a Torrelavega. [HS:E1 [Asent].] [V-Sml] [A-Inn] o pa cebaderos, yo creo que les deben de llevar, digo yo, no sé pa qué les llevan.
+E1: Ya, ya, ya. ¿Y las vacas son de leche? ¿Son de estas que son pintas? ¿No? [HS:I1 No, no,]
+I1: no, son ratinas, las vacas ratinas.
+E1: ¿Cuáles son esas?
+I1: Mixtas.
+E1: ¿Mixtas? ¿Pero qué son, de carne? No, no son blancas. [HS:I1 No, no, no, no,]
+I1: no, son, son ratinas de..., son de un color solo.
+E1: ¿De un solo color?
+I1: Claro. Como esa puerta, así, ratinas, claras, [HS:E1 Sí, claras.] lo que es ratinas.
+E1: [Asent]. Que es la vaca típica de aquí.
+I1: Sí, vamos, no, no, hay muchas ratinas, eh, o sea, hay muchas pintas, eh. [HS:E1 Es que hay muchas pintas, pero es que...] Ahora hay mucha gente que tienen vacas pintas y tienen tanque y todo eso. Yo no tengo tanque porque yo me he retirao, ahora yo me he jubilao y ya... [HS:E1 No le...] [A-Inn] No, [A-PIn: no entrego leche]. [HS:E1 [Asent].] Yo si, por ejemplo, hubiese tenido algún hijo aquí, pues ya sí, pero a mí no me compensa tampoco tener los hijos aquí, [HS:E1 [Asent].] [A-Inn] estudiando.
+E1: Y cuando quieren preñar las vacas, ¿cómo hacen aquí?
+I1: Llamar al veterinario.
+E1: Ya, por eso, que no es con semental, ¿no? Porque en otros sitios...
+I1: No, no, no, no, [A-PIn: viene] el veterinario.
+E1: El que hace, hace la inseminación artificial. [HS:I1 Sí.] Y eso aquí es muy normal, en todas partes, ¿no? ¿Por qué hacen eso?
+I1: Yo creo que sí, no sé, yo no te puedo decir. Porque será más cómodo.
+E1: [Asent]. ¿Y antes cómo era?
+I1: Antes llevaban las vacas a algún pueblo donde había toros.
+E1: [Asent]. Sí, una vez al año, dos veces al año.
+I1: No, una vez al año, las vacas solo una vez al año paren.
+E1: Nada más.
+I1: Hombre, pues paren y a lo mejor a los dos meses o tres que tardan en salir. Después tardan en parir nueve meses, pues mira, una vez al año. [HS:E1 [Asent].] Y van carne y ole y ole, y al mes te piden cría y te tienes que aguantar.
+E1: Claro, como esta que perdió, ¿no? Fíjese.
+I1: Bueno, piden cría porque a lo mejor están un año sin torarse, sin salir de toro, se llama, sin, sin... [HS:E1 ¿Torarse se llama?] Sin..., no sé cómo se dice, [R-Inf] no me sale ahora, no sé decirte. Vamos, sí, nosotros le decimos así, pero no se dice... La palabra, la palabra mejor dicha no es así, porque [A-Inn] la hija, que es médico, pues me dice: "Tú, mamá, ya...". Digo: "Oye, ya no me veo, ya no me podéis conmigo, ya soy muy mayor, yo con sesenta y cinco años ya no me vais a, a hacer ya de otra forma". [HS:E1 [Asent].] Pues claro, no se dice así, se dice a..., cuando da el celo, eso. [HS:E1 [Asent].] Se llama, se llama al veterinario. Y viene, y la insemina y, hala. [HS:E1 [Asent].] Y a lo mejor tuvo otra vez hacer salida, que se dice. [HS:E1 [Asent].] Se dice el veterinario porque hace él, te hace una hoja... [HS:E1 [Asent].] con la inseminación. Y a lo mejor a las tres semanas, pos otra vez a hacer salida y tienes que llamarle otra vez. Y a lo mejor te la tie que limpiar. Tos esas cosas, porque a lo mejor la vaca por lo que sea, tiene un quiste o tiene un... [HS:E1 ¿Y hay que hacer controles]
+E1: sanitarios a las vacas ahora, más que antes?
+I1: Sí, porque ahora te las miran todos los años.
+E1: ¿Y qué hacen para mirarlas, qué...? [HS:I1 Pues]
+I1: vienen... unas chicas o chicos que están haciendo la campaña de inse-, de..., para vacunarlas. [HS:E1 [Asent].] Para, las vacunan contra la bacilosis y la tuberculina. [HS:E1 [Asent].] Las vacuno yo una vez al año, y si te salen bien, a nosotros ya... estos años, no nos ha salido ningún año.
+E1: ¿No han tenido problema?
+I1: No, nosotros no, no hemos tenido ningún problema. Le tuvimos hace venti... algún año, que tuvimos que quitar toa la cuadra.
+E1: Anda, qué mala... [HS:I1 Hicimos cuadra nueva]
+I1: y desde entonces ya no.
+E1: Y..., vamos a cambiar un poco de tema, las ove-, [OTRAS-EM] ovejas ha dicho que aquí no hay casi, ¿no? ¿Aquí hay gente que tiene rebaño de ovejas? ¿No?
+I1: No, ahí en San Andrés hay uno que tiene un rebaño de cabras. Nosotros las hemos tenido hasta hace poco, pero ya no están. [HS:E1 ¿Ah, sí?, ¿han tenido?] Sí, y ahora pues vas con ellas... Es coronada, oye. Pues luego... echarlas al monte a pacer y cuidarlas.
+E2: ¿Y después?
+I1: Y paren los chivos y los vendes de lechazo, o les crías o les comes en casa. La carne de lechazo es muy rica.
+E2: ¿Y lana?
+I1: Pues la lana de las ovejas, las..., se esquilan por san Pedro, una vez al año. Y la lana antes se vendía a, a, a..., ¿qué te diría yo? Pues a unos señores que venían por ahí que se llamaban pellejeros, pellejeros que compraban pieles. Y si no... se vendía...
+E1: ¿Y compraban bien la lana? ¿Pagaban bien?
+I1: Hace muchísimos años sí, pero después [A-Inn] ya no, ya nada, ya no lo quería nadie.
+E2: ¿Y por aquí cómo es la lana? ¿Cómo?, ¿qué tipo de lana es?
+I1: Pues negro, blanco, según. Pues lana, lana, lo que, lo que son..., como las ovejas. ¿No has visto las ovejas por áhi en algún sitio?
+E2: Sí, pero...
+I1: Por áhi, por... [OTRAS-EM] Yo cuando he ido a Madrid, ¿dónde he visto ovejas? Sí las he visto en algún sitio, sí.
+E2: ¿Pero entonces, cómo...? Es que hay muchos tipos de lana, ¿cómo era por aquí?
+I1: Pues ne-, y negra y blancas, pues, pues lana, pues... lana, lana, lo que es un remellón de lana.
+E2: ¿Y con ella se tejía, se...?
+I1: No, no, no, la lana, la lana de las ovejas, antes, antes lo ca-..., lo... hilaban, lo lavaban, lo hilaban. Tenían unos aparatos, pero yo no sé... Vi que sí les había, pero yo no me acuerdo de ellos. Lo... hilaban con aquellos aparatos y después lo cardaban primero yo creo. No sé si lo cardaban o [A-Inn]. Lo hilaban y hacían ya la lana, lo, lo que es la lana pa tejer. Pero, yo no sé ni cómo lo hacían ni cómo nada. Con un..., [OTRAS-EM] ya le digo, ha sali-, ha salido en la televisión hace poco una mujer... hilando, con unas cosas, no sé, no sé cómo son, no te [A-PIn: los] puedo decir, lo he visto en la televisión [A-Inn].
+E1: ¿Y miel?
+I1: ¿Y miel? Pues las moscas, las abejas.
+E1: Aquí las llaman las moscas, ¿no?
+I1: Y abejas.
+E1: ¿Y moscas de miel o...?
+I1: Abejas, abejas. [HS:E1 ¿Abejas?] Abejas, abejas.
+E1: ¿Usted tiene?
+I1: Yo, si te digo que sí te miento, y si te digo que [A-Inn], tengo algunas, sí.
+E1: Entonces, ¿cómo es el tratamiento de la miel? ¿Cómo se trata las abejas? [OTRAS-EM] ¿Cómo, cómo?, ¿tiene colmenas artificiales o cómo...?
+I1: No, no, unos dujos, unos dujos de antes.
+E1: Cuéntenos cómo es eso.
+I1: Pues un... trozo de pi-, de, de madera gordo. [HS:E1 [Asent].] Hueco por dentro. [HS:E1 [Asent].] Con agujeros como estos. [HS:I1 Sí.] Donde salen las moscas, ahí están metidas, cuando llega ya noviembre o así o diciembre, vas a catarlas; llevas una humera...
+E1: ¿Qué es una humera?
+I1: Un fuelle, que echa humo, tú sabes lo que es humo, ¿no?
+E1: Sí.
+I1: Bueno, pues, un fuelle que le apretas y echa humo. O si no es una humera, [A-Inn] pero que salga humo. Le das humo..., tiras la colmena... Te lo digo porque esto lo he hecho yo, y otras cosas [A-Inn] no te las puedo decir porque no las has hecho. Das humo pa que las moscas se suban para arriba, tiras la colmena. [HS:E1 [Asent].] Ves la miel, con un catador, una cosa que es así larga, de hierro, [HS:E1 [Asent].] que es por alante plana y por el otro lao es así, una cosa. Quitas los panales. [HS:E1 [Asent].] Sacas la miel, lo que te parezca, les dejas pa ellas pa que coman, que si no se mueren. Lo que te parezca, lo echas a un recipiente que lleves, un balde, llamamos balde, un barreñón, lo que lleves. Lo echas, vuelves a, a poner la colmena en su sitio. Las das un poco humo, a las moscas, y con eso ya está. [R-Inf] Pones la piedra que tenía encima, pa que no se mueva la colmena y ya está catada. [HS:E1 [Asent].] Y esas son las colmenas de antes, las de ahora son mov-. [HS:E1 Catada... quiere decir que le ha quitado toda la miel.] Catada, que la he quitado la miel, no todo, porque entonces se mueren las, las co-, las moscas, eh. Hay que dejarlas pa que ellas coman también. Ahora, en las movilistas, eso ya, eso, eso lo tiene cualquiera, los que tengan muchos movilistas, pero yo... [HS:E1 ¿Qué son]
+E1: movilistas?
+I1: Pos movilistas, las artificiales, las que son, que son cajones, que les tienen que poner los panales y tos esas cosas y tienen un aparato para sacar la miel. [HS:E1 Sí, eso...] Tú has co-, tú has comprao miel de San Francisco y de to esa miel, ¿no? Que es así muy clarita, ¿no? [HS:E1 Sí.] Pues lo mío no es claro, lo mío es duro.
+E2: ¿Y con la miel, qué se hace? O sea, una vez que la hemos..., la, la ha catado...
+I1: Pues, pues colarlo. Después apretarlo, apretarlo y sacarlo la cera. Y después que has sacao la cera, lo echas en un capillo, una cosa que es una cosa que es esta forma así, por ejemplo. [HS:E2 [Asent].] Así, de este pico, lo echas por aquí, pa, pa que vaya corre-, cayendo, metela, vaya cayendo en un balde y ya tienes la miel colada. Después lo echas en tarros, donde quieras.
+E2: ¿Y la cera?
+I1: La cera, pues pa nada, pa, para venderlo, pa que hagan... cosas, la... De la cera salen muchas cosas, sale la cera pa los pisos, salen pa los muebles, sale... para... la, las, las velas, muchas cosas sale de la cera, creo. [HS:E1 ¿Usted hace]
+E1: velas con la cera de sus...? [HS:I1 Yo las]
+I1: he hecho, pero ya no, porque ya es que hace falta, para hacer la cera para las velas, hace falta un aparato, y hay que cocer la cera.
+E1: A ver, cuéntenos cómo es eso.
+I1: Hay que cocer la cera, después la cera se echa a unos calderos. [HS:E1 [Asent].] Y se calienta y se cuece. Y cuando está la cera cociendo, hay que apretarlo, con cuidao que no te se queme. Hay que echarlo a unos baldes, con agua fría y la cera sube, con el agua fría, sube arriba, lo que es cera, lo que no es cera, lo que es basura, queda abajo. Sube arriba, y lo vas apretando, lo vas sacando, lo vas apretando, y te queda la cera, te queda así... [HS:E1 ¿En bolitas? ¿O de...?] En bolitas. [HS:E1 En bolitas.] Pero aquellas bolas..., después hay que volverlo otra vez a cocer. [HS:E1 [Asent].] Y ya te queda ya hecho en tortas que llamábamos, porque lo echas en una palangana y eso tú, o en una fuente de esas que hay redondas, hondas, de esas hondas, echas debajo agua, [HS:E1 [Asent].] pa que no se pegue. Y lo echas, y te queda unas tortas, ¿cómo te diría yo?, pues un..., una cosa así, como si en este [R-Ind] metemos un queso y le sacamos, pues así te queda eso, le llamábamos tortas, pero tortas de cera.
+E1: Pero con esas tortas, ¿qué hacían?
+I1: Pues esas tortas, pues para hacer eso, las velas.
+E1: Las velas.
+I1: Antes en estos tiempos, yo me acuerdo que yo tenía diez años, cuando se murió mi abuelo, un abuelo mío, viudo, pues entonces era costumbre de..., el día del entierro pues poner muchas, muchas luces. [HS:E1 [Asent].] Y hacían las velas en casa. Y yo me acuerdo de pequeña cómo mí madre, con otra cuñada y otra cuñada, [HS:E1 [Asent].] estaban haciendo las velas allí pa poder llevarlas a la iglesia. [HS:E1 [Asent].] Y las hacían las velas. Yo eso también después las hice. Pues haces la vela, un trozo de, de cera, por ejemplo, como [A-PIn: es así] la mano mía. Y lo dejas así llano, y metes el pabil, pabil, ¿sabes lo que es el pabil? Así, [HS:E1 El cordón, ¿no?] el cordón, el cordón, lo metes en el medio, y las juntas. Juntas, procuras, porque el, el pabil, el cordón quede en el medio y las pones bien. Y luego encima de una mesa así, las estiras y te quedan pues lisas y mu guapas, queda pues muy guapo, lo que es la vela: ya, pues amarillas, muy bonitas, las velas. Amarillas, porque era la cera amarilla y aquello era cera virgen. Porque lo que comprabas... No, antes, antes en aquellos tiempos, en aquellos tiempos de antes, que ahora ya como la iglesia nada, yo, aquí, ya nos vamos a meter en eso, porque a vosotros, vosotros ya seréis de ello, pues antes a las iglesias, en los altares, tenía que haber cera virgen, por lo menos un par de velas, ahora ya, ya no. [HS:E1 ¿Por qué?]
+E1: ¿Para qué? Para...
+I1: Pues porque, porque lo decían así antes, los de antes, los sacerdotes. Yo estuve mucho tiempo con un sacerdote, porque era familia y era pequeña y, y me llevaban allá muchas veces. Y tenía sus hermanas... [HS:E1 Y, ¿por qué? Porque olía mejor o...] No sé por qué, porque decían que allí había, que el santísimo, el santísimo siempre tenía que estar lumbrao, ahora también me parece que está siempre alumbrao, porque yo... [HS:E1 ¿Qué es lumbrao?] Alumbrao, alumbrao. [HS:E1 Ah, alumbrao.] tener luz. [HS:E1 [Asent].] Yo, cuando entro en las iglesias, siempre he visto luz y en alguna catedral y eso siempre hay una lamparilla.
+E1: [Asent].
+I1: Ya te digo que yo, yo era de iglesias, digo que vosotras no..., no vengas a meternos en eso, porque a lo mejor decide irse a otro lao. [RISAS]
+E1: ¿Qué pasa?, ¿que nota un gran cambio respecto a las creencias?
+I1: |T11| ¿Ahora, de antes?
+E1: Sí. [HS:I1 Hombre,]
+I1: hay un cambio grandísimo, hija.
+E1: ¿Para peor?
+I1: Bueno, no, por desgracia sí, por desgracia para peor.
+E1: ¿Y qué es lo que ha cambiado, qué nota que ha cambiado? [HS:I1 ¿Pues cómo que noto que ha cambiado?] ¿Antes qué, que la gente cumplía más...? Se le... [HS:I1 Antes, antes, antes era obligación ir a misa.]
+I1: Era obligación cumplir con pascua, era obligación saber el catecismo, era obligación muchas cosas. Ahora ya ni hace falta confesar, ni hace falta ir a misa, ni hace falta, ni hace falta, ¿tú sabes lo que es expo-, la exposición del santísimo? No creo que lo sepas porque, a lo mejor, a lo, a lo mejor no vas a misa, no lo sabes, no sabes nada de eso. O sea que, por eso te digo, que en la cosa de la iglesia no vamos a meternos.
+E2: ¿Y ya...?
+I1: No nos vamos a meter, porque yo, mira, son cosas que no me gusta hablar na más que con mis hijos. [HS:E1 Ah, bueno,]
+E1: bueno, bueno.
+I1: No, porque mira, yo, yo, yo..., nosotros hemos tenido bar, eso, eso, ahí se abría, y ahí adentro había bar, teníamos bar. [HS:E1 Ah.] Y nosotros [A-Inn] mi marido y yo, por ejemplo los hijos, a lo mejor había misa a la víspera. Y ellos se quedaban aquí en el bar y nosotros nos marchábamos. "Luego volvemos", y la gente no sabía dónde íbamos, la gente veraneante que venía por áhi. Pues no, porque oye, hay mucha gente que no le gusta ir a misa y yo no me meto en la opinión de cada uno, oye, cada uno es su mundo. [A-PIn: Punto.] [R-Inf] [HS:E1 [Asent].] Yo, por ejemplo, oye, yo soy creyente y me gusta creer y eso es como los partidos y esas cosas, yo en política no me gusta meterme. [HS:E1 ¿Y antes,]
+E1: qué es lo que le pasaba al que no cumplía con las obligaciones esas?
+I1: [OTRAS-EM] Pasaba, sí lo que pasaba, pues nada, oye, cada uno era cada uno. El que no cumplía, antes [A-Inn] mayoría, to'l mundo iba a la misa y todo el mundo, oye, [A-Pau: iba]. [R-Inf] Y había un entierro y, eh, oye, se hacía ahora, pues [A-Inn] mucha gente que no pasa por la iglesia, pues, cada uno, el que no es creyente... Yo he estao un día hace poco en misa y había una señora con una niña, una niña pequeña, el Miércoles de Ceniza, [OTRAS-EM] con... Oye, pues al dar la ceniza, [A-Inn] me di cuenta [A-Inn] la niña que no la dieron ceniza, y después lo comentaba yo con mi hija y me, y me lo explicó, claro, dice: "Mamá, no se l'han dao por esto". Y, claro, tú, tú lo sabes porque, porque trabajas mucho en ello, pero yo, oye, yo me parecía que una niña pues no estaría bautizada o eso qué sé yo, que se la llevaba la abuela a... La habían dado la ceniza también.
+E1: ¿Y por qué no se...?
+I1: Porque, oye, si no es creyente, [HS:E1 Ah.] si la niña no es cristiana...
+E1: ¿Que no está bautizada?
+I1: Lo supuse, que no lo sabía. [HS:E1 [Asent].] Y eso ya son cosas, muchas cosas de la religión, son cosas que no me meto, así como esto que me habéis dicho de la cera, de la colmen-.
+E2: |T20| Y para mucho, para casi todo lo que nos ha contao hacía falta, [A-Inn] dice, hace falta... leña. ¿Y por aquí la leña?
+I1: El monte.
+E2: O sea que no la compraban, no compraban leña.
+I1: No, hombre la leña el monte.
+E2: ¿Y cualquier tipo de árbol, cualquier tipo de...?
+I1: No sé, las leñas o...
+E1: ¿Qué tipo de, qué leñas?
+I1: Roble, roble, leña de roble, leña de roble o de chopo que tiran, o de lo que sea, o árboles que se secan.
+E1: ¿Y cómo traían la leña?
+I1: Pues con los carros y las vacas.
+E1: ¿Y quién hacía eso?
+I1: Y, los hombres y las mujeres. Yo he ido muchas veces a cargar leña, oye, ¿cómo te vas a..., cómo se hace leña?, una persona sola no va por ello. Hay que ir, cortarlo, traerlo.
+E2: Es que a nosotros nos da, nos da la impresión de que leña es cualquier palo que vemos en el suelo. ¿Es eso o la...?
+I1: También es cualquier palo leña. Leña es todo lo que..., también estera es leña. ¿Sabes tú lo que es estera? [HS:E2 No.] Pues antes había mucha estera, dicen, mucho palo, mucha, mucha, mucha, mucha badana, mucho de ma-, mucho de mano, había antes. Por eso dicen que la mejor justicia es la catalana. ¿Sabes cuál es la justicia catalana?
+E1: No, no, no.
+I1: El palo. El palo.
+E1: ¿Y por qué? [HS:E2 El palo.]
+I1: Antes decían eso, que la mejor justicia era la catalana. Ahora ya como no hay justicia, ya no hace falta ni catalana ni na. Así que vale ya, ¿no?
+E1: ¿Y la cera? ¿Con qué, a qué daba cera? Aparte de hacer velas, ¿para qué, qué usos tenía la cera?
+I1: Lo vendía... Pues, ¿oye, no te digo? Pa los pisos, pa dar cera a..., a los muebles.
+E1: ¿Y cómo, cómo se daba eso?
+I1: Ah, pues ya se compraba, se vendía y lo preparaban. Ya eso ya no te puedo decir. [HS:E2 Pero...] La cera se vendía, [HS:E1 Ah, sí.] oye, lo vendían, lo vendías; oye, no sé. ¿Oye, y yo qué sé cómo lo preparan? Yo eso no te lo puedo decir, hija. Porque yo no he hecho muebles ni nada de eso.
+E2: ¿Pero aquí no se usaba así? O sea, la cera que es...
+I1: Oye, yo lo usaba, yo lo hacía para hacer unas velas y... [HS:E2 [A-Pau: ¿Pero no para, no para...?]] Pero des-, pero después ya cuando lo compraba, lo compraba, por ejemplo, pa darlo en las habitaciones, lo compraba ya preparao. Yo creo que no lo preparé yo nunca, cera. Compraba preparao. Se vendía la cera y se vende en rama, es recién sacao.
+E1: ¿Vi-, virgen?
+I1: Si la cera, cuando se saca, se vende ya.
+E1: ¿Y qué cera es mejor?
+I1: No te puedo decir.
+E1: ¿Y aquí el vino? El vino, de dónde, ¿no ha habido vino nunca?
+I1: De eso nada.
+E1: |T6| ¿Y cómo traían el vino? ¿Cómo...?
+I1: Pues ahí, de Aguilar, en un garrafón.
+E1: [Asent]. ¿Y quién..., ve-, venían aquí a...?
+I1: Oye, cuando vas a Aguilar, lo traes y, hala, cuando vas al mercao o cuando vas a comprar. A mí, aquí no trae nadie. Viene un señor vendiendo por áhi pero, a lo mejor, oye..., le tienes, a lo mejor no tienes nada que comprarle, pues vas a Aguilar y lo compras y, si no, lo encargas. Si no... O sea...
+E1: ¿Y el aceite?
+I1: Pues también.
+E1: El aceite igual.
+I1: Claro, eso ya se compra todo; los garba-, [HS:E1 ¿Y qué]
+E1: aceite compraban más aquí? ¿Qué, qué aceite preferían en la [A-Nul]? [HS:I1 Carbonell.] ¿De oliva?
+I1: De la Giralda. De la Giralda.
+E1: Ya, ¿pero siempre oliva?
+I1: Oliva, oliva, oliva, oliva... [HS:E1 Quiero decir que si antiguamente tenían [A-Nul]...] Oliva, oliva. To la vida he visto yo gastar en estos, en estos pueblos aceite de oliva. [HS:E1 ¿Y usted...?] No he visto nunca aceite de semillas hasta que no, hasta estos últimos años. [HS:E1 ¿Y cuál le]
+E1: parece que es mejor?
+I1: El de oliva para mí. [HS:E1 Sí.] A opiniones, muchacha.
+E2: Me ha dicho que me iba a hablar del trillo. Me iba a hablar del trigo, que me iba a hablar de los cereales. ¿Porque por aquí había cereales?
+I1: Sí, sí hay. Mira, ahí están sembraos. El trigo se siembra, [HS:E2 [Asent].] nace, se echa mineral, se, se excava, o sea, se sulfata, la semilla, se sulfata pa las yerbas.
+E1: ¿Cuántas vueltas daban a la tierra?
+I1: Ay, Dios mío. Se ara la tierra, se radea, se siembra.
+E1: ¿Qué es radear?
+I1: Pasarla el rastro, como quieras decir. O la grada; se ara y se gravea, se, la grada. Eso por áhi, por [A-PIn: Camos]. Eso ties que pillar por áhi, por la parte de Palencia. Pa esto es mejor pa, pa parte Palencia.
+E2: Pero aquí también hay. [HS:I1 Bueno...]
+I1: Lo probable es que las cosechas es más ahí. Se siembra, [A-PIn: después] se ara la tierra, se siembra, se echa mineral, se sulfata. Todo has hecho, na más. Luego después se cosecha. Bueno, a lo de antes, se siega, [HS:E1 [Asent].] se coge con el cogedor, se ponen morenas, [HS:E1 [Asent].] se trae a la tierra con el carro. Un señor se lo da arriba con el horcón y una señora... [HS:E1 ¿Cómo? ¿Una señora?] Un señor está en, en el sue-, en, en la tierra y se lo da al carro con un horcón. Ponlo áhi, ponlo si quieres, con un horcón. [A-Inn] A ti te sale luego, luego te lo copias, de to lo que yo voy diciendo. Luego te vas a ellos, y os veis, os veis a reír un rato. [HS:E2 No, no,]
+E2: nada en absoluto.
+I1: A mí no me importa, porque no me vais a volver a ver.
+E1: Pero ¿qué es lo que da? El cereal, la tierra...
+I1: El trigo, estamos hablando del trigo, eh. El trigo, a mí habéis preguntao trigo, eh.
+E2: Sí, sí.
+I1: Se siega, ya lo has puesto. Se hace... haces, se hace haces y se dejan morenas. [HS:E1 [Asent].] Se acarrea con el carro. Un señor se lo da con el horcón a otra persona que esté arriba en el carro, y se hace el carro y se trae a la era. [HS:E1 [Asent].] Se hace el carro y se trae a la era. Se tira la parva...
+E1: Pero hacer el carro, ¿qué es?
+I1: Hacer el carro, pues hacer el carro, ponerlo en el carro. [HS:E1 [Asent].] Ponerlo en el carro. Colocarlo en el carro. Se pone en el carro.
+E2: ¿Y se trae todo el trigo?
+I1: Se trae a la era, se trae la era, claro. Se trae, claro, en días, no todo de una vez. Se echa la parva, se echa al campo, se echa al campo. [A-Inn]
+E1: La parva hay que ponerla en un montón, ¿no? [HS:I1 Claro.]
+I1: Se echa la parva en un montón, sí, se echa en un montón. Se esparce por la parva, se pa-, se pa-, se esparce por la era, [A-Inn], se esparce por la era. [HS:E1 [Asent].] Con el sol, y las vacas y el trillo, o los caballos y el trillo, se trilla hasta que la parva está molida. Cuando la parva está molida, cuando el trigo, la paja está molida, se atropa con un... allagón.
+E1: ¿Con un qué?
+I1: Tú pon un alla-, allagón, que así le llamaban antes. [HS:E1 ¿Allagón?] Con un allagón. Con una tabla y un tiro, una tabla y un palo.
+E1: Allagón.
+I1: Allagón. Con una tabla y un palo que se lo ponían a las vacas para atroparlo. [OTRAS-EM] Teníais que haber venido un día entero y habíais, le habíais pasao por ahí. Y siendo, teníais que haber ido vosotros a una exposición que hay ahí en un pueblo, que está todo puesto, todas las eras. El bieldo y to esas cosas de antes, de antes. Esto que queréis hacer de antes.
+E2: ¿Y con la paja qué se hacía?
+I1: La paja, echárselo a las vacas. Cuando está molido, se atropa. Espea un poco. [OTRAS-EM] Que yo tengo más prisa que vosotros, ¿eh? [HS:E2 ¿Eh?] Que tengo más prisa que vosotros, que luego a las vacas se las echa de comer. [HS:E2 No, nosotros no tenemos prisa.] ¿Acogéis el coche y ánde vais a dormir hoy?
+E1: A Aguilar.
+E2: A Aguilar.
+I1: ¿La fonda? [A-PIn: A mí que me] importa. [RISA]
+E1: No, al hostal Villa de Aguilar.
+I1: ¿Al?
+E1: Hostal Villa de Aguilar.
+I1: ¿Al [A-InfErr: hostar] Villa de Aguilar?
+E1: Hostal, hostal. Villa de Aguilar, creo que se llama. No sabemos qué tal será.
+I1: ¿El hostal Valentín?
+E2: No, el Villa de Aguilar. [HS:E1 No, no,]
+E1: se llama Villa de Aguilar. Será la fonda, a lo mejor.
+I1: ¿Y aónde está ese?
+E1: Pues aquí no lo tengo, lo tengo en el coche. No sé dónde está.
+I1: ¿No, no habéis estao vosotros en él ya?
+E2: No.
+E1: No, es la primera vez que venimos. Es que usted no la cono-...
+I1: Yo sé la fonda, la fonda es... el hotel Comercio. Y el otro es el hotel Valentín. El otro es el hotel Valentín.
+E1: No sé.
+I1: Y... es que hay más sitios, ¿eh?
+E1: Debe haber varios, claro. Usted no conocerá todos, ¿no?
+I1: Hay otro que han puesto nuevo, pero ese no sé si será con camas. Luego hay un sitio, la Vasca, me paece que es, que da camas. Bueno, camas hay en más sitios.
+E1: Bueno, no sabemos qué tal será.
+I1: Pos yo tampoco lo sé. Yo, la fo-, la fonda, bueno, y el hotel Valentín, también. Esos dos sitios sí que sé que son buenos. Has puesto "se atropa" ya, ¿verdad? [HS:E1 Sí.] Espera, luego se les atropa.
+E1: Con... un allagón, que no hemos sabido bien qué es.
+I1: Pues u-, una tabla, una tabla y así puesto, una cosa donde las vacas se ponen [HS:E1 Sí.] y tiran, y lo van atropando. [HS:E1 [Asent].] Lo atropan así, [A-Inn] hacen un montón, [R-Ind] un montón grande... [HS:E1 Sí, un montón grande para luego hacer el bieldo.] Y, y después se bielda [HS:E1 [Asent].] con el bieldo. Antes con el bieldo, cuando anda aire, la paja va pa un sitio [HS:E1 [Asent].] y el grano pa otro. Y ya está.
+E1: Y ya está. [HS:I1 Y ya está.] Y con el grano, ¿se metía...?
+I1: El grano se traía a casa pa molerlo y hacer harina, el trigo, [HS:E1 [Asent].] y la paja para las, los animales.
+E1: ¿Nunca vendieron el grano?
+I1: Pos nos hacía falta pa comerlo.
+E2: ¿Y aquí se hacía la harina?
+I1: ¿Eh?
+E2: ¿Aquí hacían la harina?
+I1: En el molino, [A-Inn] en el molino. [A-Inn].
+E2: ¿Había un molino en...?
+I1: En otro pueblo. Hay que ir con ellos a otro pueblo, a un molino, ande te pillaba: Aguilar o a Quintanilla o allá abajo, al valle donde seguía. Bajáis pa abajo, [A-Inn] por arriba. [HS:E1 [Asent].] Bueno, pues yo creo que ya lo habéis puesto todo.
+E1: |T14| Nos falta una cosa, ¿cómo eran las bodas de antes? ¿Qué costumbres...? [HS:I1 Ay, de eso ya no me digas.] ¿Hay la costumbre que... el novio le regalara a la novia algo cuando se iban a casar o al revés? Como que el novio pagaba el traje o...
+I1: Hombre, antes aquí en este pueblo había la costumbre [A-PIn: que el] novio pagaba el traje de la novia, pero...
+E1: ¿Y cómo era eso?
+I1: Eso, cada uno lo hacía de una forma.
+E2: ¿Y cómo eran los trajes?
+I1: Eran como querían.
+E2: Pero no hay un color, un...
+I1: Unos en negro, otros en morao, otros en blanco y otros como... Las posibi-, las posibilidades de cada uno.
+E2: Ah, ¿cada color era más caro o más barato?
+I1: Hombre, un vestido blanco en aquellos tiempos era muy caro. La que iba de blanco y era | la que iba de negro pues iba de negro, y la que iba de..., de otro color, pues de otro color. No había, yo creo, aquí me parece que no, me parece, vamos. No sé. Yo, en fotografías que he visto de cuando, de antes... Yo, por ejemplo, vi una señora que llevaba velo, iba vestida de negro y llevaba el velo blanco, yo creo, largo. El vestido largo era blan-, era negro; una corona era el velo. Es una fotografía además vieja que vieja, vi desde hace poco. [HS:E1 ¿La gente,]
+E1: la gente se hacía el vestido? ¿Las mujeres se hacían ellas mismas...?
+I1: No. Se iban a la modista. [HS:E1 [Asent].] Hombre, si ella era modista sí, pero si no iba a que se le haría otra. Si era, si era ella modista, si era una modista, sí, se lo haría ella, si no, iba a que se lo haría otra.
+E1: Y, ¿y los zapatos?
+I1: Negros serían, digo yo. Si era el traje blanco, blancos.
+E2: Si el novio no era del pueblo, era de otro pueblo y eso, ¿tenía que hacer algo especial?
+I1: [RISA] Echarle la cuartilla harían, si les parecía, qué sé yo.
+E2: O sea, ¿no tenía que, que hacer algo, pagar algo...?
+I1: Oye, ¿por qué vosotros hacéis estas preguntas? ¿Quién os lo ha dicho? Ahora que dices eso. Que salga aquí esto, sin preguntarme a mí. [HS:E2 Porque hay muchas]
+E2: partes de España que, cuando el novio es de fuera del pueblo, los mozos siempre piden algo, dicen algo. Entonces, no sé. Y en cada parte tiene un nombre. Entonces queríamos saber si aquí había algún nombre o...
+I1: Pos aquí se leían y el segundo domingo que se leían las proclamas, pues daban los derechos, que llamaban, que era una cuartilla de vino, un pan y no sé qué más, ya no m'acuerdo. Ya no m'acuerdo. Y no m'acuerdo lo que vi. [A-Inn] acuerdo. Eso se hacía, y se hacía baile con una pandereta, creo que es con una pandereta. Se bailaba en los pueblos, pueblos de alrededor, se juntaban, se hacía pues una fiesta y eso, el día de..., el día de la fiesta, que se llamaba, de los que se iban a casar. Nada más. Y si era un pue-, en algunos pueblos tenían costumbre, por ejemplo, si se iba un chico a ver a una chica, el segundo domingo que iba, pues le..., entre los mozos del pueblo, allí en la cantina, pues le decían que tenía que pagar pues no sé, si vino, o que les tenía que convidar a los mozos. Pues lo hacían, yo no sé si en to los pueblos. En algunos, yo no lo sé, no lo puedo decir porque no sé.
+E2: ¿Y cuánto duraban las bodas? Más de un día, ¿no?
+I1: No sé. La boda un día, después la tornaboda. Y no sé si...
+E2: ¿Y qué se hace en una tornaboda?
+I1: No sé si... La, la novia no era del pueblo, cuando la traían, hacían tornaboda. Era de otro pueblo y al traerla al pueblo el novio, pues hacían fiesta y daban..., convidaban a los del pueblo. Convite, pero eso no. No sé, porque... ya estos últimos años eso no existe. Porque ara ya tampoco se casan en los pueblos. Por ejemplo, los hijos míos, dos s'han casao en Madrid, y otro s'ha casao en... Ataporqueña, y otra s'ha casao en Reinosa. O sea que... ya no es como antes. Yo tampoco me casé aquí.
+E1: ¿Qué era costumbre que regalaran los padres a..., a las novias?
+I1: Pues, no sé. Eso, en costumbres, no...
+E1: ¿La novia, acostumbraba a dar el ajuar o...? [HS:I1 [A-Inn].]
+I1: Hombre, el ajuar, eso, eso, el ajuar...
+E1: O no sé, ¿muebles o...?
+I1: Eso según, eso según el..., la costumbre de..., la situación de los novios y de la familia. Eso ya no son costumbres, ni son... La familia a lo mejor dice: "Yo a este hijo le compro esto o... no le compro nada". Y eso ya... no había como costumbre. Ya no lo sé, si era costumbre o no. En eso ya no me puedo meter. Y, oye, a un hijo, una madre no va a echar a una hija de casa sin un poco de alguna sábana, alguna cosa, digo yo. La compraría algo. Yo no lo sé, yo esas cosas ya no te las pueo decir. Pues no me voy a meter en casa de nadie.
+E1: No, porque no era costumbre. ¿Y exponer el ajuar? ¿Aquí se, era costumbre exponer el ajuar?
+I1: [CHASQ] Eso no, porque yo no he visto ningún ajuar expuesto. [A-Crt]
+E1: |T13| [A-Inn] de la cabeza. [HS:I1 Y ya vale.] No, no... [RISA] ¿Qué diferencias nota en la educación que había antes respecto a la de ahora? Por ejemplo, antes les..., los padres obligaban a los hijos hacer las cosas y si no lo hacían, tenían que, que... [HS:I1 No lo sé.] Por ejemplo, las obligaciones de la chica o el chico cuando...
+I1: Hombre, las obligaciones de una chica, oye, estabas allí en casa, los hombres estaban en casa, pues..., no había agua en casa, tenían que ir a buscarlo, tenían que traer la leña a la cocina pa hacer lumbre. [HS:E1 [Asent].] Y, ahora, por ejemplo, esas cosas no hace falta hacerlas porque está el gas y esas cosas. Pero...
+E1: ¿Y si desobedecías una orden antes, qué pasaba?
+I1: Ah, eso cada padre tenía una norma.
+E2: ¿La educación era la misma para chicos y chicas?
+I1: Yo no lo sé. Yo, nosotros nos criamos todos iguales. A todos nos dieron los mismos estudios. Vamos, los mismos no. Porque, por ejemplo, tuve hermanos fuera y tuve hermanos en casa y unos, por ejemplo, na más fuimos a la escuela, y otros estuvieron estudiando fuera. Según.
+E1: ¿Por qué, porque unos querían estudiar y otros no?
+I1: Hombre, porque, yo, por ejemplo, era la mayor y..., y salí algo fuera, pero ya no pude salir tanto porque tenía que ayudar a hacer..., a mi madre. [HS:E1 [Asent].] Estos, por ejemplo, las más pequeñas, pues ya éramos nosotras mayores, ya salieron a estudiar fuera, sí. Los mayores también estuvieron estudiando fuera. Pues... según las posibilidades, cada uno..., oye, si una familia podía, pues sacaba a los hijos a estudiar, y si otra familia no podía, pues no. [HS:E1 Claro.] Bueno, vale ya.
+E1: ¿Ya no quiere hablar? [A-Crt]
+I1: Tengo la pierna muy averiada. [R-Cas]
+E1: ¿Y si pudiera recuperar la juventud...?
+I1: ¿Eh?
+E1: Si pudiera recuperar la juventud, ¿qué, qué es lo que desearía que, que cambiara en su vida o...?
+I1: No sé, no lo he pensao. Eso sí que no lo puedo decir porque no lo he pensao.
+E1: ¿Pero le hubiera gustado que, que fueran las cosas de otra manera o...?
+I1: Yo no sé. ¿Y, y... qué va a cambiar? Si ya lo pasao, pasao... y no sabemos lo que va a venir. Como no sabemos, ya no... Vale, ya no os puedo... averiguar más cosas. Ya, vale.
+E1: ¿Le importaría decirnos cómo se llama? [A-Crt]
+I2: |T6| [R-Anm] Un arao romano, se llama esto. Araos romano. Esto es rastro, eh, y aquí tengo más...
+E1: Ah, pero tiene ya de los, de los más modernos.
+I2: ¿Cuál? ¿Cuál?
+E1: Que no son araos romanos, son...
+I2: Sí, sí, sí, también tengo romano, ¿eh?
+E1: Ah, también tiene. [R-Anm]
+I2: Sí, igual cualquier día todavía [A-Inn].
+E1: ¿Y, y los usa? ¿Sí, sí? [A-Crt]
+I2: Espera a ver si puedo verla, abrir la ventana, pero [A-Inn]. [HS:E2 No se preocupe, [A-Nul].]
+I1: Abre la ventana, si no, no se puede. [V-Ljn]
+E1: Tienen hambre, ¿eh? [R-Ind] [A-Crt]
+I2: Este, este [HS:E1 El arao romano...] es un arao de madera, que se llamaba, ¿eh? Que se llama, vamos.
+E1: Este es el que más [A-Inn].
+I2: El romano es este, este que está aquí guardao.
+E1: Fíjese, de madera. Con cuña de...
+I2: Mira, este es el arao normal, este. [V-Mrm] [A-Crt] Después de trillao, pa cargarlo, pa traerlo pa casa. Esto es una [A-Inn].
+E1: Qué bonitas.
+I2: Y os voy a enseñar el rastro, ya que estamos, ya que estamos en el...
+E1: Enséñenos el bieldo también, ¿lo tiene?
+I2: El bieldo no le tengo aquí, le tengo allá onde trillaba. [HS:E1 Ah...] Pero... Pues el bieldo es... más pequeño que esto... [HS:E1 Es parecido a eso...] I-, igual, pero... [HS:E1 Pero más pequeño, ¿no?] [CHASQ] Mucho más pequeño; es así... Por ejemplo, no tiene esto tampoco, esto... [A-Inn] Es una cosa así de larga, eh, [HS:E1 De tirar al aire...] y más estrecho. [HS:E1 [Asent].] Y..., y eso se, se cogía así, se le daba así, y se echaba así pa lo alto [A-Inn] con el bieldo.
+E1: Con el biel-, y el aire se llevaba la paja.
+I2: Sí, se llevaba la paja. [R-Ind] Y os voy a enseñar... ¿El rastro tampoco l'habéis visto? Las tengo ahí, ¿sabes pa qué? Pa, pa darlas un poco barniz.
+E2: ¿Y la leña lleva... apilada...?
+I2: Sí, por invierno. Cuando no tenemos que hacer. [RISAS]
+E2: [A-Crt] ¿Navarra?
+I2: Esto es un hierro, un... ¿Esto? Esto es madera, hombre.
+E2: No, no. Que si es de Navarra, es del tipo navarro, ¿no?
+I2: Ah, Navarra, Navarra. Que te había entendío barra. No sé. Sí, sí, seá tipo navarra, porque la, la vasca es de otra forma. La hacha, la hacha vasca. Espérate, que os voy a enseñar el rastrillo. ¿Eh? [HS:E1 Son preciosos.]
+E1: Pero estos ya no los fabrica nadie, claro.
+I2: Sí, sí, sí, los fabrican. Mira.
+E1: ¿La gente los fabrican?
+I2: [A-Inn] nuevos sin estrenar. Mira, estos. [HS:E1 ¿Sí?] [A-Crt] Sí. Esto es el [A-Inn]. [V-Ljn] ¿Ves? Esto es el bieldo. Esto [A-Nul] [R-Inf]
+E1: ¿Esto ya no lo usan ya, ni para recoger siembra para las vacas? [HS:I2 Sí, sí,]
+I2: [A-Inn], la huerta, ¿lo entiendes? [HS:E1 La huerta sí esta todavía.] Sí, pero pa... [A-PIn: siega] de veras, [A-PIn: como suele decir] ya no.
+E1: ¿Y para afilarlo tenían unas piedras especiales o esto que cuelga de aquí no es para...?
+I2: Sí, sí, la coloda y la cizarra.
+E1: ¿Cómo, la coloda? [A-Crt]
+E2: ¿Y esto?
+I2: Mira, esto es lo que se unce las vacas, esto, [R-Inf] las colladas; y esto son melenas. Se ponen por encima.
+E1: ¿Pero, o sea, antes del yugo para...?
+I2: Por encima de, del yugo y de la cabeza la vaca y las mele-, las pelluzas.
+E1: ¿Y para qué? ¿Por qué se ponen las melenas?
+I2: Para que las prive del agua y del sol.
+E1: ¿Y que les moleste..., les moleste...?
+I2: No, no, que no se estropeen, hombre. [HS:E1 Que no se estropeen.] Cuando esto se moja, por ejemplo.
+E2: ¿Y de qué son, de qué son las melenas?
+I2: ¿Esto? De perro. [R-Inf] De, de piel de perro.
+E1: ¿De piel de perro? Cuando un perro se ponía viejo...
+I2: Sí, un perro por ejemplo, vamos, este no, un perro como este, ¿verdad?, lo matas, y le haces unas melenas.
+E1: ¿Cuándo se ponía viejo el perro o..., y ya no servía para pastar?
+I2: Bueno, alguno que no valía pa nada. Este no, este no es pa matar, es mu bueno pa'l ganao. Y antes pos tenía..., estas cuadras llenas y estas dos que tengo áhi. Onde hemos estao ahí, onde está ahora el baño, aquel... de las vacas. Y otra cuadra que tengo ahí, [A-Inn] vacas. [HS:E1 ¿Y no se cabrean,]
+E1: no se enfadan las vacas cuando, si les quita el ternero?
+I2: No, no, son nobles estas. Estas se las..., se dejan ordeñar muy bien y to eso. Se las coge, se sienta uno áhi y pim, pam [ONOMAT].
+E1: ¿Y qué hace, ordeñarlas a diario?
+I2: Sí, tengo yo una, bueno, una, tengo cuatro, pero una hija, que es también, es joven toavía y esa desde bien pequeña ordeñaba. [RISA] Esa es médico ahora.
+E1: ¿[A-Inn] también a ordeñarla?
+I2: No creas, no creas que esa la importa venir a casa y ordeñar las vacas si hace falta. Y es médico, ya te digo, pero... Ya hace seis años que está...
+E2: Y entonces... Esto me ha dicho que es de piel de perro, [HS:I2 De piel de perro.] [A-Inn] salen los jatucos. ¿Cada cuánto tiempo se los llevan o...?
+I2: ¿Los jatos? Bueno, pues estos se les suele tener un mes o algo más, según como...
+E1: ¿Solo mamando? Y, ¿cada cuánto les pone a mamar?
+I2: ¿Cuándo? [HS:E1 Sí.] Ah, luego, cuando eche de comer a las vacas. [HS:E1 ¿Cuándo?] Cuando eche, cuando las eche de comer y a beber, que luego las echo al agua, [HS:E1 Sí.] les suelto a la madre ya. Y...
+E1: ¿Y maman de todas o solo de la madre? [HS:I2 No,]
+I2: de la madre. No, termina. Ese que ha perdío hace ocho días la vaca, no termina. Igual..., igual to'l mes que viene, no este, cerca.
+E1: [A-Inn] en una semana que esté así el bicho de grande.
+I2: Eso es muy bueno. Y, y estos jatucos... Ese otro, ese otro oscuro le echo a beber la leche, se lo doy bebido. Pero este ya mama solo. Pues a mamar y pim, pam [ONOMAT].
+E1: [Asent]. Y... Qué bien.
+I2: Pues claro, hay que hacer de todo... [RISAS] aquí en los pueblos, ¿sabes? Yo digo que no tendría que existir ningún pueblo. Cuando voy a Madrid o a Santander, donde vaya, digo que no tendrían que existir los pueblos, porque si estoy aquí esto es vida, pero aquí en los pueblos, nada. Esto...
+E1: ¿Cómo se llama usted? ¿Le importaría decirnos cómo...? [HS:I2 ¿Yo? No, hombre, no.]
+I2: Yo, como...
+E1: Su nombre.
+I2: [NP].
+E1: ¿Como su mujer que se llama [NP] también?
+I2: [NP].
+E1: Ah, ¿son primos o algo?
+I2: No, bueno, los padres son algo familia.
+E1: De lejos, porque como se llaman igual...
+I2: Sí, pero aquí en este pueblo hay muchos [NP]. Vamos, [CHASQ] unos de familia, otros no eran familia y así, pero...
+E2: Y ahora que nos ha dicho lo de las ciudades; de volver a ser joven, ¿qué, qué le gustaría? [HS:I2 Bah.] ¿Qué pediría?
+I2: Marcharme de aquí. Aquí no está más que el que ha nacido y sabe y eso lo ha mamao, y si no... Esto es muy duro, muy mal, porque mira, yo tengo cuatro hijos, ya te digo, aquí no se quedó ninguno, claro. Ahora, luego, bueno, luego no, de aquí a un mes o así, hay que soltar las vacas a pacer. [HS:E1 ¿Todas?] Ahora ya no importa porque hay cuatro, pero cuando había treinta, había que estar to los días por la mañana y por la tarde y estar allá con ellas to'l día, que eso es lo malo. ¿Lo entiende? Y había que trabajar, y había que... ganar la vida y yo tenía cuatro chiquillos en el colegio a la vez, conque fíjate...
+E1: ¿Desde luego, cómo ha podido darles educación a todos?
+I2: Pues mira, trabajando mucho y ellos cuando venían los fines de semana: leña, a coger patatas y a sembrarlas y, y el verano y las vacas y lo que quieras. No te digo, que esa chiquilla que es médico, esa ordeña las vacas, y todos. Pero esa, hoy mismo si viene y hace falta echar la mano, echa, a ordeñar; como las vacas son nobles, se sienta uno ahí y ya está. No creas que no.
+E1: Pues nada, nos vamos a ir. [A-Crt] ¿Cómo era eso?
+I2: ¿Cómo, cómo, cómo era eso?
+E1: ¿Se cortejaba a las muchachas cuando iban a por agua a la fuente o eso...? [HS:I2 Sí...]
+I2: y, y por aquí, [CHASQ] como era en el pueblo, pues a cualquier hora siempre nos veíamos, siempre nos preparábamos pa..., ya me entiendes. Y, y cuando éramos jóvenes, hacíamos baile con la pandereta por ahí. Ahí en una casa de concejo que había, hacíamos ahí un baile, y ahí nos reuníamos los de este pueblo y los demás pueblecillos por aquí alrededor. [RISA] Y siempre se aprovechaba cuando iba por agua o cuando ibas con las vacas o con, siempre, ojo avizor, eh. [RISAS] No es como ahora, que ahora a cualquier hora os veis y muy bien. Antes había que... [CHASQ] proclamar, programar la cosa. [RISA] [HS:E1 [A-Inn].] ¿Eh? Sí, sí pero ahora..., antes había que trabajar mucho, aquí en los pueblos y era muy duro, muy duro, muy duro.
+E1: Pues nada, nos vamos a ir yendo.
+I2: Y nos íbamos a las romerías por áhi, que había romerías en los pueblos. Ahí se empezaría uno a conocer, qué sé yo. Y quedaban. [HS:E1 [Asent].] Vamos, voy a cerrar.

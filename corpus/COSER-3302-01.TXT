@@ -1,0 +1,996 @@
+Provincia:	Orense
+Enclave:	Cádavos (A Mezquita) (3302)
+Fecha:	27 de octubre de 2012
+Duración:	01:21:46
+Informantes:	I1: varón, 84 años
+I2: mujer, 80 años
+I3: varón, 60  años aprox.
+I4: varón, 60  años aprox.
+Encuesta:	Beatriz Martín Izquierdo, Iago Somoza Bernad, Fernando José Pancorbo Murillo, Carlota de Benito Moreno
+Transcripción:	Borja Alonso Pascua
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+2. Alimentación (pan, horno, manteca, huevos, bollos, recetas, pescado)
+4. Labores del hogar (agua, fuente, lavadero, jabón, costura, colchones)
+5. Economía (dinero disponible, salario, nivel de vida, bienes adquiridos)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+10. Vida religiosa (cura, iglesia, misa)
+11. Vida vecinal (anécdotas, inquietudes, gobierno municipal, guardia civil)
+12. Educación (escuela, libros, maestros)
+14. Bodas y noviazgos (boda, anillos, ajuar)
+15. Fiestas populares (romerías, fiestas patronales, carnaval)
+16. Sanidad y salud (enfermedad, médico, parto, entierro)
+18. Ejército/Servicio Militar (mili, quintos, guerra)
+20. Caza, pesca y monte (leña, animales y plantas no domésticos)
+21. Viajes y estancias fuera de la localidad
+22. Tiempo meteorológico
+
+E1: [V-Sml] Bueno, pues usted es [NP], ¿no?
+I1: Sí.
+E1: |T21| [A-Pau: Bien.] ¿Y ha vivido aquí siempre?
+I1: Sí.
+E1: [Asent]. ¿Nunca ha salido de aquí?
+I1: [OTRAS-EM] Ya fui para Alemania y para Holanda. Viví de [A-Inn] un calvario. [HS:E1 ¿Sí?] Y ahora estoy aquí acabando con los días de la vida.
+E1: |T1| Bueno, eso nos toca a todos... Y aquí, aquí... aquí imagino que se hará matanza, claro.
+I1: Aquí se hacía la matanza, pero ahora se hacen pocas.
+E1: Se hacen pocas. ¿Y usted hace matanza?
+I1: Sí.
+E1: ¿Sí? ¿Y nos puede explicar cómo se hace la matanza?
+I1: Primero hay que criar los cerdos y cebarlos y después, más tarde, metele el cuchillo. [HS:E1 Meterle el cuchillo.] Por la garganta. Mi..., cui, cui [ONOMAT], [CHASQ] hasta que se muere.
+E1: Claro, ¿y qué se les mataban en una... mesa o se mataba atado...?
+I1: [A-Pau: En una mesa.] [HS:E1 [Asent].] Una mesa de, de madera.
+E1: Una mesa de madera. [Asent]. ¿Y le ataban las patas o entre [HS:I1 No,] varios...?
+I1: no se ataba nada... Se cogían las patas, se tenía mano del... cerdo. Y las patas taban amarradas. [HS:E1 [Asent].] Si no, el cerdo, anda...
+E1: Sí... [A-Nul] es muy peligroso, ¿no? Porque puede morder.
+I1: ¡Coño! [HS:E1 [RISA]] Ya verás...
+E1: [Asent]. Y qué se amarraban, ¿las cuatro patas?
+I1: Sí.
+E1: Las cuatro patas, [Asent]. ¿Y luego cómo pelaban al cerdo?
+I1: Se le prendía fuego.
+E1: Con fuego, [Asent].
+I1: Con fuego.
+E1: [R-Vcs] ¿Y aquí había una persona que se dedicase a hacer matanzas o cada, cada una hacía la suya?
+I1: Cada uno hacía la suya.
+E1: [Asent]. ¿Y hacían fiesta después?
+I1: La comida.
+E1: [Asent]. ¿Y, y luego qué hacían? ¿Les invitaban a los vecinos y..., y comían todos?
+I1: Cada uno tenía sus clientes. Si va a invitar a todo el pueblo, me cago en Dios. [HS:E1 [RISA]] ¡Comen hasta al dueño!
+E1: [RISA] Y luego, ¿qué, qué hacían con la carne del cerdo? ¿Cómo la preparaban?
+I1: Pues después... se... se pone a... la carne a... congelar con sal, unos días, ¿no?, u-... unos veintitantos días. Después, se le quita la sal y se cuelga. Los tocinos [A-Inn] que es lo que menos me gustaban. [HS:E1 [Asent].] Sí.
+E1: [Asent]. ¿Y hacían chorizo aquí también? [HS:I1 Sí.] ¿Cómo se hace el chorizo?
+I1: Se lo po-, decir esa mujer.
+E1: [Asent]. ¿Se quiere sentar?
+I2: No, no, [A-Inn]. Los chorizos...
+I1: Se-, separa la carne de, de adobo.
+I2: Es un adobo de... de pimiento, [A-Pau: de, de aliño, de, de... sí,] [A-Nul] está un día [L-Otra: ou dous na, na] tina que le...
+I1: Venticuatro horas.
+I2: [A-Pau: [L-Otra: Picadiño, depois echemos [A-Nul] cunha, cunha cousa que [A-Nul] chourizos.]] [HS:E1 [Asent].]
+I1: Y después comerlo.
+E1: Comerlos. Eso es lo más fácil, ¿no?
+I1: Hombre, a ver... [RISAS] [CARRASP]
+E1: Qué bueno, [HS:I2 [A-Pau: [L-Otra: Era como se fai aquí].]] y me, hacer los chorizos, ¿cómo hacían? ¿Con una máquina o a mano?
+I2: [A-Pau: A máquina.]
+I1: Con máquina.
+I2: [A-Pau: [L-Otra: A veces facían [A-Nul]] [HS:I1 [CARRASP]] [L-Otra: antes os facíamos a mau porque non picábamos con cuchillos e... facíamos a masa] [L-Otra: [A-Nul] máquinas, pois [A-Nul] e esa carne la vas encalcando e... e xa pois facías os chourizos, pois coser a, a tripa enchida, pois fas un chourizo [A-Nul] grande o pequeno ou como...]]
+I1: Grande o pequeño o regular. Como se quiera.
+E1: [Asent]. ¿Y todos los chorizos se hacían igual o había diferentes tipos de chorizos?
+I2: [L-Otra: Aquí os chourizos eran todos de... [A-Nul], a carne era sempre a mesma.] [HS:E1 [Asent].] [L-Otra: Comprábamos porcos e matábamolos e así facíamos [A-Nul] eso.] [R-Vnt]
+E1: ¿Y luego hacían jamón también?
+I1: [R-Vcs] El jamón se le quita y se cuelga y se sala...
+I2: [A-Inn] [L-Otra: unha temporada de... quince días, no era tant.]
+I1: Depende cómo sea el jamón, [L-Otra: se é] grande hay que dale más días.
+I2: [L-Otra: Se é groso pois ten, ten que ter máis días; se son máis delgadiños, [A-Nul] ten que ter menos días, de sal.] [R-Vnt] [L-Otra: [A-Nul]] [HS:E1 [Asent].]
+I1: Y después... se comen.
+E1: También. [RISAS]
+I1: [RISA]
+I2: [L-Otra: E buenos que son, que son feitos por un.]
+I1: Te da la risa.
+I2: [L-Otra: E por acá, polos porcos que se...]
+I1: Íbamos a tirar con ellos, hombre.
+E1: Claro.
+I2: [R-Ind] [L-Otra: Matabas un ou dous ou tres porcos.]
+I1: O cuatro o cinco. Depende...
+E1: [Asent]. ¿Y para cuánto daba un cerdo? ¿Para cuánto tiempo de alimento?
+I2: Ah, nada, porque aquí había personas que matáramos [R-Vcs] [A-Nul].
+E1: |T6| ¿Y aquí qué se... qué se dedicaba más la gente, a la agricultura, a la ganadería...?
+I1: Agricultura.
+E1: [Asent]. ¿Y qué se planta aquí?
+I1: ¿Aquí qué se planta? [HS:E1 Sí.] Aquí qué se va a plantar, aquí no se planta nada. [HS:E1 ¿No se planta nada?] Tá todo plantado.
+I2: [L-Otra: Está todo perdido porque a xente aquí ahora son vellos e... e, claro, os vellos [R-Vnt] non podemos traballar], [HS:E1 Claro.] [L-Otra: entón están mellor, están mellor de... [A-Nul]]
+E1: ¿Antes qué se plantaba? ¿Qué se solía plantar aquí antes?
+I1: Antes se sembraba centeno [HS:E1 Centeno.] con las vacas a-, arando. Yo, por ejemplo, y...
+I2: [L-Otra: Lávanse os mollos, facíanse os mollos...]
+I1: Eso, pero eso era en la siega.
+I2: [L-Otra: Segaban [A-Nul] cunha, cunha fouce, que era o que aquí se facía.]
+I1: Con una hoz, [L-Otra: que eles non saben o que é unha fouce.]
+E1: ¿Qué es, como un raño o algo así?
+I1: No, la hoz es un chisme del-, delgadito con... la empuñadura de madera, [A-Inn].
+E1: [Asent]. ¿Y eso cómo se utilizaba?
+I1: Para segar... [R-Vcs] la paja.
+E1: [Asent]. [R-Mcr] Esto... se lo tengo que volver a poner, ¿se lo puedo poner otra vez? [HS:I1 Pon lo que quieras.] A ver... [R-Mcr] Vale. ¿Y luego con la paja que se hacía? ¿Se guardaba en algún sitio?
+I1: La paja se, se ponía en un... vamos a ver. La paja se, se... echaba en un sitio que le llamábamos... la meda. [HS:E1 [Asent].] Y...
+I2: [L-Otra: A meda son os mollos atados así largos, [A-Inn] pa poder botar o, o...]
+I1: Después...
+I2: [R-Vnt] Acaba tú.
+E1: [Asent]. ¿Y luego trillaban aquí también?
+I1: No... Se echaba a la máquina.
+E1: ¿A la máquina? [Asent].
+I1: La máquina tirada por un tractor... | antes, antes no había tractor... [A-Inn] y... se, se echaba a la máquina y se majaba así.
+E1: [Asent]. ¿Y luego por aquí también [R-Vnt] se siem-, se, se siem-, se siembra... berza o se siembra... [HS:I2 [L-Otra: Si, eso tiña-,]] grelos?
+I2: [L-Otra: eso tiñamos], [HS:I1 Sí, sí, de eso sí.] [L-Otra: eso tiñamos muto...] [HS:E1 [Asent].] [L-Otra: patatas, berza, grelos... de todo, eso si. Sembraba exactamente eso. Ahora xa non se sembra tanto,] [R-Vnt] [L-Otra: máis, habría que sembrar máis.]
+E1: [Asent]. [R-Vcs] Sí, a nosotros nos interesa cómo se hacía antes, cómo se trabaja aquí antes, cómo se vivía, [HS:I2 Ya...] claro.
+I1: Con mucho esfuerzo.
+I2: [L-Otra: Con, con muto, con muto traballo], [HS:E1 [Asent].] [L-Otra: porque... compraba-las terras, botábamos o patatas o millos ou [A-Nul]] [HS:E1 [Asent].] [L-Otra: para, para... manter os, os animais tambén. Tiña que salgar con... con auga que vén do río.] [HS:E1 [Asent].] [L-Otra: E pois ten que deixar [A-Nul] apañábamos as para o, para o ganado,] [HS:E1 Claro.] [L-Otra: [A-Nul] cuando estaban xa medios feitos, tiña unhas mazarocas así [A-Nul] sacarle o grau.]
+E1: |T4| [Asent]. Claro. ¿Y jabón hacían ustedes también aquí?
+I2: ¿Aquí? [HS:E1 Jabón.]
+I1: [L-Otra: Xabón, se facías xabón.] Sí hacían.
+I2: [A-Pau: [L-Otra: Si se facía].]
+E1: ¿Y cómo se hace? [R-Vcs]
+I2: ¿El [L-Otra: xabón?] [HS:E1 Sí.]
+I1: Pues en una forma de madera, [R-Vcs] se le echa... sosa y no sé qué más.
+I2: [L-Otra: Sosa só e a, e grasa.] [HS:I1 Y...] [L-Otra: Sosa era medio quilo para tres... para [A-Inn] e viña... comprábamos a sosa e botábamo-la... á carne que... á grasa que xa se había remexido e aquelo pois quedaba en grasa.] [R-Vcs] [L-Otra: [A-Nul] como aceite había pouca [A-Nul].]
+E1: |T7| ¿Tenían también gallinas, tenían [HS:I2 Sí...] vacas? Sí.
+I2: [L-Otra: ovellas... tiñamos todo.]
+E1: Sí, porque entonces aquí habría pastoreo.
+I1: Sí, sí. [HS:I2 [L-Otra: Había un..., viña un...]] Había pastores.
+I2: había pastor, sí, con personas cuidando [A-Nul]. [HS:E1 [Asent].]
+E1: Aquí me imagino que tendrían bastantes problemas con los lobos y los [HS:I1 Huy,] zorros.
+I1: huy, huy... [R-Vcs] los lobos comían más las ovejas que la hostia...
+E1: ¿Sí? ¿Y cómo se hacía entonces para guardar el ganado y que no hubiese problemas?
+I1: Iba el pastor al cargo de ellas.
+E1: [Asent].
+I2: [R-Vcs] [A-Nul] [R-Ind]
+I1: Pues sí.
+I2: [L-Otra: Tíñamos o-, ovellas, daban á xente...]
+I1: Y vacas y caballos y...
+I2: [L-Otra: Chamábamos] [HS:I1 De todo.] [L-Otra: a vela, a vela e a vecera. Hoxe vou eu con... coas ovellas e... pois ía outro cuando le tocaba. E andábamos así.]
+E1: |T15| [R-Vcs] Y aquí también... me imagino que, bueno, aquí también se hará... | cuéntenos lo del magosto que nos estaba contando antes. ¿Qué se hace aquí cuando hay magosto?
+I1: Se cogen las castañas y se, y se asan en el monte.
+E1: [Asent]. ¿Qué se hace? ¿En alguna piedra o algo así con leña?
+I1: Con leña, sí. [HS:I2 Sí.] Sin piedra. [HS:E1 Sin piedra.] En la tierra.
+E1: En la tierra. ¿Y eso qué es: una fiesta o...?
+I2: Sí, se juntan unos cuantos y a comer. [HS:E1 [Asent].] Unas cuantas que son más las mujeres, comen más que los hombres.
+E1: |T6| ¿Sí? [RISA] [R-Vnt] ¿Y vino también hacían?
+I1: El vino... se hace aquí.
+E1: ¿Se hace, cómo se hace el vino?
+I1: [R-Ind] Pues... se estrujan las uvas. [HS:E1 [Asent].]
+I2: [A-Nul]. [V-Sml]
+E1: Sí, no, ahora después, ahora después, terminamos con esto y vamos a verlo. ¿Cómo se hace, cómo se hacía el vino? Porque, ¿aquí había uva?
+I2: [A-Nul] [A-Pau: [L-Otra: viñan]] de Zamora.
+I1: [HS:E1 [Asent].] Vienen de Zamora.
+E1: ¿De Zamora?
+I2: Sí, de Zamora... [HS:I1 Y de Portugal.] de Portugal...
+E1: [Asent]. ¿Y cuál es el vino típico de aquí? ¿El... [HS:I1 Tinto.] tinto? [Asent].
+I1: ¿Qué más quiere, señor?
+I2: [A-Nul] [HS:E1 Ahora, sí...] [A-Nul]
+I1: Tiene que marchar...
+E1: |T15| Le llama, le llama su hijo. [R-Vcs] [HS:E1 [Asent].] Y luego también aquí qué se, ¿es, es típico de aquí celebrar el [L-Otra: entroido], [HS:I1 Sí.] los carna-? ¿Y qué se hace?
+I1: Se hacía baile... se sacaba el... el compadre... el jueves de compadres... y el jueves de comadres era la comadre. Y baile. [HS:E1 [Asent].] Era todo eso lo que había. Ahora no hay nada.
+E1: Nada, ¿no? ¿Y cómo eran las fiestas de aquí? ¿Venía alguien [HS:I1 [TOS]] con música o...?
+I1: [TOS] Sí.
+E1: [Asent]. ¿Y venían de fuera? [HS:I1 Ve-.] ¿O había aquí músicos?
+I1: No, aquí... músicos no había. [HS:E1 [Asent].] Yo, [OTRAS-EM] músico yo también.
+E1: ¿Sí? ¿Y qué tocaba?
+I1: El rapataplán [ONOMAT].
+E1: [RISA] ¿El redoblante? [HS:I1 Sí.] [Asent]. Qué bueno, ¿y tocaba en algún grupo o...?
+I1: No, éramos... tres: [HS:E1 [Asent].] el... gaitero, el tambor y el bombo. No había más músicos.
+E1: [Asent]. ¿Y cuál eran, cuáles eran las canciones que sabían tocar ustedes?
+I1: Una cualquiera. [HS:E1 Cualquiera.] Cualquiera. Todos sabíamos a, la canción.
+E1: Claro. ¿Y la gente cantaba también?
+I1: Muchos hasta lloraban a la [A-Inn], lloraban, pero lloraban de verdá, de, de, de lo malo que hacíamos.
+E1: [RISA] No creo, hombre.
+I1: [OTRAS-EM] Has de creelo.
+E1: [RISA] Qué bueno, y..., y aquí, claro, aquí, me imagino que la can, la... habrá mucho tipo de canciones, ¿no?, aquí... [HS:I1 Sí.] [R-Vcs] [Asent].
+I1: Y has de ir a ver her-, hervir el vino.
+E1: Sí, ahora después vamos, sí.
+I1: [R-Vcs] Ya no tengo más que decirle.
+E2: Sí, nos [R-Vhc] tiene que contar qué más fiestas había aquí en el pueblo.
+I1: ¿Cántas fiestas?
+E2: [HS:E1 ¿Qué...?] Sí, qué, qué fiestas había.
+I1: El Sagrado Corazón de Jesús.
+E2: [R-Ind] ¿Y có-, qué celebraban ahí? ¿Cómo, qué fiesta hacían?
+I1: Paso el Sagrado Corazón de Jesús.
+I2: Hacías [HS:I1 Y...] una misa...
+E2: ¿U-, una misa y...?
+I2: [L-Otra: E... depois baile, festa...] [HS:I1 Sí...]
+I1: una misa y..., y baile. Ya estaban las mocitas esperando a que salieran de la misa para ir a... a la plaza a agarrarse a los... [HS:I2 Mozos.] a ver.
+E1: Claro. ¿Y aquí cómo le llaman a la festividad de Todos los Santos?
+I1: Día de Todos los Santos.
+E1: Día de Todos los Santos. ¿No le llaman también Samaín? [HS:I1 No.] Aquí no es, ¿no? ¿Y aquí cómo se celebra esto, cómo...? ¿Qué hacen el día [R-Vcs] de los Santos?
+I2: [A-Nul] [V-Sml]
+I1: [LT-Rfn: [L-Otra: Non envolvas allos con cebolas]] [L-Otra: porque ahora nai te preguntou eso.]
+E1: No pasa nada, no pasa nada. ¿Qué se suele hacer aquí el día de... de los Santos?
+I1: El... el magosto.
+E1: |T6| El magosto. [Asent]. Y... ah, sí, lo que le iba a preguntar antes: aquí entonces para, cuando no había motoras ni nada de esto, ¿cómo, cómo trabajaban el campo? ¿Con animales?
+I1: Con las vacas.
+E1: Con las vacas. [Asent]. Bien. Entonces para arar, ¿qué, cómo, cómo araban aquí entonces?
+I1: Con el arado.
+E1: Sí, pero ¿qué hacían? [R-Vnt] ¿Ataban el, el arado a... a las vacas o a alguna [A-Inn] o a algo?
+I1: [R-Vnt] El arado iba cogido con un aparato a las vacas. [HS:E1 [Asent].] Y se llevaba con la mano... llegar al cabo de, de la tierra, pues... daba vuelta, vuelta al arado. [A-Inn] [HS:I2 Todo el día a arar.] Y otra vez hasta que se terminaba la... la temporada.
+E1: [Asent]. ¿Entonces de Zamora qué traían? ¿Las uvas o traían directamente el vino?
+I1: Las uvas.
+E1: Las uvas. ¿Y aquí ya se... pisaban y todo? ¿Y entonces cómo se prepara el vino? ¿Se pisan las uvas y ya está?
+I1: Ahí está la fábrica. [HS:E1 [Asent].] ¿No, [HS:I2 [A-Nul]] no dice... que quería usted ir a mirar?
+E1: [Asent]. Ahora vamos, sí. [OTRAS-EM] ¿Qué quieres preguntar?
+E2: |T15| Las fiestas, sígame contando. El Sagrado Corazón y qué... ¿qué más fiestas hacen?
+I1: Y la Madalena.
+E2: [Asent]. ¿Y..., y también hacían misa y baile?
+I1: Misa y baile. Baile y misa. [RISAS] ¡Y venga! ¡Dale...!
+E1: [Asent]. ¿Y aquí se hacía también lo de...? ¿En carnaval, en el [L-Otra: entroido] se hacía también... lo de los [L-Otra: cigarrons]?
+I1: Eso no, eso es en Verín.
+E1: ¿Solamente en Verín? [HS:I1 Sí.] ¿No se hace por ningún sitio más? [HS:I1 No.] [Asent]. ¿Y aquí no tienen algo así parecido a eso?
+I1: No, no se, no se hace.
+E1: O sea aquí otra vez se hace baile y..., y música. [HS:I1 Solo.] Solo.
+I1: Y comer.
+E1: Y comer. [RISA]
+I1: Aquí la gente no se olvida de comer. [HS:E1 [RISA]] No.
+E1: ¿Y se disfrazaban también en, en ese día o...?
+I1: Sí, muchas veces.
+E1: ¿Sí? ¿Y de qué se disfrazaban?
+I1: [OTRAS-EM] Vestidos de mujer.
+E1: ¿Se vestían de mujer los hombres? [HS:I1 Sí.] ¿Y las mujeres?
+I1: Las mujeres de monos. [RISAS]
+E1: Qué bueno. O sea que, la vida aquí entonces en, antiguamente era dura, ¿no?, era mucho trabajo.
+I1: Era mucho trabajo.
+E1: ¿Cómo era un día, por ejemplo, normal en... en el campo?
+I1: En el campo trabajando. No... [HS:E1 ¿Se levantaban muy temprano?] Sí, sí...
+E1: ¿A qué hora se levantaba más o menos un día normal?
+I1: A las ocho.
+E1: A las ocho de la mañana. [R-Vcs] ¿Y cuándo acababa la jornada del campo?
+I1: Puede ser a las ocho también.
+E1: A las ocho también. O sea, doce horas en el campo trabajando. Caray, mucho tiempo entonces.
+I1: Se llevaba una merienda y tabas allí todo el día.
+E1: |T14| [R-Vcs] Qué bueno. Y aquí luego, por ejemplo, para conocer a, a las chicas y tal, ¿cómo hacían? Porque si estaban todo el día en el campo...
+I1: [OTRAS-EM] [HS:E1 ¿Cómo se hacía antes?] No, no se lo puedo decir.
+E1: ¿No?
+E2: ¿En el baile o...?
+I1: Esta sabe algo.
+E1: [Rndo: ¿Sabe algo?] [RISA]
+I1: En el baile... en el campo. [HS:E1 [Asent].] En el campo... había... había... había... ¿qué había en el campo? [HS:E1 Pues no sé, nunca he estado en el campo.] Mucho sitio para hacer cosas que no se las puedo decir ahora. [HS:E1 [RISA]] No, pero no se ría de mí, hombre.
+E1: No, no, no, no, está curioso, [HS:E2 Claro,] entonces...
+E2: las mujeres también iban al campo...
+I1: Claro... [HS:E2 Claro.] [A-PIn: no iban a ir las mujeres] al campo. Ahora, [HS:E1 [Asent].] a ver...
+E1: Y luego [HS:I1 Si...] para casarse y todo esto, ¿cómo hacían?
+I1: Pues dejaban el campo y se agarraban al mari-, al novio. [HS:E1 [Asent].] Y ya está.
+E1: Y ya está. ¿Y cómo era una boda aquí en el pueblo?
+I1: La boda aquí en el pueblo pues es como otro lao cualquiera.
+E1: [Asent]. Misa y luego hacían convite también, hacían... invitaban a la gente.
+I1: Alguna gente, pero toda no.
+E1: Toda no, ¿no?
+I2: [A-Pau: Se invitaba.]
+E1: Claro, ¿y qué se hacía después de la boda, o sea, qué se hacía en el convite, a qué se invitaba?
+I1: A comer.
+E1: Ya, pero ¿qué comían?
+I1: Comida, coño. [RISAS]
+E2: ¿Pero hacían algún plato especial [HS:E1 Comían] para...?
+E1: chorizo, comían... [HS:I2 [A-Nul].] [Asent].
+I3: Claro, matarían corderos o cualquier cosa. [HS:E1 Claro.] O algún ternero.
+I1: [R-Vnt] No, terneros no he visto ninguno muerto. [R-Vnt] Todos quedaron vivos [A-Nul]. [HS:E1 [Asent].] Terneros pocos. [HS:E1 [Asent].] Aquí, en las bodas, se va a comer a un restaurante. Y según es la cartera, si es..., hacías el estudiante. [HS:E1 Ah, claro.] ¿Comprendió? [HS:E1 Sí, sí, sí.] No había otro camino.
+E1: |T18| Claro. [Asent]. ¿E hizo usted la mili?
+I1: ¿Yo? A mí no me quisieron allí.
+E1: ¿No? [HS:I1 No.] ¿O sea que usted no hizo la mili?
+I1: No hice la mili.
+E1: |T21| [Asent]. ¿Y cómo fue el irse a Alemania y a Holanda? ¿Por qué se fue?
+I1: Porque no me querían en casa.
+E1: Y le mandaron para allá.
+I1: Claro.
+E1: ¿Y allí qué, de qué trabajó?
+I1: Trabajé en una fábrica de máquinas de escribir. [HS:E1 [Asent].] En... en Alemania. [HS:E1 [Asent].] Y... en Holanda... trabajé en una fábrica de... [HS:I2 [L-Otra: Chourizos].] comer chorizos.
+E1: ¿De comer chorizos? [RISAS] [HS:I1 [CARRASP]] ¿Y en qué parte de Holanda estuvo?
+I1: En... usté no, no sabe dónde, dónde queda eso.
+I3: Eindhoven.
+E1: ¿En Eindhoven?
+I1: No, no. Se llama Oss.
+E1: ¿En Oss? [HS:I1 [A-Pau: En Oss].] ¿Y eso qué está: al norte o al sur?
+I1: Al norte.
+E1: En el norte, [Asent]. ¿Y Alemania en qué zona estuvo?
+I1: En... [R-Vcs] no me acuerdo... no me acuerdo ahora.
+E1: Bueno, no pasa nada. ¿Y luego allí entonces para hablar cómo hacía con la gente? ¿O conocía ya a alguien allí que... que estuviese tiempo y ya controlase el idioma?
+I1: [R-Vcs] Hablar cada uno habla a su manera.
+E1: Pero se entendían, ¿no?
+I1: Algunas veces y otras... quedabas sabiendo lo mismo. [HS:E1 Sí.] Se ponían: "Bla, bla, bla, bla, bla, bla, bla, bla, bla [ONOMAT]". Y yo aplicaba el oído, pero... [R-Ind] [HS:E1 Ya.] ¡nada!
+E1: Claro. Y... ¿conocía allí españoles entonces?
+I1: Alguno sí.
+E1: [R-Vcs] [Asent]. ¿Y qué hacía con los españoles allí? ¿Cómo, cómo, cómo era el tiempo de ocio? ¿Qué hacían cuando tenían tiempo libre?
+I1: [L-Otra: Cando] había un momento libre, nos juntábamos y... cada uno hablaba lo que le parecía.
+E1: [Asent]. ¿Qué se juntaban? ¿En algún bar o algo?
+I1: No, no, allí en la... en la hora de... de recreo. [HS:E1 [Asent].] Juntábamos allí, hablábamos los, los... los vecinos de unos y de otros.
+E1: [Asent]. ¿Y fue duro también vivir allí? [HS:I1 ¿Eh?] ¿Fue duro también vivir allí?
+I1: Claro que fue.
+E1: ¿Por qué?
+I1: El no entender la, la manera de hablar pues ya es duro.
+E1: Claro. [Asent]. Y... ¿con qué edad se fue para allá?
+I1: [R-Ind] Había... [CARRASP] veinticinco años, [L-Otra: Vintecinco o vinte e seis anos? Eh!]
+I2: [L-Otra: Do qué?]
+I1: Cuando fui para Alemania.
+I2: [A-Pau: Ah, sí.] [A-Nul].
+E2: ¿Y cuánto tiempo estuvo allí?
+I1: Tres años y otros tres en Holanda. Y me vine para casa.
+E1: [Asent]. O sea que estuvo seis años fuera. Y luego, por ejemplo, para Navidades y todo eso, ¿lo pasaba allí? [HS:I1 No.] ¿Venía para acá?
+I1: Pedía permiso y me lo daban.
+E1: [Asent]. ¿Había muchos españoles por allí?
+I1: Sí, había bastantes. [CARRASP] Sí había.
+E1: [Asent]. Y me imagino que de todas partes de España, claro.
+I1: Sí había... cacereños... de todo había.
+E1: [Asent]. ¿Y con cuál, con quién hizo más amistad allí? ¿De qué parte era?
+I1: Pues... tuve un cacereño que s-, que fue amigo mío y me hizo una cosa que ningún gallego me lo hacía. [HS:E1 ¿El qué?] El caso que me hacía. Di un golpe con la bicicleta | tení-, teníamos que andar en bici dieciocho kilómetros: nueve pa allá y nueve pa acá. Y... di el golpe con la bicicleta... [R-Vcs] y...
+E1: [R-Ind] ¿Y qué le pasó?
+I1: La torcí, el, el, el eje. Anduve para enderezarla, pero no fui capaz. [R-Vcs] [HS:E1 [Asent].] Cojo la bicicleta... al hombro, arreando por... por la carretera. Viene el cacereño, para..., me trae una moto... [CARRASP] me montó a mí en la moto y yo la bicicleta arriba del hombro y me llevó a la residencia.
+E1: ¿A una residencia? [HS:I1 Sí.] ¿Qué vivía, en una residencia allí o tenía una casa? ¿O era donde trabajaba?
+I1: Tenía yo una casa allí que era para todos.
+E1: ¿Era muy grande?
+I1: Claro que era grande...
+E1: ¿Y costaba mucho dinero?
+I1: A mí no me costaba nada.
+E1: ¿Se lo ponía la empresa? [HS:I1 Claro.] Ah...
+E2: ¿Y vivía solo? ¿O... con otros compañeros?
+I1: Con los compañeros. No, so-, yo allí miedo no tenía.
+E1: ¿Porque había mucha gente?
+I1: [OTRAS-EM] Había españoles y turcos y... de todo había.
+E1: Y allí me imagino que echaría de menos la comida de aquí, ¿no? [HS:E1 ¿Eh?] Allí me imagino que echaría de menos también la comida de aquí.
+I1: No sé lo que le voy a decir... [HS:E1 [RISA]] porque... allí había un cocinero que era... holandés y... la comida algunas veces no se comía. Una vez... preparó un bacalao y..., y lo... por un lao tenía buena cara, pero por el otro lo quemó. Y llega el... el dueño de la residencia y dice: "¿Qué? ¿Bien comer?". Nos callamos. No todos. Yo no me callé. Le dije: "Aquí no es bien comer. Esto es mal comer y mal hacer de comer". El tipo quedó así [G-Imt], marchó y no volvió.
+E1: [RISA] ¿Y cambiaron al cocinero?
+I1: Era un... andaluz.
+E1: ¿El cocinero?
+I1: Sí.
+E1: Claro. [R-Vcs] Y luego allí, ¿hacían fiestas los españoles o...? [HS:I1 No.] No hacían ninguna fiesta. [HS:I1 No.] Y cuando llegó aquí a España otra vez, ¿a qué, en qué empezó, en qué, qué trabajó?
+I1: [R-Vcs] En la labranza. [HS:E1 En la labranza.] Aquí mi estudio era la labranza. [HS:E1 [Asent].] Con las vacas. Venga pa acá y venga pa allá.
+E1: [Asent]. ¿Se ha dedicado entonces toda su vida al campo?
+I1: [R-Vcs] Sí.
+E1: |T18| [Asent]. [R-Vcs] ¿Y aquí, por ejemplo, se notó mucho el tema de la Guerra Civil?
+I1: [R-Vcs] Aquí no se notó casi nada, pero... pero la gente... [CARRASP] taba un poco acojonada. [HS:E1 Normal, [Asent].] El, el pánico era bastante a pesar de que por aquí no hubo nada.
+E1: ¿Aquí en este pueblo? ¿O dice en esta zona en...?
+I1: En esta, en esta zona toda.
+E1: [Asent]. Pero sí que me imagino que le llegarían no-, noticias de por allí, ¿verdad? [HS:I1 Sí.] Claro. [HS:I1 Claro.] ¿Y conoció usted a alguien que sí que le hubiera afectado la Guerra Civil? ¿Que hubiese perdido algún familiar o algo así?
+I1: Yo... mucha. [HS:E1 ¿Muchas?] Esa casa que está ahí enfrente... le mataron... dos.
+E1: ¿En la guerra?
+I1: Uno fue acribillado a tiros y el otro ahorcado. [HS:E1 Hostia...] Iban para... África y echaron el barco abajo y... se jodió. Y el otro... era más malo que la, que el hambre. Vio venir a uno a entregarse con los brazos arriba, sin armas, y le clavó un cuchillo... en el vientre y lo mató en el momento. [HS:E1 Caray.] Pero al día siguiente vino u-, una bala del paseo por allí y lo pilló y lo mató. [HS:E1 Vaya.] Y hasta luego, Mari Pepa, no dijo más nada.
+E1: [HS:E1 [Asent].] ¿Y quién lo mató?
+I1: La bala.
+E1: Ya, hombre, claro, me imagino. [HS:I1 [RISA]] Pero ¿quién, quién le disparó?
+I1: [CARRASP] No se sabe. [HS:E1 No se sabe.] [CARRASP]
+E1: ¿Y la posguerra fue también muy dura aquí o... se notó menos?
+I1: Aquí no se notó nada más que miedo. [HS:E1 [Asent].] Aquí no, que no... bueno, [A-Inn].
+E1: ¿Aquí en esta zona?
+I1: Aquí en este pueblo.
+E1: ¿En este pueblo? [Asent]. ¿Tenían miedo?
+I1: No, miedo no, pero... mucha franqueza no se [L-Otra: levaba]... [HS:E1 [Asent].] por si acaso.
+E1: [Asent]. ¿Y usted ha notado que han cambiado mucho aquí las cosas en este pueblo, de cuando usted era joven a ahora? [HS:I1 Na...] ¿No ha cambiado mucho?
+I1: [R-Vcs] Tá todo igual. No... No cambia.
+E2: |T12| Porque, ¿aquí hay colegio?
+I2: [L-Otra: Non] hay, lo quitaron.
+I1: Había.
+I3: Antiguamente había dos escuelas. [HS:I2 Antes sí.]
+E1: Aquí en [HS:I3 Sí,] Cádavos.
+I3: una [HS:E2 ¿Usted hasta qué e-?] de chicas y otra de chicos. [HS:E1 [Asent].]
+I1: Claro.
+E2: ¿Hasta qué edad fue?
+I1: [R-Vcs] Hasta los catorce años.
+E1: [Asent]. Y... ¿y por qué dejó la escuela?
+I1: [R-Vnt] Porque no era mía. [RISAS]
+E1: [R-Vnt] A ver, ¿por qué dejó de ir a la escuela? ¿No le gustaba?
+I1: [R-Vnt] Al llegar a los catorce años éramos obligados a dejar la escuela.
+E1: [R-Vnt] ¿Y por qué eran obligados?
+I1: [R-Vnt] Porque tenían que meter otros.
+E1: [R-Ind] ¿Y a usted le gustaba ir a la escuela? [HS:I1 No.] [Rndo: ¿No?] [RISA]
+I2: [A-Nul].
+E1: ¿Y por qué no le gustaba? ¿No le gustaba estudiar o el maestro era malo?
+I1: El maestro no era bueno, no.
+E1: ¿No?
+E2: [R-Ind] [A-Pau: ¿Les pegaban?]
+I3: Sí, pegaban antes, pegaban los maestros.
+I2: [A-Pau: [L-Otra: Pegábamos ós fillos...]]
+E1: Sí. [HS:I1 Tení-] ¿Por qué le pegaba? ¿A usted le pegó?
+I1: Cuán-, [HS:I2 [A-Nul].] cuántas vec-...
+E1: ¿Y, y por qué?
+I3: Hombre, me pegaron a mí... Me cago en la leche.
+I1: [R-Vcs] Hasta me meé por las piernas abajo una vez.
+E1: [R-Vcs] ¿Y eso?
+I1: [R-Vcs] Pues me dio una paliza que... no quero decir nada.
+E1: Sí. [HS:I2 [A-Nul] de otra manera.] [HS:I1 [Asent].] ¿Pero porque no hacía los deberes o algo? ¿O por qué?
+I1: Yo no sé ni, ni dar contestación porque... [L-Otra: eu] creo que... que no tenía razón ninguna el maestro. [HS:E1 [Asent].] [R-Vcs] Pero... se clavó en mí... bomba, bomba, bomba, bomba y... gracias a un pantalón que traía gordo, que me quitó mucho.
+E1: Caray. O sea que tenía un poco la mano larga el profesor, ¿no?
+I3: [HS:I2 [A-Inn].] [A-Pau: Sí tenía, sí.]
+I1: [R-Vnt] Era un hijo puta. [HS:I3 De verdad,]
+I3: [R-Vnt] pegaba a los chicos por cualquier cosa. Y ha habido maestros que se dedicaban más bien antes que a dar escuela a otras cosas. Y luego venían mosqueados por lo que fuera y cogían a los chicos y en vez de enseñarles, leña. Te dejaban [A-Inn].
+E1: [Asent]. Se desfogaban con los chavales. [HS:I3 Ya, oye.]
+I2: [A-Inn] era así también.
+E1: Claro. ¿Y qué era? ¿Un cura... o sea, era un cura el que daba las clases o era una persona?
+I1: Era un maestro.
+I3: Era un profesor.
+E1: [R-Vcs] Era un profesor. ¿Y no era religioso ni nada?
+I3: No.
+E1: |T10| [Asent]. ¿Y aquí el cura, aquí el cura no... nunca ense-, nunca dio clases ni nada ni...?
+I1: Ni falta que hace.
+E1: [Rndo: Ni falta que] [RISA] ¿Por qué?
+I3: Antes tenían chicas catequistas que antes hacían ir a los chicos. ¿Cómo que no? A catequesis.
+E1: Claro. ¿Usted fue a catequesis? ¿Hizo la comunión y...? Nada.
+I2: [R-Ind] [A-Nul] [HS:I1 [CARRASP]]
+I3: |T12| Y los chicos tampoco podían seguir estudiando. Primero porque sus padres no tenían posibilidades pa... mandalos a estudiar y segundo que necesitaban trabajar en el campo.
+E1: ¿Pero porque había que pagarle al maestro? O sea, ¿pagaban ellos al maestro?
+I3: Cuando [HS:I1 No.] salías de los estudios de EGB y tenías que estudiar, el que tenía dinero estudiaba y el que no, no. [HS:E1 Claro.] El que no, al campo a trabajar.
+E1: Claro, fueron a... ¿la escuela que dice [NP] hasta los catorce años era gratuita o había que pagarla?
+I1: Era gratuita, no se pagaba nada. [HS:I3 Sí...] [HS:E1 [Asent].]
+E2: |T10| ¿Y entonces el cura vivía aquí, en el pueblo?
+I1: Vivía.
+E1: O sea que el cura, el cura no, no venía un, de fuera a dar misa ni nada de esto, era el de aquí, ¿no?
+I3: Sí, [HS:I2 El cura, el cura...] vivía aquí, pero daba misa en dos o tres pueblos. [HS:E1 Claro.]
+I1: [R-Vnt] En ese pueblo de ahí, Manzalvos. [HS:E1 Manzalvos.]
+I3: [R-Vnt] [A-Nul] estaba viviendo aquí, otras veces vivía en otro pueblo... donde le pillaba.
+I2: [L-Otra: Eso non temos queixa, non.]
+E1: |T16| ¿Y médico había aquí también?
+I3: Sí, era este señor que estuvo aquí. [HS:E1 Ah, ¿sí?] Ese era el médico.
+E1: ¿Ese era el médico?
+I2: [L-Otra: Ese era o médico], [HS:I1 Del ayuntamiento.] sí.
+E1: [Asent].
+I2: El médico del ayuntamiento era.
+E1: ¿Y aquí cómo se hacían los partos? Cuando alguien... cuando alguna mujer daba a luz, ¿quién le ayudaba?
+I2: [L-Otra: Pois en... [HS:I1 El médico.] as veciñas e as, e as [A-Inn] que precisábamos] [R-Vcs] [L-Otra: delas e viñan o médico e outro, a algunha coisa.]
+E1: [R-Ind] Y aquí no había comadronas, ¿no?, [HS:I2 No, no, aquí no.] [HS:I1 No.] o parteras. O sea, iban directamente al médico, ¿no?
+I2: [L-Otra: Nós é como...] [HS:I3 Y muchas]
+I3: mujeres daban a luz solas en casa sin ayuda de nadie, [HS:E1 Claro.] sí, sí, sí, sí. [V-Sml]
+I2: [L-Otra: Nada, só se vivía que...]
+E1: O sea que no tenían médicos y sí que había mujeres que eran... [HS:I2 Las... sí, eso.] las parteras.
+I1: Sí, sí...
+I2: [L-Otra: Había algunha que era] [R-Ind] [L-Otra: entendida e axudaba a... saca-lo crío.]
+E1: [Asent]. ¿Y cómo se, cómo, cómo hacían esas mujeres para ayudar?
+I2: [L-Otra: A-, axudábanle, le, le... non sei porque eu... axudábanle a sacar o crío. Pero como non foi eu, que nunca axudei a sacar a un, a un...] [R-Vnt] [L-Otra: [A-Nul] chamáronme, que estábamos porta con porta, chamáronme e... o crío estaba xa botándolo así como [A-Nul] e eu agarrei por un [A-Nul] saqueino eu,] [HS:E1 [Asent].] [L-Otra: a verdá.]
+I3: Ayudaba tirar un poquito, [HS:I2 Sí...] claro.
+E1: Claro. ¿Y qué se hacía? Se ponía agua caliente, [HS:I2 Sí...,] imagino.
+I2: [L-Otra: porque tíñamos que lavar o meniño en, en, en augua normal.] [HS:E1 [Asent].] [L-Otra: Primero tiña que lavar... todos...] [HS:E1 [Asent].]
+IE1: Buenas tardes.
+I1: [HS:E1 [HCruz: Hola].] [HCruz: Buenas.]
+E2: [HCruz: Hola, buenas.]
+I2: [HCruz: Hola.] [A-Nul] [L-Otra: Axudábamos unhas ás outras porque aquí no había médico, había unha...] [R-Ind] [L-Otra: a xente non...]
+I1: A callar, que a ti no te entienden.
+E1: [RISA]
+I2: A mí [A-Inn] me entienden.
+E1: Sí, claro que sí. O sea que usted sí que ejerció alguna vez de partera entonces. [HS:I2 Sí.]
+I1: Una vez en... en la vida.
+E1: Bueno, ya es algo.
+I2: [L-Otra: Entón... á] [NP] [L-Otra: e ao [A-Nul] teño axudao.]
+I1: [L-Otra: A callar... que te botan unha multa por andar metendo as maos no...]
+I3: Sí, hombre, ¿por qué? ¿Por decir la verdá? [HS:I1 [TOS]] ¿Verdá? Di que no, que estos chicos [A-Inn] pa la historia, de lo que pasaba antiguamente, para hacer comparaciones, seguramente, [HS:E1 Sí, claro.] valorar las cosas antiguas.
+E1: Exactamente.
+I2: [A-Nul].
+I3: Claro. [HS:E1 Claro.] Eso es bueno que se sepa.
+E1: Sí, sí, sí. [HS:E2 Sí.]
+I3: Lo mal que lo pasaba la gente.
+E1: Sí...
+I2: [HS:I1 [CARRASP]] No había costumbre de eso aquí, [HS:I1 [CARRASP]] [L-Otra: mutas morrían aínda..., a xente morrían], otras no.
+E1: [Asent]. O sea que aquí siempre hubo médico, ¿o no?
+I1: En el pueblo no.
+E1: En el pueblo no. [HS:I2 [A-Nul] da Mezquita.] Y venía el pu-, el médico de Mezquita.
+I1: [HS:I2 Sí...] Ah, claro.
+E1: ¿Y pasaba consulta un día o cuando [HS:I2 [L-Otra: Xa viña]...] ya se le llamaba venía?
+I1: [R-Vnt] La consulta era en La Mezquita y había que ir allí.
+E1: [Asent].
+I2: [L-Otra: E se tíñamos un..., que tíñamos que chamar, viñan] [HS:E2 ¿Y có-, cómo lo] [L-Otra: a axudar a sacar...]
+E2: avisaban al médico?
+I2: [OTRAS-EM] No, no se avisaba.
+I1: O sea, [L-Otra: como va se enterar o médico se non se avisa, hostia?]
+I2: Ah... [HS:I3 Si tenía que venir...] [HS:E2 Sí.] mandábamos a...
+I3: Se le mandaba una razón por alguien, siempre iba allí, hombre. [HS:E1 [Asent].] Porque La Mezquita es el ayuntamiento. Ahí siempre estaba pues todo. Y el médico y todo. Entonces, claro, las consultas había que ir allí, [HS:E1 Claro.] al médico. [HS:E1 ¿Y si alguien tenía...?] Y si tenía que venir porque el enfermo no pudiera ir, pues alguien, cualquier vecino que fuera... [V-Sml] [R-Glp]
+I1: Andan las castañas todas tiradas por ahí [L-Otra: adiante]. [HS:I3 [A-Inn] [L-Otra: ido a coller].] Yo no cojo castañas ni castaños. [RISAS]
+E1: |T6| ¿Usted cogió, cogía muchas castañas antes?
+I1: Pocas. [HS:E1 ¿Pocas?] Las cogía esta. [RISAS]
+I2: [A-Pau: [L-Otra: Si as collíamos, a castaña].]
+E1: Tiene que ser cansado coger [HS:I2 [L-Otra: Pero tiñan que]] castañas.
+I2: [L-Otra: collelas [A-Nul]] [HS:E1 Claro.] [L-Otra: que chamamos aquí.]
+I1: Molesta mucho los riñones.
+E1: Ya supongo, claro. [HS:I1 [Asent].]
+I3: Claro, las que quedan dentro ties qu'ir con el pie dándole [HS:E1 Sí.] pa que salgan las castañas.
+E1: |T20| Claro. Y... ¿setas por aquí se cogen?
+I3: [A-Pau: Sí se cogen, sí]. Ahora hay mucho boletus por aquí también. [HS:E1 Mucho boletus.] [HS:I2 [A-Nul].] Hay varios tipos de setas, lo que pasa que...
+I2: [L-Otra: Ah, este ano hubo...] [HS:I3 Sí.]
+I1: No las [HS:I3 Yo solo] conocen...
+I3: me atrevo a coger dos clases, pero hay quien coge muchas aquí.
+E1: [Asent]. [R-Ind] ¿Y usted, por ejemplo, cómo sabía cuál eran las setas buenas y cuál eran las setas malas?
+I1: Yo sí lo sabía [P-Enf: y lo sé.]
+E1: ¿Y cómo, cómo hace usted para diferenciarlas?
+I2: [HCruz: [L-Otra: ¿Vais ás castañas?]]
+IE2: [HCruz: Sí.]
+I1: Se cogen y se arrancan y... ya está.
+E1: ¿Pero cuáles son las buenas y cuáles son las malas? Porque hay algunas que son malas.
+I1: [R-Ind] Pero las que son malas ya no las cogemos.
+E1: [R-Vnt] ¿Pero sabe usted diferenciar cuáles son las buenas y cuáles son las malas?
+I1: Sí.
+E1: ¿Y cómo se diferencian?
+I1: Porque son de diferente... formación.
+E1: [R-Vnt] [V-Ljn] ¿Cuáles son las que se pueden coger? ¿Qué forma...? | si nosotros, por ejemplo, quisiéramos ir a coger castañas ahora o de... setas, ¿cómo, cómo tendríamos que hacer?
+I1: Tienes que llevar un criado contigo.
+E1: [RISA] ¿Y que las pruebe antes él, por si son malas?
+I1: [RISA] Tiene que ser así. Él, que diga: "Esta es buena; esta, no".
+E1: [Asent]. ¿Y usted llevaba criado? [HS:I1 ¿Eh?] ¿Usted llevaba criado para coger setas?
+I1: Yo no porque yo las... las setas las tengo aquí [G-Mst], de mamoria lo sé.
+E1: [Asent]. [R-Vnt] Claro.
+E2: [R-Vnt] ¿Y aquí nunca ha comido nadie alguna seta que estuviese mala?
+I1: Sí, sí, sí.
+I3: Sí, sí, alguno, pero [A-Inn] hace mucho. [RISAS]
+I1: Hay... [A-Inn].
+I3: [A-Inn] setas por áhi.
+I1: [L-Otra: A irmá da] [NP] [L-Otra: non morreu.] [HS:I2 [L-Otra: Morreu [A-Inn]].] Claro. De las setas [L-Otra: e]... Aum [ONOMAT]. Olvidó de los mirar.
+I4: Las setas antes aquí solo se cogían unas... e-, lepiota, no se cogía otra.
+E1: [R-Vnt] ¿Y luego cómo se cocinan las setas? Hay que cocerlas bien, supongo [HS:I3 Claro.] y... [Asent].
+I1: Y ponerlas a cocer y... prepararlas y comerlas.
+E1: ¿Y cómo se comen aquí: asadas o...? [HS:I4 Fri-, frito.]
+I4: Fritas en aceite. En aceite con unas lonchas de sal. [HS:E1 [Asent].] [HS:I2 [L-Otra: A fritas nunha sarten].] Y jamón. [A-Inn] Haces un picao de setas, le picas un poco la panceta y el jamón [HS:E1 [Asent].] y..., y así está muy bien. Luego, claro, hay quien las hace con un guiso, que ya es con carne, como [A-Inn] estilo champiñón, [HS:E1 [Asent].] que están riquísimas.
+E1: [HS:I1 [CARRASP]] [A-Pau: Tiene que estar bueno, sí.] [Asent].
+I1: Las setas están buenas, pero el jamón está mejor.
+E1: [RISAS] Está mejor, eh. [RISA] Y si es el que hace uno, mejor aún.
+I1: A ver...
+E1: |T1| ¿Aquí también curaban jamones o los mandaban fuera a cu-, a curar?
+I1: No, se curan aquí.
+E1: Se curan aquí. ¿Y cómo se curan? ¿Los cuelgan y ya está o los...?
+I1: Se le echa sal, [HS:E1 Sí.] se pisan bien para que le salga el aire... y después se [L-Otra: colgan], [HS:E1 [Asent].] donde se ponen de sal. Y al fin... se, se limpian y se cuelgan.
+E1: [Asent]. ¿Y todos se curaban? ¿O se dejaba alguno para hacer lacón?
+I1: Se... [HS:I3 Los jamones]
+I3: los curaban. [HS:E1 Los curaban todos, ¿no?,] No hacían lacón.
+E1: no los cocían ni nada.
+I3: No. [HS:E1 [Asent].] Aquí los curaban, pero los tenían quince días en sal, luego le limpiaban toda la sal, le echaban los productos de sal a los jamones esos que eran, [CHASQ] los colgaban ahí un tiempo hasta que curaban.
+E1: [Asent]. ¿Y cuánto tarda en curar?
+I2: [A-Nul] días.
+I1: Quince días o veinte. [HS:I4 Sí,]
+I4: quince días. Dependía del sal, del tamaño del jamón. [HS:E1 Claro.] Si es de veinte kilos, tienes que tenerlos un día más o dos; si es de quince, pues claro, dos días menos.
+E1: [Asent]. Claro. [Asent]. O sea, aquí lacón no se hace.
+I4: No, [R-Vnt] porque ya está curao el jamón, ya está...
+E1: Claro. Nosotros como lo conocemos en Madrid es como... [HS:I3 Jamón cocido.] jamón cocido. Aquí no se cocía [HS:I4 Aquí,] el jamón.
+I4: aquí se co-, sí... aquí se cuece pa, pa'l caldo. Luego se hace el caldo con eso, pero | y es el propio lacón, lo que pasa es que nunca [R-Ind] [A-Inn].
+E1: Claro, claro, sí, sí. [R-Ind]
+I4: Se curaba todo junto.
+I3: No, pero aquí... | el, lo que él dice es el jamón [A-Inn]. [R-Ind]
+I4: Pa'l verano, pa los trabajos, pa... ¿entiendes? A lo mejor vienes de trabajar y no hay ni tiempo de hacer la comida. En verano sobre todo, que es la recolección de hierba, de, de centeno. Lo más práctico es cortar unas lonchas de jamón, un cacho pan, un vino y cualquier otra cosa y andando. [HS:I2 [L-Otra: E chourizo].] [HS:I1 Y volver a marchar.] [A-Nul] huerta por los tomates y... [HS:E1 Claro.] [A-PIn: y los chorizos pasaba eso también.]
+I3: Codillos, o codillo sí.
+E1: El codillo sí se cocía, ¿no?
+I3: Sí, sí, hombre. [V-Sml]
+I1: Esto [G-Mst] se cayó y rompió los cuernos, mira a ver si se estropió.
+E1: ¿Quién? ¡Ah!
+E2: El teléfono.
+E1: |T2| Sí, no, no, sí es... | [R-Ind] ¿Cómo se prepara aquí el codillo? ¿Cómo se... se hace el guiso o... [HS:I1 No...] se deja curando...?
+I1: Es que eso se cuece y se come. No tiene otro misterio.
+E1: ¿Se come solo o se, se le echa...? [HS:I1 Con los dientes.] Hombre, ya. [RISAS] O muy picadito, ¿no? [HS:I1 Pero...] ¿Se le echa algo más? ¿Se le echa... patata o grelo...?
+I1: Se le puede echar lo que se quiera. [V-Ljn] [HS:E1 [Asent].] Pero yo... lo comería... sin nada más.
+E1: Si nada más; cocido y ya está.
+I1: Cocido y abajo.
+E1: Para adentro, ¿no? ¿Cuál es la comida, cu-, cuál es el plato más típico de aquí, de esta zona?
+I1: El [HS:I4 El caldo gallego.] caldo.
+E1: El caldo gallego. [HS:I3 [A-Inn].] ¿Y qué lleva el caldo gallego?
+I4: Lleva lacón, tocino, chorizo, berza, patatas...
+E1: [Asent]. ¿Y?
+I3: Y un poco de unto.
+E1: ¿Qué es el unto?
+I4: El unto es... es la grasa del cerdo que se cura. [HS:E1 [Asent].] El unto como... queda [HS:I1 Unto...] como si fuera manteca espesa y muy... [HS:I3 Eso es que es manteca, es manteca.] manteca.
+E1: Y berza o... el, el grelo es como la berza, ¿no?
+I3: El, grelos son... es verdura también, sí.
+E1: Pero no es [HS:I4 Es aquello, mira,] lo mismo que la berza, ¿no? [HS:I3 No.]
+I4: aquello que hay allí. Las berzas son aquellas que hay allí, sí... [HS:E1 Son berzas, ¿no?] Luego hay berza gallega y hay... otra berza más rubia que es, que... [HS:I1 [TOS]] [HS:I2 [A-Nul].] más corta, más clara, distinto sabor.
+E1: [HS:I2 [A-Nul].] [Asent]. ¿Y es lo mismo que la nabiza? No, ¿no?
+I4: No... [HS:I3 No.]
+E1: Pero es parecido.
+I4: [HS:I3 No.] Es verdura igual... parecida es. [HS:E1 [Asent].] Es como, es, es [HS:I3 La raíz] como...
+I3: es verde oscura, verde, verde, como la hierba. [HS:E1 Sí.]
+I4: Tiene un parentesco muy, muy, muy... bárbaro con el repollo.
+E1: [Asent]. Pero es lo que más se come aquí, el caldo gallego, ¿no? [HS:I4 Sí.] Pero imagino que en verano se come otra cosa, ¿no?
+I3: No, sí, [L-Otra: home], se come de todo.
+I4: De todo, de todo lo que haiga en la huerta. [HS:E1 Claro.] Y algo que se cocina... siempre... hay caza, hay...
+E1: ¿Aquí también se caza? ¿Se caza bastante por aquí?
+I4: Sí. Hay de todo.
+E1: |T20| ¿Y qué se suele cazar por aquí?
+I4: Conejo y perdiz. [HS:E1 Conejo y perdiz.] Jabalí y corzo.
+E1: ¿Qué hay? ¿Caza mayor y caza menor? [HS:I4 Sí.] ¿Y qué se hacen? ¿Cotos o...?
+I4: [A-Pau: Ya están hechos los cotos.]
+E1: Ya están hechos los cotos. [Asent]. ¿Y cuáles son las temporadas aquí de caza? [HS:I4 Ahora.] ¿Ahora es la temporada?
+I4: [A-Nul] sobre enero, [HS:E1 [Asent].] enero.
+I1: Enero... enero.
+E1: ¿Y usted cazaba?
+I1: Yo cacé. [HS:E1 [Asent].] Ahora no.
+E1: ¿Y cómo cazaba? ¿Cazaba al aguardo? ¿Cazaba al reclamo?
+I1: A tiro limpio.
+E1: A tiro limpio, ¿no? O sea, pero ¿usted qué iba?, ¿por el campo y... directamente pegaba [HS:I3 Ayudábamos a levantar,] un tiro?
+I3: ayudábamos a levantar, con los perros van... te van... buscando por la mata, ¿no?, y... levantaba un conejo y él cuando pudiera pues le tiraba. [HS:E1 Claro.] Y a tomar por saco. [HS:E1 [Asent].] Y a la perdiz pues a... al rastro, o sea...
+I2: [L-Otra: É que sen perro non... non, non, non, non sae.] [HS:E1 Claro.] Están tan metidos [L-Otra: no, no seu...] [HS:I3 Están escondidos.] [HS:E1 [Asent].] [L-Otra: na, na casa.]
+E1: [Asent]. ¿Y usted tenía perros también entonces para cazar? ¿Cuántos perros tenía?
+I1: [V-Ljn] Dos.
+E1: Dos perros. ¿Y con eso ya es suficiente?
+I1: Y suficiente con uno.
+E1: ¿Qué eran? ¿Muy listos entonces? [Asent].
+E2: [V-Ljn] ¿Y qué es lo más grande que cazó? [HS:I1 ¿Eh?] El animal más grande que cazó, ¿qué era?
+I1: Una pulga. [RISAS]
+E1: [HS:E2 [Rndo: ¿Y el más pequeño?]] Con una escopeta, ¿no? [RISAS]
+I4: Contesta a todo bien, eh.
+E1: Tiene salida para todo.
+I4: Y entonces el más pequeño, ¿qué era? ¿Un lobo?
+I2: [A-Inn]. [RISAS]
+E1: ¿Y cuál fue el más pequeño entonces que cazó?
+I1: Yo qué sé...
+E2: Un jabalí.
+I1: Jabalíes... [OTRAS-EM] ¡Cuántos me dieron  a las piernas!
+E1: ¿Sí? ¿Y eso por qué? [HS:I1 Porque] ¿Estaba corriendo y...?
+I1: querían que los matara y no los maté.
+I3: Y salían corriendo.
+I2: [HS:I1 No...] [L-Otra: Non daba tempo a matalos.]
+E1: Claro. ¿Y alguna vez le mordió [HS:I3 [A-Inn].] algún jabalí?
+I1: No.
+E1: [Asent]. Porque es peligroso. El mordisco de un jabalí...
+I1: Vaya, [HS:I2 [L-Otra: Vai polas castañas, anda].] si era peligroso. [HS:I2 [L-Otra: Vai polas castañas].]
+E1: ¿Y luego con el jabalí qué hacían? ¿Lo mismo que con el cerdo? [HS:I1 ¿Eh?] Cuando mataban un jabalí, ¿qué hacían? ¿Lo mismo que con el cerdo o...?
+I1: Sí, lo mismo que, que con un cerdo.
+E1: Pero ¿qué estaba, qué estaba más rico? ¿El cerdo o el jabalí?
+I1: [R-Vhc] A mí me parece que... tá mejor el cerdo que el jabalí.
+E1: ¿Mejor el cerdo que el jabalí? [HS:I1 [Asent].] ¿Por qué? [R-Ind] ¿Porque es más tierno?
+I1: Claro. El jabalí es duro.
+E1: [Asent]. Entonces, ¿para comerlo?
+I1: Para comerlo hay quien compra una lima y lima los dientes y lo come.
+E1: Y lo afila, ¿no? [RISA] Pero ¿también existía chorizo, se curaban los jamones de jabalí y todo esto?
+I1: Hay quien hace eso, pero nosotros no.
+I2: [A-Pau: [L-Otra: Eu nunca o fice].]
+E1: Pero entonces, ¿cómo preparaban el jabalí? ¿Directamente para cocinarlo y ya está?
+I1: Y a comerlo.
+I2: [L-Otra: Depois cuando son pequenos, cuando son grandes son máis, máis... aquí ven para... para cazalos.] [HS:E1 [Asent].] [L-Otra: E como os agarren, lévanlos.] [HS:I1 Ay, no.] [L-Otra: Matan, mátanlos e lévanlos.]
+E1: ¿Y el corzo? ¿También, también cazaban corzos aquí?
+I2: [L-Otra: No, a corza non ten matado.]
+I3: [L-Otra: Si que hai máis corzos, si.]
+I1: [L-Otra: Pero, coño, ese home que está en casa de] [NP], [L-Otra: ¿qué está facendo ahí?]
+I3: Matando corzos.
+E1: ¿Usted mató corzos?
+I1: Ni corzas tampoco, [HS:E1 Tampoco.] entonces no había.
+E1: No había, ¿crecen aquí las... [HS:I3 Ahora ya en los cotos.] en las cotas, en los cotos?
+I3: Por to los laos. A-, aquí al, al lao de la casa los hay.
+E1: Pero que los han traído aquí para que procreen o los traen directamente de algún otro sitio para los, para los corzos.
+I3: Qué va, si bajaron ellos. [HS:E1 Ah, ¿sí?] Bajaron de la sierra [HS:I1 Se crían ellos solos.] a, a comer.
+I1: Ellos solos se crían.
+I3: ¿Ahora qué pasa? Que antiguamente se trabajaba todo el ca-, todo lo que ves ahora de, de, de monte [HS:E1 Sí.] hace treinta años eso era todo... sembrao. [HS:E1 [Asent].] Estaba todo cultivao, todo. No se veía una [A-Inn] algún sitio, todo. Entonces hay, es todo bosque, bosque bajo y se meten ahí y de ahí no hay quien los saque.
+E1: Claro. O sea que por ahí... hay que ir con cuidado.
+I3: [Asent]. De noche sobre todo con los coches, bueno... a mí se me estampó uno no hace mucho contra el coche. [HS:E1 Caray.]
+I4: Y aquí a varia gente. [V-Mrm] [R-Grb] Sí, hombre. Hay jabalís... algún lobo.
+E1: ¿Hay lobos aquí?
+I2: [L-Otra: Lobos ahora...] [HS:I3 Alguno han visto ya por aquí.] [L-Otra: teño visto pocos.]
+E2: A comer, [HS:I4 Claro.] no encuentran...
+I4: Bajan de la sierra... siguiendo la, la, las cabras, los corzos estos.
+E1: |T7| [Asent]. ¿Pastoreo no hay?
+I3: Aquí hay un chaval que tiene cuarenta vacas, pero es el único que tiene. [HS:E1 [Asent].] La demás gente no, aquí no hay na, ni ovejas, ni cabras, ni... ni na.
+I1: Cabras montesas hay bastantes.
+I4: Sí. [HS:E1 ¿Sí?] Aquí hay algún cabrito que otro. [HS:E1 [RISA] Es verdad.] [HS:I2 [A-Nul].] Y alguna cabritilla suelta, pero bueno... [HS:E1 [RISA]]
+I2: [L-Otra: Esas si que son bobas, pero... [A-Inn]] [HS:I1 [CARRASP]]
+E1: |T2| [Asent]. Eso sí que no se come, ¿no?, eso no lo...
+I3: ¿Los cabritos del monte? Hombre, eso es un majar. [HS:E1 ¿Sí?] ¡Anda!
+E1: ¿Y eso cómo hacen entonces?
+I3: [V-Ljn] Eso un guisado. [HS:E1 [Asent].] Te coges un cabritillo de esos de, de ki-, de ocho o diez kilos a remolque y cago en diez, macho. Lo dejas de un día pa otro, lo preparas bien, un buen guiso, con patatas y pimientos y solamente el olor ya te invita a comer.
+E1: Vale, [RISA] sí, sí.
+I1: Y dejas la puerta abierta. [HS:I3 Hay gente que se come la mitad.] Al día siguiente..., ¡fis! [ONOMAT] [HS:E1 [RISA]] ¡Au! [ONOMAT]
+I3: Eso me pasó a mí. [HS:E1 ¿Sí?] Sí, sí. Pasó alguno con, con un coche, que era pequeño, y ahí un vecino mío dice: "Lo dejamos en el [A-Inn] tuyo colgao y tal y mañana lo, lo partimos". Bueno, no sé dónde fuimos, cuando vinimos el cabrón de un perro nos había comido la, la mitad del... [HS:E1 [RISA]] y encima le habíamos dejado un cepo para que se subiera al cepo y le llegara bien.
+E1: Caray. [HS:I3 Sí.] ¿Y conejos también cazan? Por aquí tiene que haber conejos, [HS:I3 Sí, sí.] ¿no?
+E2: Antes de comerlo tienen que llevarle algo al veterinario, [HS:I3 Sí,] una muestra.
+I3: sí, [HS:I1 Sí.] se le lleva una muestra a analizar. Y de jabalí también, eh, cualquier bicho salvaje. [HS:E1 ¿Y cuánto tardan...?]
+I4: Incluso si es de cerdo doméstico también hay que llevárselo.
+I2: [L-Otra: Porque pode dar algo...]
+I1: Triquina.
+I3: La triquinosis, eso, como se llame.
+E1: [Asent]. ¿Y cuánto tarda en analizar entonces...? [HS:I3 Y la |]
+I3: llegas allí y en cinco minutos ya te lo dice.
+E1: ¿Cinco minutos? [HS:I3 Sí.] [Asent]. [A-Inn] nada.
+I3: Nada, le lleva un cachito. [CHASQ] Ya está.
+I1: [V-Ljn] Más las pitas.
+I3: Sí le gustaría, antes sí le gustaba, sí. [A-Inn] las mollejitas. [HS:E1 Sí, sí.]
+I1: Va meter las pitas.
+I2: [L-Otra: As pitas andan fora, as pitas veñan...]
+I3: |T1| Pero antiguamente cuando se hacían las matanzas aquí, no se llevaba ni al veterinario ni na, eh. [HS:E1 Ya, eso directamente se comí-.] Directamente se preparaba y... los chorizos, los jamones, el tocino... [HS:E1 [Asent].] Se le daba su tiempo de curación [CHASQ] y estaban riquísimos.
+E1: [Asent]. Vaya.
+I3: A la cucharita de matanza, un cacho de jamón de matanza no le envidia el ibérico, eh.
+E1: Ya me imagino. [A-Inn] al gusto de cada uno. [HS:I3 Sí.] [HS:I1 Bueno...] ¿Ya no se hacen entonces aquí matanzas?
+I4: Sí, hacen algunas [HS:I1 Alguna ahora.] todavía.
+I2: Pocas, matanzas había [HS:I1 Pocas,] muchas.
+I1: pero alguna sí se hace.
+E1: ¿Y cada uno hace la suya o tienen a alguna persona que va matando [HS:I2 [L-Otra: Axudar a] [A-Nul]] a los cerdos?
+I4: Se ayudan...
+E1: [HS:I2 [A-Nul].] [Asent].
+I3: [A-Inn] mata los cerdos, las mujeres se encargan de lavar y limpiar, los dejan vinticuatro horas, al día siguiente a desollarlos, lo que es seleccionar las carnes, [HS:I2 [L-Otra: Depois un adobo]...] preparar los jamones, salarlos y eso.
+E2: ¿Y con la sangre hacen... [HS:I3 Hacían,] morcillas?
+I3: ahora ya casi no. [HS:I2 [L-Otra: O qué?]] Con la sangre, morcilla.
+I1: Morcilla.
+I2: [A-Nul].
+I3: Hacían un dulce aquí mu rico que eran, lo llamaban filloas, con la sangre, la sartén y eso sí que estaba rico. Yo no sé qué más le echaban.
+E1: Las filloas de sangre, ¿no?
+I3: Sí... ¿las conocéis vosotros? ¿Tú eres de pueblo también?
+E1: No, yo no soy de pueblo, yo soy de Madrid, pero lo conozco, sí.
+I3: Pues allí matanza no se hace.
+E1: No, allí no. [RISAS]
+I3: |T21| Yo estuve allí treinta y dos años. [HS:E1 ¿En Madrid?] Sí. [HS:E1 [Asent].] Y tengo allí dos chicas, una está en el Hospital Clínico de enfermera, [HS:E1 [Asent].] en el de Moncloa. [HS:E1 Sí, claro.] Sí...
+E1: [R-Ind] ¿[A-Inn] por el centro?
+I3: No. Yo vivía en... Vía Carpetana, ¿conocéis Carabanchel Bajo? [HS:E1 Sí, claro.] Por encima de San Isidro, donde se hacen las fiestas [HS:E1 Sí, sí, claro.] de San Isidro la pradera, allí.
+E1: Ah, claro, sí, sí, sí. Cerca del cementerio.
+I3: Sí, allí por detrás.
+E1: Sí, sí, sí, está el Calderón.
+I3: Sí, allí, allí, que cuando había partido de fútbol [A-Inn], para aparcar.
+E1: Sí, sí, sí. Yo, que también vivo cerca [HS:I3 Y pa salir] de...
+I3: de la M-30 y subir pa allí... [OTRAS-EM] Alguna vez tenía que ir por el Paseo de Extremadura, ya te digo, por ahí, por la parte la, la carretera de Extremadura y entraba por el otro lao. [HS:E1 [Asent].] Era imposible entrar.
+I2: |T6| [HS:E1 Sí, sí, sí.] [L-Otra: Queren vir ver o, o... o viño?]
+E1: Vale, vamos, [HS:I2 [L-Otra: Venga, que vos dixen que o enseñara].] ¿quie-, vamos a ver el vino?
+E2: Sí.
+E1: Sí, le voy, le voy a librar ya de esto, ¿vale?
+I1: Sí. Sí, hombre, sí.
+E1: [R-Mcr] Y le voy a coger aquí [R-Mcr] y ya está.
+I2: [L-Otra: Mira onde o tiña escondido.] [HS:E1 [RISA]]
+I3: [A-Inn] La caravana pa Madrid.
+E2: [V-Sml] [Rndo: No, no pasa nada.] [A-Inn]
+I3: [V-Sml] A la cárcel va a parar.
+I1: Sí, ya lo creo... [RISAS]
+E2: [A-Pau: Vamos a ver el vino.]
+I3: [R-Cas] Ya huele desde aquí, eh.
+E1: Sí, huele, huele.
+I4: Aquellas vasijas tán..., están llenas o estaban.
+I3: [HS:E1 ¿Estas?] Estaban llenas aquellas de atrás.
+I4: Luego lo pasan a estas. [R-Ind] [V-Sml]
+I3: Ah, sí, mira.
+I4: Aquí andan ya sacándolo, ¿ves?
+I3: No, ahí ya está sacado. [HS:I2 [L-Otra: Aquí xa está sacado].] Este ya está lleno.
+I4: Y este es el que hay que bajar. [HS:I3 Ese.] Hay que bajarlo.
+I2: [L-Otra: Que baixaras? Que baixaras?].
+I4: Están llenos estos tres ahora.
+I3: Y esto, mira, esto es la pulpa de las uvas, que hay que bajársela para abajo.
+I4: Eso ahora está he-, hirviendo el... el vino.
+I2: [L-Otra: L'has mandao tu baixar?]
+I3: Sí, don [NP].
+I2: Ah, bueno, porque... no... aquí...
+I4: ¿Ves? Estaba... esas dos, hasta mañana.
+E1: Pero eso antes lo pisaban, ¿no?
+I4: Antes lo pisaban [HS:I3 Antes sí.] con los pies porque había lagar, pero ahora esta es la máquina de, de, de, de triturarla. [HS:E1 [Asent].]
+E2: ¿Y cómo llaman al olor este a...?
+I4: Al vino, olor al vino.
+I3: Porque lo que hueles es vino. [HS:E2 [Asent].]
+I4: Es vino, sí.
+E1: ¿Y cómo se fermenta entonces?
+I2: Se fermen-... [HS:I3 Eso lo pi-...]
+I4: Escucha cómo hierve. [R-Ind]
+E1: ¿Está caliente?
+I4: No, [HS:I3 No.] no... [HS:I3 Pero, pero cuece.] eso hierve sin calantar. Eso fermenta, [HS:E1 [Asent].] [HS:I2 Fermenta él solo.] fermenta. [R-Glp] [HS:E1 [Asent].] Y eso fue hecho quince días antes y ya lo sacaron. Y este está lleno.
+E1: Claro, es para comercializarlo, ¿no?, ¿o es para consumo propio?
+I4: Este no, es de consumo. [HS:I3 Para consumo.] Tiene el... va el chico ahí, [HS:E1 [Asent].] aquel que estaba conmigo allí arriba, [HS:E1 Sí.] [HS:I3 Y aquí la gente] y...
+I3: te lo compra to'l mundo porque este es vino natural, no... este no lleva ninguna química.
+I4: En la fiesta esa de los reyes... [HS:I3 Ni agua ni na.] vienen a comprar vino.
+I2: [L-Otra: Si, porque faen, fan os reis, fan os...] [HS:I4 Esto es vino puro.] [L-Otra: cin-, cinco días, paréceme que é nunha casa.]
+I4: Hacemos, matamos un ternero aquí el día de reyes, [HS:E1 Sí.] la víspera de los reyes. [HS:E1 Sí.] Y nos juntamos casi todo el pueblo a comer... [HS:E1 [Asent].] Traemos dos cocineros y nos juntamos... viene saliendo a... a diez euros o... no llegas a diez euros diarios, poco menos. Vas  a la mañana, mediodía y noche [HS:E1 [Asent].] comiendo ahí lo que quieras. [HS:E1 [RISA]]
+I3: Y las veinticuatro horas si quieres, eh.
+I4: [HS:E1 [RISA]] Y las veinticuatro horas si quieres. [HS:I3 Sí, sí, sí.] Si te da el cuerpo pa comer...
+I3: Yo hace cinco o seis días...
+I4: Si resistes... [HS:I2 [L-Otra: Eso si que era unha festa bonita].] [HS:E2 Claro.] Se trae una... [HS:E1 ¿Y aquí se hacía también lo de los [L-Otra: furanchos]?] se trae una, [HS:I3 ¿Lo qué?] una...
+E1: Los [L-Otra: furanchos].
+I3: [R-Inf] ¿Eso qué es?
+E1: Lo de [HS:I4 Un gaitero y un tambor, un bombo y a bailar.] los [L-Otra: furanchos] es, cuando hacían lo mismo que esto en las casas. Entonces colgaban una hoja de parra y... cuando había excedente de vino, pues el, le llamaban vino de [L-Otra: furancho]. No sé si lo conocen.
+I3: A-..., aquí no, eso no se conoce.
+E1: [Asent]. Más por la zona de Lugo y todo esto...
+I3: [HS:I4 Sí...] Puede ser [HS:I4 Por aquí no.]
+I2: [HS:E1 [Asent].] [L-Otra: Aí fermenta o, o viño, depois...]
+I4: Este [G-Mst] es portugués. Este vino de Portugal. [HS:E1 [Asent].] Y este [G-Mst] de Zamora.
+I2: [L-Otra: Hai muto do Portugal porque estamos aquí cerca.]
+E2: Claro.
+I4: Aquí estamos a cuatro kilómetros de la frontera.
+E2: Sí, esta-, estamos ya... [HS:I2 Cerca...]
+I4: Aquí nos conocemos... por aquí todo esta, estos pueblos portugueses y por aquí hasta, hasta... cerca de Benavente nos conocemos todos, [RISAS] porque aquí no hay gente ya... [R-Glp] aquí se conoce, se conoce [HS:I2 [A-Pau: [L-Otra: E había]]] la gente...
+I2: [A-Pau: [L-Otra: muta antes, pero ahora...]]
+I3: Ya vale, ¿no?
+I4: Sí.
+E1: [V-Ljn] [R-Glp] ¿Para qué se remueve?
+I3: Pues eso sí que no te lo puedo decir yo, que te lo diga este señor.
+E1: ¿Por qué se re-, por qué se hace eso, por qué se remueven las uvas?
+I4: Porque se seca mucho el... eso se llama bagazo [HS:E1 [Asent].] y se... seca porque al hervir, pues... cuando hierves una bebida sube hasta arriba y... hasta, hasta así. [HS:E1 [Asent].] Y entonces hay que calcarlo pa que se moje, [HS:E1 Ah.] para mojarlo. Y ahora cuando empieza a bajar se hace, [HS:I3 ¿Quieres probarlo?] se hace un agujero... [HS:E1 No, gracias.]
+I3: ¿Queréis probarlo? ¿Queréis probarlo? ¿Queréis probar un [HS:I4 Ahí hay un] poquito?
+I4: vasito. [V-Sml] Lavamos el vaso, espera.
+I2: Probái, probái.
+E1: ¿Y el orujo entonces también se hace de esto? [HS:I4 ¿Eh?] ¿El orujo entonces también sale de aquí?
+I4: Este [G-Mst] es el orujo, este es pa'l orujo, mira. Esto ahora se seca, [HS:E1 [Asent].] hay que expremirlo y después esto se mete en un alambique y es donde sale la... [HS:I2 Aguardiente.] donde sale el aguardiente.
+E1: ¿Y en el alambique qué, qué se hace? ¿Se cuece todo esto y lo que [HS:I4 Esto se...] se destila es el orujo?
+I4: Exactamente. Eso se pone | ahora lo hacemos con... [HS:I3 [A-Inn].] con gas butano.
+E1: [Asent]. ¿Antes qué se hacía? ¿Con leña?
+I4: Antes se hacía con leña, [HS:E1 [Asent].] pero ahora...
+I2: [L-Otra: [A-Inn] vello porque era mellor.]
+I4: [A-Inn].
+E2: Un sorbito, pero... [V-Sml] [RISAS] Ay, qué bueno.
+I4: ¿Te gusta? [HS:I3 Qué trago le ha pegao, mira lo que le ha bajao el vaso.] [RISAS]
+E1: Y eso que tiene que conducir. [RISAS]
+E2: Es que es fin de semana.
+I4: Este ahora... es-, esto fue ayer o esta mañana, que no está asentado todavía. [HS:I2 [A-Nul].] Esto dentro de unos días asienta todo. [HS:I2 [L-Otra: Este ponse máis bo].] [HS:E1 [Asent].] Tá bueno, eh. [RISAS]
+E1: Jolín, claro que está bueno.
+I4: Este es natural, natural.
+E1: Sí, [HS:E2 Sí, sí.] sí.
+E2: [A-Pau: Mira qué bien se conserva.] [A-Inn].
+I4: Podéis beberlo porque vos damos otro vaso.
+E1: No, no, no, que tenemos que seguir trabajando y, si no, luego ya verás. [RISAS]
+I4: ¿Y, y la [NP] no vino?
+E1: [NP] al final no ha venido, no. [HS:E2 Yo es que conduzco, yo...] [HS:I2 [A-Nul].] Sí, al final [NP] no ha venido. Pero ¿[NP] es de aquí o es de Manzalvos?
+I4: El padre era de aquí. [HS:E1 Era de aquí.] Y la madre de Manzalvos.
+E1: [Asent]. Bueno, están aquí al lado, ¿no?
+I3: Sí...
+I4: Sí, están a dos kilómetros.
+E1: [Asent]. Es que nos dijo que es-, que tenía que trabajar y tal.
+I4: Sí, ella anda con una furgoneta con las setas y con eso. [HS:E1 Sí.] Hicieron [A-Inn].
+E1: [Asent]. Sí, ya de vez en cuando sí que veo que enseña alguna foto por ahí de setas así de grandes.
+I4: ¿Tú la conoces? [HS:E1 Sí.] ¿Tú la conoces?
+E1: No, gracias, no quiero. Sí, sí. [RISAS]
+I3: ¿Pero ya la conocíais a la [NP]?
+E1: Sí, yo sí, [HS:I3 [Asent].] yo sí, que alguna vez he estado [A-Inn] con ella y...
+I4: Muy bien...
+I3: |T15| Pues si vienes en, en los Reyes a la fiesta esa, sí que os iba a gustar. [HS:E1 ¡Vaya!] [HS:I4 [RISA]] Igual os apuntabais y todo, eh.
+E2: [Rndo: Igual.] [HS:E1 Posiblemente, posiblemente.] [HS:I3 Pero ahí se]
+I3: come de lujo. [HS:E1 Vaya.] Desayunas, comes, meriendas, [HS:I4 Por diez euros.] desayunas, cenas... [HS:I4 Por diez euros.]
+E1: [HS:E2 [RISA]] Vaya.
+I4: [A-PIn: Mañana por la mañana, si quieres llamar,] puedes ir a comer allí otra vez.
+E1: Caray.
+E2: Pero ¿es ternero siempre? ¿Desayunas ternero?
+I4: [A-Inn] No... [RISAS] No es siempre ternera, no... se hacen cocidos, se hace... se hace ternera, se hacen filetes, se hace carne guisada, se hacen callos... se hace de, de... [HS:I3 Se hace bacalao.] bacalao, se...
+I2: [L-Otra: Cámbiale, cámbialo un día...]
+I4: Cada día es una comida o dos. [HS:E1 [Asent].] Cambia la de todos los días. [HS:I2 Es verdad.]
+E1: Pero, entonces, ¿cuánto duran esas comida?
+I4: Pues dura... [HS:I3 Cinco días o así.] hasta, hasta que se acaba la comida. [HS:E1 ¡Caray!] Cinco | hay algunos que a los tres días ya no vuelven, que ya no resisten. [HS:E2 [RISA]]
+I3: No aguantan la fiesta.
+E1: Claro, [HS:I4 Sí.] y eso, claro, cuánto | porque aquí hay poca gente.
+I4: O no, pero pa, pa trabajar no, pero pa eso sí.
+E1: [Rndo: Para eso sí, ¿no?] [HS:I4 El año pasado...] Pero ¿porque viene gente de fuera también o...?
+I3: No, no, solo del pueblo.
+I4: No... ahí... puedes traer algún invitado o puedes...
+I2: [L-Otra: Si, mas é raro porque] [HS:I4 Pero es muy raro, sí.] [L-Otra: non gusta muto porque...] [HS:I4 Los del pueblo.]
+I4: Aquí hay... sesenta y nueve personas, me parece que somos en el pueblo.
+E1: O sea que poquitas.
+I4: Poquitas. Esto se quedó vacío y..., y el pasado éramos... [HS:I3 Casi todos.] éramos casi... setenta personas a comer, con sesenta y nueve que somos en el pueblo, erámos casi setenta o setenta y tantas.
+E1: Caray.
+I3: Sí, porque vienen los hijos [HS:I4 Los hijos que están fuera...] de que están fueran...
+I4: los novios de las chicas, las chicas de los novios, tal que así...
+I2: [HS:E1 [Asent].] [L-Otra: Veñen, si, si,] [HS:E1 Claro.] [L-Otra: é unha comida ben bonita, é a, unha... eso si que é festa [A-Inn], que comen alí...] [HS:E1 O sea]
+E1: aquí gente joven entonces no hay, ¿no?
+I3: Hay poca.
+I4: Hay poca gente. [HS:E1 Hay poca.] Y ahora hay unos cuantos chicos aquí porque... quedaron sin trabajo.
+E1: [Asent]. Y se vienen para acá.
+I4: |T21| Sí. Este también estaba en Madrid. [HS:I3 Yo también.] Un chico mío estaba en Madrid y se vino pa acá.
+E1: [Asent]. [HS:I4 Sin trabajo.] ¿Y ahora a qué se dedican? ¿Al campo?
+I3: Aquí a, a na.
+I4: Ahora cubre de lo, de lo... [HS:I3 A ver si va [A-Inn].] de los padres, del paro. [HS:E1 [Asent].] Los que pueden trabajar algo, van trabajando. [HS:E1 Claro.] A vivir con los padres, qué vas a hacer. [HS:E1 A ver.]
+I2: [L-Otra: É] verdá, qué vas a hacer...
+I3: |T5| En Madrid, yo el tiempo que he estao, nunca he estao parao, eh. Hasta que vino el bajón este, [HS:I2 Porque aquí nos pueblos] que la empresa quedó sin nadie.
+I2: [L-Otra: patatas, freixos, berza, de todo, así non é tan-, tanto como na, nas] [HS:I4 Aquí tienes] [L-Otra: capitais.]
+I4: patatas, tienes... [HS:I2 De todo.] de, de la huerta tienes judías, tienes tomates, tienes pimientos, tienes de todo. [HS:E1 Claro.] Y... claro, ahora no [A-Inn] pues... con nada... con nada vive una persona. [V-Sml]
+I3: Aquí se te econ-, si te economizas algo, con cuatrocientos euros pasas bien el mes. [HS:E1 Claro.] Pero [A-Inn] en Madrid con cuatrocientos euros.
+E1: Pasas bien el día. [RISAS]
+I4: Y que tengas que pasar el... pagar la, la, la... [HS:E2 La hipoteca.] la casa.
+I3: Malditas hipotecas. [V-Sml]
+I2: |T22| [L-Otra: Fae frío.]
+E2: Sí, [V-Sml]
+I2: [L-Otra: De, a noite fa aquí [A-Inn], pero de día está fresco.]
+E1: Claro, porque conserva el calor del día...
+I2: [L-Otra: É] verdá... de día... Pasa, pasa.
+I4: [R-Cas] [V-Sml] Bueno, ya os reístes un poquito.
+I3: |T11| [R-Ind] Pero es una pena que no pilláramos o [NP], que les contara algún relato que sabe.
+I4: ¿O [NP]?
+I3: Sí.
+E2: Vamos, os habéis reído bastante igualmente. [RISAS] [HS:E1 La verdad es que sí.] Yo lloraba de la risa. O sea, yo le veía, se le iban cayendo las lágrimas. [RISAS]
+I3: Hay aquí un, un señor, que te empieza a contar una historia y se tira una hora contándola, eh. [HS:E1 ¿Sí? [RISA]] No, pero, pero que es una historia larga, larga, larga, larga, larga, pero mu bonita, sí.
+I2: [L-Otra: Levo, levo a cadeira.]
+I3: [L-Otra: Debe andar ás castañas.] [HS:I4 A las castañas.] [R-Vhc] Y versos antiguos, coño... [HS:E1 ¿Sí?]
+I2: [L-Otra: Asando as castañas.]
+I3: Pero que te dura media hora. [HS:E1 Caray.] Sí, sí, sí, sí, tiene un cerebro... ese hombre, cago en diez... si llega a haber estudiao. [RISAS] Lee muchos libros, lee mu-, le gusta mucho la lectura. [HS:E1 [Asent].] Sí, ese hombre... [OTRAS-EM] Conoce la historia de to'l mundo. Ese es uno de los, de los romances antiguos, pero es que este sabe mil.
+I4: [HS:E1 [Asent].] Eso e-, eran historias que decía que pasaban siempre en Lugo.
+E1: ¿En Lugo?
+I4: Sí.
+E1: ¿Que el señor es de Lugo?
+I4: No, no, ese señor es de aquí, [HS:I3 Es de aquí.] es de aquí. No es... tiene ahora sesenta y... [HS:I3 Siete años o así.] sesenta y siete años. [HS:E1 [Asent].] Pero las historias todas que pasaban, las más macabras que ves que había unas coplas... [HS:I3 Sí, sí, sí.] unas coplas que, que... todas pasaban en Lugo. [HS:E1 [RISA]] Y venían ciegos por aquí y cantaban esas coplas y se aprendían, se... erámos pequeños y se aprendían esas, esas coplas.
+E1: ¿Y él se las aprendió todas? [HS:I4 Sí...] ¿Él se las [HS:I3 Pero que se lo] aprendió todas?
+I3: sabe todo [HS:I4 Se aprendían todas, sí.] de memoria. [HS:E1 [Asent].]
+I4: Cuando eres pequeño, mira tú, aprendes que... y todo lo vas... [HS:I3 Hasta en latín.] porque... porque, porque eran... coplas de, de cosas que pasaban. Lo que está pasando ahora, que están asesinando mujeres y están asesinan-... eso pasaba antes igual, pero como [L-Otra: non] se sabía... no había televisión, no había... | ¿cuándo empezó, que vino la televisión aquí?
+I3: Huy, ya hace. [HS:I4 Eh.] Ya hace años que vino.
+I2: Hace dos [L-Otra: anos].
+I4: |T21| [L-Otra: Pois eu estaba en Alemania, cuando vin, que a primeira que trougue,] [HS:I3 Hace por áhi cuarenta años.] [L-Otra: que trougue... pero eu hai cuarenta e deus anos que marchei para alá.] [HS:I3 Sí...] [L-Otra: A primeira televisión que eu trougue para esta casa, dos meus sogros... veu d'Alemania.] [HS:E1 [Asent].] Sí..., y había que pagar en la frontera... si no, no te dejaban [HS:E1 No te] pasar.
+E1: dejaban pasarla, no.
+I3: Y [HS:I4 Y te quería la guar-.] la primera que nosotros tuvimos la trajo mi tía de Suiza.
+I4: Tenía que... tenías que llegar a la frontera y ponían allí un chisme, [HS:E1 [Asent].] tú venías con los paquetes y los ponías allí. Pero si tú le decías: "Oye, mira, que esa tiene un buen premio", al policía. Después se cagaban en Cristo los policías. Cogían una tiza y le ponían una cruz. Y... [R-Anm] y después le dabas lo que te daba la gana a ti. Porque en el momento que llevaba la cruz es que te la había marcado, ya no... | le pagabas si querías. Al final los tíos se daban la vuelta y ya no... [R-Vnt] ya no, ya no la marcaban. [HS:E1 Claro.] Yo un día venía, iba con uno y traíamos dos televisiones. Y dice: "Esos tienen dos". Y aquel tenía una, una geta. Es de, del pueblo mío, ahí de Santigoso. [HS:E1 [Asent].] Y dice: "Esto tiene un premio, estos dos paquetes tienen un premio". [HS:E1 [Asent].] Después le dimos mil pesetas cada uno. [RISA] Y el tío quedó con una... que quería, quería por lo menos diez mil pesetas. [HS:E1 Joder.] ¿Tú sabes lo que valía una televisión antes? Valía un montón de dinero de la leche.
+I2: [A-Pau: [L-Otra: A primeira si,]] [HS:I4 Sí...] [A-Pau: [L-Otra: cuando empezaron a, a, a vir...]]
+I4: Sí. Y eran de blanco y negro, [HS:E1 [Asent].] que, que no las había de color. [HS:E1 [Asent].]
+I2: Ahora [L-Otra: a xente] [A-Inn].
+I4: Cuando yo fui a Alemania todavía no la había de color allí, en Alemania.
+I3: [OTRAS-EM] ¿Y qué vais? ¿Así pueblito a pueblito? [HS:E1 Sí.] ¿Por todos los pueblos? [HS:E1 Sí...]
+E2: Bueno, todos, todos...
+E1: Bueno, todos no, vaya, pero... los que elegimos.
+I3: Claro.
+I4: Pues bien...
+E2: [A-Pau: Nos vamos a ir, [HS:E1 Sí.] ¿no?]
+E1: Tenemos que ir a Villala ahora.
+I4: [HS:I3 [Asent].] ¿Adónde vais?
+E1: Vilala.
+I3: ¿Vilavella?
+E1: No, Vilala, al lado de Orense.
+I4: [R-Vnt] Ah, Vilala, Villa-, no, [HS:E1 No, Vilala, Vilala.] Vilala. No me suena el pueblo ese.
+E1: [R-Vnt] Sí, sí, sí, seguro, seguro.
+I4: [R-Vnt] Villaza. ¿No será? No, ese...
+E1: [R-Vnt] No, Vilaza, Vilaza no, era, es para el otro lado justo. Es... Vilala se llama. [HS:I4 Vilala.] Sí, [HS:I4 Como hay tantos pueblos...] es muy pequeñito aquello. [V-Sml] Es el que está al lado de... de Orense, que está no sé si a... doce kilómetros o algo así. [HS:I3 [Asent].]
+I4: Saliendo hacia Santiago, seguro, o hacia Vigo.
+E1: No lo sé, la verdad es que no lo sé. No, en, en Verín, perdón, [HS:I3 Ah, en Verín.] [HS:I4 ¡Ah!] no, no era en Orense. En Verín.
+I4: ¡Villaza! [HS:I3 Villaza.]
+E1: No, no, no, no. Vilala [HS:I4 Vilala, así.] se llama. [HS:I4 Ahí en Ve-] Está al lado contrario de Vilaza.
+I4: [R-Grb] No me suena. ¿Aquí en Verín?
+E1: Sí.
+I4: A ver si es Villaza...
+E1: No, justo pregunté yo también eso, pero no, me dijeron que era Vilala.
+I4: Vilala... bueno, no me suena, [HS:E1 [RISA]] no me suena. Está ahí... en la parte de arriba está Vences... ¿Laza?
+I3: Ahí llegáis en media hora.
+E1: Sí, en media [HS:I4 Sí, en media hora,] horita llegamos.
+I4: a Verín en media hora, [HS:E1 Sí,] sí.
+E1: [R-Vnt] sí, aquí las distancias son relativamente cortas. [HS:I3 Sí.] Además, está bien comunicado.
+I3: Sí, hombre, cogéis la autovía ahí, en El Pereiro, y estáis en un... [HS:I4 Desde aquí]
+I4: media hora a Verín.
+E1: Sí, es lo que tardamos desde allí.
+I4: Pues muy bien... Pues ya habéis pasado un ratito aquí... [HS:E1 Sí...]
+I3: ¿Esto qué es? ¿Para colegios? ¿O qué?
+E1: Esto es para nosotros porque estamos haciendo un estudio sobre la vida en los campos y la vida en los pueblos y tal [HS:I3 Ah...] para la universidad. [HS:I3 ¿Para la universidad es?] Sí.
+E2: ¿Nos hacemos una foto todos?
+E1: Sí, claro. ¿Venís a hacer una foto?
+I3: Sí, hombre.
+E2: [R-Grb] [V-Ljn] Póngase aquí, que vamos a hacer aquí una foto.
+I3: Siéntese aquí, [R-Ind] al lao del jefe.
+I4: Siéntese ahí. A ver si [L-Otra: lle] rompemos... a ver si [L-Otra: lle] rompemos la máquina. [RISAS]
+E1: No, hombre.
+I2: [L-Otra: Pode ser que la rompamos.]
+I3: Hay que decir "patatas fritas", eh. [RISAS]
+E2: Sí, ¿no? [HS:E1 Supongo.] Haz otra por si acaso.
+I1: Echa, echa...
+E3: [A-Pau: Vale, voy a hacer otra porque es que yo casi no salgo.] [RISAS]
+I1: Ahora...
+E1: Corre, corre.
+E3: Voy a entrar aquí. [RISAS]
+I3: Ponte aquí en el medio. ¿Nos cogerá aquí? [HS:E3 Sí.] Ya está. [HS:E3 Ya está.]
+I4: Que tiene muy plano el...
+I3: Esa salió.
+E3: Hala, estupendamente.
+I3: El equipo A.
+I4: Todavía cogía más.
+I2: Hala, mira qué, mira qué bonita está. [RISAS]
+I3: A las, a las universidades de Madrid, allí nos cuelgan en unos carteles y dice: "Mira". [RISAS]
+I4: "Mira, mira qué fugitivos allí en el pueblo aquel, el pueblo de Cádavos". Es verdad... [RISAS] "Mira qué fugitivos". [HS:I1 Provincia de Orense.] [V-Sml] [RISAS]
+I3: [HS:I1 Bueno...] [L-Otra: Pero contachelle das novias? Contachelle das novias? Non te preguntaron?]
+I2: [L-Otra: Non me preguntou.] ¿Queréis merendar?
+E2: Sí, pero... [RISA]
+E1: No, tenemos que marchar... [HS:E3 No, muchas gracias.] tenemos que marchar ya.
+I1: ¿Ya tenéis que marchar?
+E1: Sí...
+I1: Entonces quedan aquí los chorizos.
+E1: [Rndo: Quedan aquí, sí.] [RISAS]
+I2: [A-Nul].
+E2: [RISA] Sí. [V-Ljn]
+I3: [A-Inn] la novia, que son historias pasadas.
+E2: No quiere.
+I3: Sí, hombre.
+E1: ¿No lo cuenta?
+I1: No... [RISAS]
+I3: Que la mujer no lo va a regañar.
+I4: Que no, eso queda pa uno.
+I2: [R-Vnt] [L-Otra: E qué queres que le diga?] [RISAS]
+I3: Las historias que tuvo con las novias.
+I2: [L-Otra: Historias hai mutas máis...]
+I1: Las novias... dan mal resultado. [RISAS] Uno piensa que voy a hacer, voy a hacer y voy a hacer y al fin... [RISAS]
+E2: Se ve que no le gusta que estemos aquí. [RISAS] [HS:I3 Nada...] [RISAS] [HS:I3 Nada...]
+I2: [L-Otra: Mira, que estos, que se queren marchar.] [A-Inn]
+I4: Oye, cuando se [L-Otra: queiran] marchar, marchan.
+I1: Ellos son los que deciden o marchar o no marchar. [RISAS] Porque nosotros no podemos tener mano de ellos. [HS:E1 [RISA]] Ello se marchan cuando quieran, pero primero la merienda. [RISAS]
+E1: Si es que... no nos da tiempo.
+E2: No nos va a dar tiempo, [HS:I3 ¿Qué hora es?] yo creo, porque... son las cinco y veinte, creo. [HS:E1 Sí.] [HS:E3 ¿Pero a qué hora hemos quedado?]
+E1: Hemos quedado a las seis.
+E2: A las seis en... [HS:E1 En, al lado de Verín.] en un pueblo cuyo nombre no... [HS:E1 Sí, sí.] [RISAS]
+E1: En Verín hemos quedado a las seis, así que... [HS:E2 [Asent].] nos queda un ratito todavía para llegar allí. [HS:E2 Sí.]
+I4: Claro, si marcháis ahora, a las... a las seis estáis allí. [HS:E2 Hábiles por los caminos.] Vilela, pero no me suena a mí Vilela... [HS:E1 Vilala.] Vilala.
+E1: El que exista, que si no... [RISA]
+E3: ¿Y Vilaza?
+E1: Vilaza, [HS:I4 Vilaza sí.] Vilaza está al lado, pero es que no es Vilaza, es Vilala. [HS:E2 [RISA] Bueno.]
+I2: Villaza sí. [V-Sml] [L-Otra: Nunca ouví ese pueblo.]
+E1: Es que no lo sé, es que... de todas, [HS:I4 A lo mejor es una aldea.] claro, yo creo que será una aldea o una pedanía [HS:I4 Es una aldea, claro.] o algo así. Desde luego, es pequeñísimo, por lo que me han dicho es pequeñísimo, o sea que...
+I4: Pues tiene que ser por-, pero... Vilala... no me suena.
+E1: Ya le diré a [NP], a ver si existía el pueblo o no. [RISA]
+I4: Me suenan todos los pueblos esos [R-Vnt] por ahí, pero Vilala...
+I1: Vilala no hay, no hay.
+E1: [RISA] No existe. [RISA] Esperemos que sí, si no... [HS:E2 Si no lo encontramos...] si no, venimos para acá a por los chorizos. [RISAS] Bueno, [HS:E2 Pues muchas gracias.] pues muchísimas gracias, [V-Sml] un placer.
+I3: Igualmente, hombre.
+I4: Hasta la próxima.
+E1: Muchas gracias.
+I3: Nada, hombre.
+I4: Hasta que nos encontremos por ahí.
+E1: Sí, claro, un placer, eh.
+I2: Que pasen todo bien.
+E1: Muchísimas gracias por la ayuda, [HS:I3 Nada, hombre.] por la información...
+I4: Hala, [HS:I1 Y que tengáis mucha suerte.] pasarlo bien, hombre.
+E1: Esperemos, esperemos.

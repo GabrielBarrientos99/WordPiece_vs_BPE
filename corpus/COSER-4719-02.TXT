@@ -1,0 +1,828 @@
+Provincia:	Zaragoza
+Enclave:	San Mateo de Gállego (4719)
+Fecha:	26 de abril de 2008
+Duración:	01:29:06
+Informantes:	I1: varón, 84 años
+I2: varón, 84 años
+Encuesta:	Carmen Tenorio, David Casado, Hugo García Rodríguez, Rodrigo Garrido Delgado
+Transcripción:	Carmen Tenorio Núñez, Hugo García Rodríguez, Carlota de Benito Moreno
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+4. Labores del hogar (agua, fuente, lavadero, jabón, costura, colchones)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+10. Vida religiosa (cura, iglesia, misa)
+11. Vida vecinal (anécdotas, inquietudes, gobierno municipal, guardia civil)
+12. Educación (escuela, libros, maestros)
+13. Familia (contraste entre generaciones: abuelos, hijos, padres)
+15. Fiestas populares (romerías, fiestas patronales, carnaval)
+16. Sanidad y salud (enfermedad, médico, parto, entierro)
+18. Ejército/Servicio Militar (mili, quintos, guerra)
+
+E1: Que... ¿Cómo se llama usted?
+I1: [NP].
+E1: Vale, ¿y qué edad tiene?
+I1: Nací el ocho de agosto de 1924. Ahora, ah, pa agosto haré ochenta y cuatro.
+E1: Ochenta y cuatro... Vale, y...
+E2: Y... ¿Dó-, dónde estamos, cómo se llama su pueblo?
+I1: ¿Este? San Mateo..., [HS:E2 San Mateo de Gállego.] de Gallégo.
+E1: Y..., ¿usted a qué se ha dedicado?
+I1: |T6| ¿Yo? Al campo y [A-PIn: y a última hora, como se ha] [A-Inn] la construcción.
+E1: ¿Y, qué, qué se cosecha por aquí? ¿Qué se cosechaba antes?
+I1: Aquí to la vida... Lo que más ha habido, remolachas, y alfalfa y trigo y panizo también, pero antes aquí la fuerza era la remolacha. [HS:E1 La remolacha...] D'ande se sacaban las perras, [RISAS] las pocas que se sacaban. ¿Entiendes?
+E1: Y cómo ha ido cambiando todo lo que es el... [HS:I1 [A-Inn]] ser agricultor, ¿no?
+I1: Sí, que era | que sí, que sí, que m'ha tocao pero ahora, ahora un agricultor está, sobre el trabajo y la modernización, tan bien como cualquier cuerpo de esos, porque ahora, mira, ¡con corbata van! [HS:E1 Sí.] Oye.
+E1: Y usted...
+I1: A mí no me tocó eso, a mí tocó de dormir por monte con las mulas. Y ya está, [A-Inn].
+E2: ¿Con las mulas dice usted?
+I1: Con mulas labrábamos aquí. Sí, aquí los tractores vinieron, pues estaréamos..., terminó tr-, la guerra el 39 y estaréamos cerca el 50, cuando echó a venir algún tractor de Rusia, aquellos grandes que vinieron.
+E2: [Asent].
+I1: Que recomend-, lo que... [A-Inn] venir alguno..., pues ya claro, ahora, ¡mira! Pero sí.
+E1: |T1| ¿Y también aquí antes hacían la matanza?
+I1: Sí.
+E1: ¿También? ¿En todas las casas?
+I1: En todas. [HS:E1 [A-Inn]] Oye, en la de los pobres eran un poco más pequeños los tocinos. [RISAS]
+E1: Hombre, claro, pero ¿y cómo se hacía, la matanza?
+I1: Sí, oye, la matacían... en el tocino, lo mataba uno | había unos matadores, [HS:E2 ¿Cómo...? ¿Cómo le...?] lo colgaban allí...
+E2: ¿Cómo le llama usted al, al hombre que mataba al cerdo?
+I1: Matarifes.
+E2: ¿Matarife [HS:E1 Sí.] y matachi-, matachín o algo de eso? Nos habían dicho...
+I1: Matachín, es lo mismo, aquí lo mismo se ha entendío matachín que matarife. [HS:E2 [Asent].] [HS:E1 [Asent].] ¿Sabes?
+E2: ¿Y eso qué era, en, en invierno?
+I1: Sí, sí, en invierno. En el verano no se mataba nunca.
+E1: Claro, y luego lo iban consumiendo durante el invierno, ¿no?
+I1: ¡Hombre! Entonces cuando eso se [A-PIn: hacían] chorizo, butifarra, bolas... [HS:E2 Morcillas...] Sí, sí, todo.
+E2: ¿Y hacían morcilla con arroz también?
+I1: Sí, también [A-PIn: hacían] morcillas.
+E1: ¿Pero quién hacía la matanza, quién [HS:I1 En, en, en,] hacía los chorizos?
+I1: en la casa, en la casa, [HS:E1 Lo hacían] las madres.
+E1: las mujeres, ¿no?
+I1: Las mujeres, claro.
+E1: Sí. Sí. Y e-, y del campo | bueno, ¿y el pueblo, para empezar, ha crecido mucho, el pueblo?
+I1: Mucho, [P-Ssr: mucho.]
+E1: |T11| ¿Antes cuántos habitantes tenía?
+I1: No hemos tenido nunca los dos mil, nunca.
+E1: Nunca. [HS:E2 [Asent].] ¿Y ahora?
+I1: Ahora, dicen de que hay muchos, pero yo e-, el... | este año pasao leí... todos ayunta-, todos pueblos de la provincia Zaragoza, los pueblos, los barrios no, los pueblos. Venía el parque móvil, en la prensa. Los habitantes que teneámos...
+E2: Ya, ya.
+I1: Y el parque móvil. Pues aquí estábamos dos mil doce y me dicen que había dos mil seis cacharros.
+E2: ¿Casi como personas?
+I1: No, la mitá, lo he dicho mal. [HS:E1 ¿Qué es...?] Y...
+E1: ¿Qué es el parque móvil?
+I1: El parque móvil, ah, la, la maquinaria que hay, [HS:E2 Sí, sí.] tratores, [HS:E1 Ah..., vale, vale.] cosechadoras, ¿sabes? Y los coches. No veas tú, que el año pasado..., y hombre, ahora hay muchos coches, [HS:E1 Muchos, muchos.] que antes, pa la guerra no había más que uno aquí en San Mateo.
+E1: ¿Uno?
+I1: Uno.
+E1: ¿Para todo el pueblo?
+I1: [RISA] Era de la fabríca, de una fabríca de la luz, esa fabríca, que ahora no funciona.
+E1: ¿Y cuánta gente había aquí, en esa época?
+I1: En esa época, eso, pues, mil ochocientos u por áhi.
+E1: ¿Aquí, en el pue-? Pues es grandecito, siempre ha sido [HS:I1 Oye...,] grandecito.
+I1: pero que entonces crecía muy poco el pueblo, ¿eh...? no lo pienses. Que entonces bien, eh...
+E2: |T7| Y aparte de, de, de tocinos, de cerdos, ¿qué, qué otros animales comían? [HS:I1 To-, todos. Conejos...] ¿Comían... cordero? ¿Cordero, por ejemplo?
+I1: Corderos, [HS:E1 ¿Y cómo lo] pa las fiestas...
+E1: preparaban y cómo lo...?
+I1: [Rndo: Oye, mira,] lo mataban igual que en la carnicería y a, y a, y a freír o a asar o lo que eso.
+E1: Sí.
+I1: Sí. Sí, pues no ves que perras no había, pues... [RISA] Con lo l corral... [HS:E2 Claro, claro.] [HS:E1 ¿Se mantenían [A-Inn]?] Ahora, ahora las mujeres están mejor que antes la reina. [RISAS] No, no porque estés aquí tú, que es igual, que i-, que, si no, [HS:E1 Sí, sí. Sí, sí.] igual te lo diría. Mira, ahor-, antes, el corral, lo que hablamos, aunque fuera de uno pobre, pequeño el corral. Pero ¿sabes tú lo que era? [HS:E2 [A-Inn]] Que, es que... ¿cuidar todos los días a los animales áhi? Aquí la, la agua bajaba por la acequia, pero las casas un poco apartadas, pues ya sabes, si no había algún mozo, pues un par de viajes de agua con los cántaros allá. [HS:E1 Claro.] Claro, baja por medio del pueblo, pero, mira, había casas que estaban apartadas.
+E1: |T15| Claro. [SLNC] ¿Y aquí hay fiestas típicas en este pueblo?
+I1: E-, eran, eran pa el primer domingo d'octubre, del rosario. Pero hace unos años, lo que pasa... Se empeñaron en cambialas, que no votó la gente que sí, pero pusieron que sí. Porque las | los vacaciones, ¿sabes?, de los estudiantes, claro... En las fiestas se tenían que ir. Claro, y aquello no [HS:E2 ¿Qué fiesta] pue ser.
+E2: era aquello?
+I1: Claro, el primer domingo del rosario, era la fiesta, que es el primer domingo d'octubre ¿sabes? Claro, y estaban ya..., y ento-, eh, eh, se habían incorporao cuasi todos a las vacaciones. [HS:E1 Claro.] [HS:E2 Claro.] Y claro, y lo cambiaron, y ahora pa la virgen de agosto. [PS] Claro, entonces ya [HS:E1 Y antes...] [A-Inn]
+E1: ¿Antes, eh, cómo celebraban las fiestas, que hacían, [HS:I1 Sí, pues baile,] qué... comían?
+I1: baile y por áhi.
+E1: Pero ¿cómo..., qué...? ¿Venían músicos?
+I1: Sí, sí, eso sí. [HS:E1 ¿Sí?] Yo toda la vida l'he visto.
+E1: ¿Sí? ¿Vienen músicos y se baila, se [HS:I1 Músico] come...?
+I1: y baile mucho más que ahora. [HS:E2 Claro.] Si ahora no bailan. [HS:E1 No... [A-Inn]] Yo digo: "Pues no sé", [HS:E2 Por ejemplo,] pero cla-...
+E2: tocaban la bandurria para las jotas, ¿no?
+I1: Sí, hombre, sí, hombre, había esto de la guitarra, ¿sabes? [HS:E2 [Asent].] Cuadrillas que se dedicaban a eso. Pero si ahora, si ahora no bailan. [HS:E1 No.] Y hace años que... estaba un dí-, un día en el baile y digo: "Me cago en diez". Si antes si no había bailes no había otra cosa. La única forma de juntarte con las chicas era en el baile.
+E2: Claro.
+I1: Claro. Pero ahora, ben, ahora, [A-Inn] un año que lleven juntos, digo [A-Inn] "Tira, tira". [RISA]
+E2: La gente, la gente se emparejaba siempre en los bailes, ¿no?
+I1: Claro. [HS:E2 Que es lo que...] ¿Y sabes cuando pa la Se-, la Semana Santa había una, si-, sie-, siete domingos de San José que decían que no había baile ya, ya, y ya en misa te juntabas alguna, al salir de misa. [RISAS] [A-PIn: En fin...] Sí, pues, oye..., era la cosa así.
+E1: |T6| Era la manera de... Pero luego, por ejemplo, el... ¿Cuánto | cuántas horas trabajaban al día?
+I1: En el campo, nada, trabajábamos todos del pueblo en el campo.
+E1: ¿Todos los del pueblo?
+I1: Todos.
+E2: [HS:E1 Y...] ¿Qué cosas cultivaban allí?
+I1: Panizo, se cultivaba... Re-, [HS:E1 Remolacha.] lo principal era la remolacha. [HS:E2 Remolacha más que nada, ¿no?] Per-, es que..., porque era lo que se sacaba las perras, ¿sabes?
+E2: Sí, sí, sí.
+I1: Que era la cosecha, llevaba más trabajo, pero se sacaban más perras. Claro, y como gente había mucha pa trabajá pues había que ir a buscar, aunque llevara más trabajo, lo que más, al, al cabo del año lo que más se sacaba.
+E1: Claro...
+E2: Es que nos habían comentado en otras zonas que había trigo y centeno, ¿pero aquí más que nada la remolacha?
+I1: Sí, hombre, aquí en la huerta, eso. [HS:E2 [Asent].] En el monte, también centeno, también, y cebada y trigo. [HS:E2 [Asent].] Pero aquí ha sido más la huerta que el monte.
+E2: |T10| Y de la misa, ¿qué decía usted, por ejemplo, eh, la gente era muy religiosa antes?
+I1: Sí.
+E2: Sí, ¿no?
+I1: Porque ahora sea más, con to que no vais los jóvenes, oye, perdona. [RISAS]
+E2: ¿Cómo, cómo, perdone?
+I1: Que, que antes, tenías que ir todos por fuerza.
+E2: Ah, por fuerza, claro.
+I1: Si no sabes tú después de Franco cómo quedó aquello. Y los curas tenían una mano, que yo me gusta, soy católico y me gusta, pero aquello no me gustaba. [HS:E2 [A-Inn]] Es que hacían a la fuerza. Al hombre dejálo libre. Ahora, el que haga mal que lo pague, ¿verdad?
+E1: Claro.
+E2: [Asent].
+I1: Pero entonces había | no nos dejaban trabajá los domingos. El cu-, no-, el cura los denunciaba a la Guardia Civil.
+E1: ¿Por trabajar los domingos?
+I1: Sí. Fuimos allí a una..., ya se murió aquel hombre, te digo. Pero las mujeres, ¿sabes tú lo que trabajaban aquí?
+E1: Mucho.
+E2: ¿Y luego, por ejemplo, el cura decía..., eh..., "Esto hay que hacerlo" o "Esto no" en la vida real?
+I1: El amo era él. [HS:E2 [A-Inn] cerraba el baile.] Y si decía que cerraba el baile, cerraba el baile. Mas hubo una cuadrilla [A-PIn: que, fíjate,] que aquellos habían estado en la guerra, ¿eh? Y un día salieron por áhi. Lo que pasa, los jóvenes cuando se calientan, ya... Que ahora pasará igual. Digo yo, [HS:E2 Eso no cambia...] ¡vamos! [RISAS] Oye, y salían [Rndo: con un | en, en, en una [A-Inn].] En un tablero así con cuatro... Llevaban a uno como de fraile y los vio, y los hizo ir a misa no sé si fue cinco u seis domingos, chica. [RISAS] [A-Inn] Había, había un mando, que no había, no le des vueltas, ¿eh? No había... No es que la gente fuera floja, pero que no..., no había na qu'hacé.
+E2: Y luego, por ejemplo, en cuanto a los cambios que fue habiendo, cuando..., ¿aquí llegó por ejemplo la minifalda? ¿Qué pasó?
+I1: ¡No! Ay | aquí nada, de eso nada, [A-PIn: bien]. La gente no le dio, pues como ahora cuando los primeros que se divorciaban o vivían juntos, [HS:E2 [Asent].] pues paece que algunos viejos, los jovénes nada, pero los viejos..., es que: "¿Ánde iba a parar?".
+E1: Sí.
+E2: Claro.
+I1: [Rndo: Pero si,] si, si no viven [A-Inn] y se han separao, pues se han separao. ¡Bah! Esta mañana hemos tenido aquí a un chico, que estaba siempre aquí y, y dice... Nos ha dicho que se había separao, oye. Y él, tiene al chico, nos ha dicho quince días y di-, quince la madre.
+E1: Bueno, para los niños eso es un poco...
+I1: Oye, que... lo de antes sería malo, pero el matrimonio era mejor [HS:E2 Se respetaba más...] antes que ahora, con, con... Sí, sí. Ahora, en el momento que echó a trabajar la mujer en Europa, ya vino el descalabro. Aquí no, porque [RISA] aquí, pero cuando se [A-PIn: fue] de aquí a Francia y por áhi, [RISA] pues, a, a los años eran peor los españoles que los franceses, pa [A-PIn: ese] asunto de la mujer y el hombre. Se volvieron más adelantaos que [HS:E1 [A-Inn]] [A-Inn]. ¡Ya te digo!
+E2: |T11| ¿Se fue mucha gente pa Francia?
+I1: Sí, iba mucha gente a trabajar.
+E1: Espere, que se ha caído un poco el... [R-Mcr] ¡Ahí! Ya.
+I1: Sí, pues, oye, si ahora que tan mal que nos paece que vengan extranjeros, [A-PIn: ¿entiendes?] Pues, si, si, si, si ha sido toa vida, toas las naciones que han levantao las ha levantao la mano extranjera. Francia, si no hubiea sido cuando la guerra, pues si no quedó nada.
+E1: Claro.
+I1: Claro, y Alemania le pasó igual. Y España, ahora si no hubiéramos venido, ¿qué pasaría? Tenís por áhi muchas, áun quedan por áhi dos, de estas [A-Inn] de Sudamérica y por áhi, ¿sabes? [HS:E2 [Asent].] Pues oye, esas, si no cuidaran a los viejos, no las cuidaría nadie. Porque en España, y áhi al trabajo duro ya no los quería nadie. Tos esos que son extranjeros están de pastores, y en el campo. [HS:E1 Sí.] ¿Pero sabes lo que hablaba el otro día uno del jefe del campo? Vienen al campo, ¿sabes? Los traen con papeles, [HS:E1 Sí.] pero en cuanto tienen ocasión de buscar otro trabajo, ¡hacen bien!, se van. ¡Si es ley de vida, eso! [R-Vhc]
+E1: O sea, que vienen para coger el contrato y para que les den los papeles y luego cogen y se van.
+I1: Hombre, en cuanto tienen ocasión, ¿y qué harías tú?
+E1: No, sí.
+I1: ¡E-, es ley de vida eso!
+E2: ¿Y hay, hay mucha inmigración, ve usted que ha llegao mucha gente de fuera?
+I1: Sí, hay mucho, muchis-, Sí, aquí mucho. Mía, cualquier mañana aquí hay vente, [RISA] vente críos, vinticinco y no hay ninguno de aquí, son todos, ha venido mucha gente joven, con críos.
+E1: Bueno, eso es bueno para el pueblo, ¿no?
+I1: [R-Vhc] Oye, y pa todos. Lo que te digo de pastores, no habría. Y los oficios malos en las empresas ya no los quería ningún español, hay que reconocer todo, ¡oye! [SLNC]
+E1: ¿Y aquí se conocen a mucha gente?
+I1: Aquí nos conocíamos todos.
+E1: ¿Todos, antes?
+I1: Ahora no. Hombre, nosotros como [A-Inn], como te digo, como hay tantos jovénes, [HS:E1 Sí.] pues como cuando nosotros venimos pa aquí de paseo y por áhi, por la ma-, tarde, no están ellos. Pues no, no conocemos a muchos, claro.
+E1: Claro.
+E2: ¿Y cómo ve usted a, a los jóvenes, los ve a gusto aquí ahora, ve que se van? [R-Vhc] [HS:I1 Sí, ¡oye!] [A-Inn] viene gente joven, ¿cómo, cómo está...?
+I1: Los jóvenes os quejáis de vicio. ¿Eh? Nada. Oye, de, de todo habrá. Yo tengo un nieto que anoche se fueron a ver el Cáiz, que jugaba en Zaragoza, en el Príncipe Felipe. Pues de propio dijo, a nosotros no nos llegaba nunca nada. Bien. Los domingos a las nueve a trabajar. [PS] Es que no había adelanto, [A-PIn: ¿comprendes?,] y lo que ha traído esto... Fíjate, antes, lo que te digo, estábamos pa arrancar y pa coger panizo to'l pueblo. Ahora, el panizo se siembra más, porque la remolacha la fueron quitando por lo que fuera. [HS:E1 [Asent].] Pues cuatro jovénes y van cuatro máquinas y cuatro camiones y en quince días cosechan lo que hacíamos en to'l invierno todo el pueblo. Eso es lo que ha traído la eso, claro. [HS:E1 Claro.] Claro, ahora dicen que la... Es que estos, ah... España ha ido demasiado aprisa, pa mi modo de ver. [PS] [HS:E2 [Asent].] Porque aquí se hacían tos años cien pisos, un pueblo de dos mil habitantes que no llegaba, ¿tú crees que es pa hacer cien pisos ca año? Aquí pertenece hacer vente pisos, con to lo que han venido. Pero, oye, y ahora creo que, claro, que habrá paro. Claro, eh, eh. [R-Vhc] Es que..., la cosa es así. Todo que..., y no  había derecho. ¿Sabes que po- el metro pa aquí, el, el solar del pueblo? [HS:E1 Sí.] Cualquier metro valía a cien, a cien mil pesetas el metro. No penséis que esto era jauja [A-Inn], pero ahora s'ha bajao algo, dicen.
+E1: Ahora está imposible en todas partes.
+I1: Sí, hombre, es que ha habido un, ha habido lo que no p-, podía ser. Un piso, venga, mi-, vente millones, y al año siguiente venticinco, al otro veintisiete, al otro... [HS:E2 [A-Inn]] Oye, ha tenido que llegar el estanco, porque todo [A-PIn: en] demasía son tempestades. [PS] Pero me cago en [HS:E1 ¿Y luego,] [A-PIn: diez.]
+E1: |T12| por ejemplo, aquí ustedes tenían colegio?
+I1: Sí, [HS:E1 ¿Y iban, y...] toa la vida.
+E1: iban al colegio, cómo era la educación?
+I1: Oye, buena. [HS:E1 ¿Cómo la compara con la de ahora?] El, el que tenía interés, ¿eh? Ahora, estudiáis menos, [HS:E1 Sí.] que cuando iba yo. Sí, sí, [Rndo: no, no me mires, no, no te rías.] Yo lo veo por mis nietos. Me cago en la hostia, que el uno tiene dieciocho años y el otro vente. Y no han hecho más que estudiar. Yo aquí íbamos a los seis años a la escuela. No creas que nos llevaban a [Rndo: pagar nada,] cuando abría, aquí a los seis años, íbamos a la escuela. Yo fui hasta los doce, hasta la guerra. Después ya no fui nada, y sabía yo las cuatro | y sé ahora muchas cosas más que mis nietos. Ahora, muchas horas. Mira, tengo yo una... [A-Inn] Tengo cuatro nietos. Y una de | chica que tiene dieciséis años, este mes... esta semana pasada, se fueron el vier-, el lunes fueron al, al...
+E1: Al partido.
+I1: Al... No, al... Esto..., a, a estudiar. Aquí a la, a la universi-, Ahí ande van al... Fuera, en el colegio ese. [HS:E2 [Asent].] ¿Sabes? Pues, bueno, los cogieron y, y se los llevaron a Bilbao y han estao toa la semana por Bilbao, pero no han estudiao. [RISAS] ¡Claro, [HS:E1 De cachondeo] oye!
+E1: todo el rato.
+I1: Pero si a nosotros a los ocho años nos tenían que llevar al campo u a pastor, porque, oye, que no había. Si es que no se producía. No creas que la gente que tenía fincas, tampoco no tenía un real, ¿eh?
+E1: Estaba todo el mundo igual.
+I1: Claro. No había y no había y no había. ¡No se producía!
+E1: Claro.
+E2: ¿Y los colegios que hay aquí son públicos? Ahora mismo, ¿o hay alguno privao? [HS:I1 Sí.] [A-Inn]
+I1: Oye, aquí a los once años van al, al, al instituto, afuera, ¿sabes?
+E2: [Asent]. [HS:I1 Lo...] Hay un colegio de primaria, ¿no?
+I1: Ah, sí. Solo de primaria uno, no, me paece que ahora lo menos hay ocho.
+E2: ¿Ocho colegios hay aquí?
+I1: [RISAS] ¡Siete, seguro! No ves que hay to -, [HS:E1 Es grande.] este año, tienen que... es que han venido muchos. Y son to chicos pequeños, los que vienen. Ya te digo, aquí vienen por las tardes una ventena. No conocemos a ninguno, ni a padres ni a madres. [HS:E2 [Asent].] Ha venío mucha gente joven, chico, sí. Bueno, que ha debido pasar en Zaragoza, también áhi faltan muchas aulas pa los zagales [A-Inn] [HS:E2 Sí, sí, sí.] Ah..., estaban estos días con jaleo, que no había pa todos ande querían los padres. Claro, querían cerca de casa, pero que, eh, han estao estos días con sorteos [A-Inn]... Han tenido que hacer muchas..., es que ha sido un volumen, ¿comprendes?
+E2: [Asent].
+I1: Si cada año, desde los se-, de | tres años, habrán salido en San Mateo sesenta, ¡lo menos! Y antes salían cuatro, pues [RISA] no puede ser. [SLNC]
+E2: ¿A usted le hubiese gustado ir a...? ¿Usted ha ido a la universidad? O...
+I1: Bien, [HS:E2 [A-Inn]] [A-Inn] te digo... Sí. Y hubiea sido, no es por nada, pero yo fui de los listos en la escuela, ¿eh? [HS:E2 [Asent].] Y el cura, cuando comulgué, vino con mi padre a hablar pa llevame al seminario, pero entonces... no había perras, y no estudiaba más que el hijo de papá, oye. [HS:E2 Ya, ya, ya.] Y era la cosa así.
+E2: Pero claro, en el seminario le...
+E1: Perdone un momentito otra vez, es que... [HS:I1 ¡Ah!] [RISAS] Lo tengo mal, lo voy a poner bien, [HS:I1 [A-Inn]] que... ¡Ahí! Ahí no se va a caer ya.
+E2: Le decía que mucha gente se metía en el seminario porque así podía estudiar, ¿no?
+I1: Sí, [HS:E2 Pero...] algo, pero aquí no, en el pueblo no. Y entonces, menos. Después hubo una temporada que aún. Ahora se jubila uno, que era amigo mío, [RISAS] más joven, pero que..., estuvo..., y rebotó de cura. Había algunos que una vez que habían estudiao ¿sabes? [A-Inn] nada, [HS:E1 Se salían... [A-Inn] tener estudios... [A-PIn: Aprovechan,] claro. [A-Inn]] se salían. Claro, ¡pero, oye, es natural! Hay que hacé la vida... Pero después ya debieron cortar algo ¿sabes? Ya no..., se conoce que hicieron no, no, aquí [HS:E1 [A-Inn]] si venís, vendréis y si no, no... Pero..., hubo algunos, uno, que sacaron carrera, mira. Eso era... En San Mateo, dos, eso. Se fueron, [PS] [HS:E1 [A-PIn: Aquí la educación]] después de cantar misa.
+E1: siempre, siempre la llevaban los curas, ¿no?
+I1: Caro. [HS:E1 Ya no.] Aquí, la educación de religión, ¿eh? Lo demás no.
+E1: ¡Ah! No... Cuando ustedes eran pequeños, [HS:I1 Nada...] ¿tampoco? ¿Eran maestros...?
+I1: Eran maestros nacionales, igual que ahora. [HS:E1 Sí.] Lo que pasa que ahora llevan vente u ventidós. ¿Cuántos son por aula?
+E1: Sí, pues por áhi...
+I1: Bueno, pues ahora, [RISA] igual llevan, llevan... Antes lleva-, cuarenta, llevarían. Yo, cuando era chico, iban dos maestros y dos maestras. No había más. Y chicos estábamos muchos, [R-Vhc] ¿eh? Ojo. [RISAS] ¡Me cago en la...! Éramos en todas las casas cuatro o cinco, y en todas, ¿eh?
+E1: ¿Cuatro o cinco hermanos? Y..., las casas, ¿han cambiado de casa o [HS:I1 [A-Nul]] siguen viviendo en...?
+I1: O sea, aquí no hay ning-, ninguna casa vieja, pues [A-Inn].
+E1: O sea que han | ¿lo han modificado todo?
+I1: Sí, sí. No e-, no es conocido el pueblo, no es conocido, ¿eh? De lo que era a lo que [A-Inn]. Pero es que después de la guerra se quedó la nación..., nada, catombe. No había nada.
+E1: Claro. ¿Y cómo fue [R-Vhc] la recuperación, [HS:I1 Pues...] lenta?
+I1: Lenta, ¡buah! Se pasó muchos años que la gente en la capital pasaba hambre, ¿eh? No creas que era...
+E1: En todas partes, ¿no?
+I1: Sí, sí.
+E1: ¿Y usted ha vivido aquí toda su vida? ¿Y ha ido... | ha estado años fuera como...?
+I1: |T18| No, tres años en la mili estuve, pero [A-PIn: ya] más no. [RISA]
+E1: ¿Dónde estuvo?
+I1: En, en Huesca, en, en el Panticosa, y to eso. [HS:E1 Y...] En el Valle Tena, bueno, tambén estuvimos en... pa-, más allá, en, en donde está eso que van ahora a veranear..., está el..., Dios. ¿Cómo se llama? Ahora no me sale.
+E2: ¿En el Pirineo?
+I1: Sí.
+E2: ¿En Candanchú, por ahí?
+I1: No, Candanchú, sí, eso [HS:E1 [A-Inn]] estuve... a-, aquí a la derecha.
+E1: ¿A Calatayud?
+I1: No, Calatayud está aquí bajo, [A-PIn: no me líes.] [RISAS] Sí, no, no [A-Inn] ¡en Calatayud! Cago en la ho-... ¡Sé que van [A-Inn] esquiar!
+E2: Eh...
+I1: Hombre, a Candanchú suben a esquiar, pero de [HS:E1 Astún. Astún.] Candanchú, de Biescas pasábamos a la... [A-PIn: Astún] y to eso, está más allá.
+E1: ¿Astún?
+I1: Sí, eso son..., eh, es uno de esos de, de esquiar, claro. Que ahora están cerraos to el día.
+E1: |T11| [R-Vhc] Biescas y... Jaca... Y, a ver, ¿qué más? ¿Ha visto, por ejemplo, cambio..., pues eso, en lo de la mujer? ¿En el rol de la mujer?
+I1: Oye...
+E1: ¿Mucho, mucho?
+I1: Claro, ahora más. Pero en pocos años ha sido. Antes, no. Pero, oye...
+E1: ¿Cuándo, cuándo cree usted que se..., [HS:I1 Pues, eh...] que hubo el cambio?
+I1: Ha-, hará vente años. [HS:E1 [A-Inn]] No, no hace más, no. Hace cincuenta, no, ¿eh? No había cambio, ¿eh?
+E2: [HS:E1 [A-Inn]] Y le iba...
+E1: Di...
+E2: Y le iba a preguntar, eh, ¿cuándo llegó aquí el agua a las casas, y el tendido eléctrico?
+I1: ¡Ay! Hace muchos años. El, el eléctrico, toa vida. [HS:E2 Toda la vida.] Esto, eso que, que hay debajo ahí, es una fábrica de luz. [HS:E2 [Asent].] Que la tiraron y después la hicieron. Y..., pero, San Mateo daba luz pa to estos pueblos. [HS:E1 ¿Para los pueblos de alrededor?] Fíjate, Leciñena, Perdiguera y Villamayor, to estos pueblos de abajo. Hicieron nueva, y ahora no da ni pa la fabríca pienso que hay bajo. Claro, porque entonces no había más que medias bombillas, una bombilla, una... e-, e-..., estaba abajo y otra era media; apagabas abajo y se [A-PIn: encebaba] arriba, la luz. Oye, no había, claro.
+E1: ¿Y el agua?
+I1: El agua siempre ha estao aquí.
+E1: ¿Siempre también?
+I1: Sí.
+E1: Bueno, ¿había, había que bajar aquí...?
+I1: Eso es.
+E1: ¿Y luego ya...?
+I1: En las calles... ¡Mira! Hace poco cambiaron... Yo, mi c-... | ahora vivo con una hija, ya, pero mi casa está ahí, debajo de esas casas de allá. En la calle el Horno. Pues, eh, hace dos años cambiaron las tuberías, porque llevaban cuarenta años.
+E1: Estarían ya [HS:I1 Y fueron,] [A-Inn]
+I1: [A-Inn] el pueblo... No, estaban a-, muchas amoladas ya. [HS:E1 Claro.] Cambiaron eso, porque, claro, van cambiando, porque si no las tuberías, ¿sabes? [HS:E2 [Asent].] Que pasa en Zaragoza, también. ¿Viste el otro día en Santander?
+E2: ¿Qué pasó?
+I1: ¡Que se reventó una tubería! [HS:E2 [Asent].] Y ve-, vente mil personas estuvieron dos días sin agua.
+E1: Claro, [HS:I1 Es que, es, es, es...] hay que renovarlas.
+I1: Hay que renovar, claro. Esa..., ya te digo. Y ahora estarán renovando otras. Eso no tiene que parar.
+E1: Claro.
+I1: Porque, e-, en el [HS:E1 [A-Inn]] suelo...
+E1: ¿Esperar a que, [HS:I1 ¡No!] a que reviente?
+I1: Porque después viene lo que viene.
+E2: ¿Entonces, aquí cuándo llegó eso? ¿El agua a las casas, el agua corriente?
+I1: El agua corriente a las casas, ya te digo, cuarenta y dos años hará. Dijeron..., qu-, que era cuando cambiaron porque fue del pueblo, de la acequia pa allá, [HS:E2 [Asent].] y yo vivo allí, fue cu-, a-, ande se empezó primero el agua.
+E2: ¿La acequia esa es moderna, o lleva ahí mucho tiempo?
+I1: |T4| La acequia, esto, toa la vida.
+E2: Toa la vida, ¿no?
+I1: Esta acequia tiene más de quinientos años. [PS]
+E1: [HS:I1 [A-Inn]] De esa acequia no se puede beber, ¿no?
+I1: Sí...
+E: ¿Así, tal cual?
+I1: Toa la vida hemo-, Ahora dice que..., que echan porque ahora, bueno, hay algo sano. Porque yo no sé, ¿eh? Echan, eh, eh, hacen lo que quieren.
+E2: Pero la gente bebía de ahí antes, ¿no?
+I1: Ant-, antes sí. Y muy buena que era esta agua. [HS:E2 [Asent].] Mira, había dos u tres casas ricas en Zaragoza que en el mes de enero, que es cuando bajaban con ca-, con... [A-Inn] y, y, y, y, y toneles esos, llevaban l'agua a Zaragoza pa to'l año. La casas [A-PIn: del monte] ricas, [HS:E1 [A-Inn]] Salmonares.
+E1: comprarlo?
+I1: No, aquí, hombre, aquí venían a coger agua el que quería. [HS:E1 ¡Ah, el que que-...!] El agua no | es de... No confundas tú, ¿eh? Que el agua es de todos, ¿eh? Que no es de nadie. [RISA]
+E1: Bueno, ahora se paga.
+I1: Oye, aquí ta-, también pagabámos, pero, pero, pero desde que vino, ende que se puso el agua por las casas, igual. Un, un contador, ya sabes, pues, tanto pagas. Pero vamos, fue una cosa de las buenas, ¿eh? L'agua en las casas.
+E1: Sí.
+I1: Este año cuando han estao que no nos | iban a no dejar regar aquí. [HS:E1 Por la sequía...] Que no había agua, que no había agua por la sequía. Decíamos "Me cago en diez", pues si ahora, si, si faltara el agua, ah, [R-Vhc] en un pueblo pequeño, porque esto tiempo atrás, no sé si lo veríais, que llevaban pa aquí, a dos o tres pueblos, a más cerca Zaragoza, con cisternas, pero pa los [A-PIn: ganao míos]. Pero aquí, aquí, ¿cómo iban a traer? ¿Con cisternas? ¿Cuántas? Si haría falta... ¡Imposible, oye! [HS:E1 Mucha gente...] En una puebla | un pueblo ahora si le quitaras l'agua..., la catombe [Rndo: tendría].
+E1: Pues sí.
+E2: ¿Y el agua dicen que ya no la bebe la gente, baja más sucia que antes?
+I1: Sí.
+E2: Sí, ¿no?
+I1: Bueno, oye, las fabrícas, ya sabes. [HS:E2 [Asent].] Nos quitan algo, pero nos dan lo que quieren. [PS] Estos días..., yo [A-PIn: como siempre,] me como | compro manzanas ahora, tenía antes, pero ahora no tengo, y lo veo eh, ah, una | te comes una manzana, y no tiene corazón. ¿Qué l'habrán echao? ¿Pa que se vuelva todo carne?
+E1: Sí.
+I1: [HS:E1 [A-PIn: Genético de eso].] ¿Eh? Comemos lo que quien ellos.
+E2: ¿Sabe...? El sabor de la manzana, ¿di-, diría usted que es diferente?
+I1: Sí.
+E2: Que no es igual, ¿no?
+I1: No, no. De nada. Se ha ganao en cantidá, pero se ha perdido calidá.
+E1: Claro.
+I1: Porque un árbol..., bueno, una manzanera, o lo que quieras, antes, pues, echaría cincuenta y ahora echa sesenta. Pero como se la hacen echar a [A-PIn: puro] eso... Pues no, que no pue ser. [PS] No es igual. [PS] Porque, oye, ellos saben. Este año, [A-PIn: aquí mismo, dice que] no ha nacido, yo no pongo patatas ya, pero dice que no han nacido buenas las patatas. ¿Es que te extraña? ¿No ves que les dan, las meten, pa conservalas? Igual, se les pasó en la nevera y no han na-, han nacido mu mal. A sembralas. Pero, oye, que aquí va todo [RISA] [HS:E1 Cuando] a base de...
+E1: se hacen las cosas bien...
+I1: Buah.
+E1: Eh..., nada.
+E2: |T11| Y usted, ¿qué problema solucionaría del pueblo, [A-PIn: si podría?]
+I1: Oye, el pueblo ahora... Yo pienso que problemas ahora y siempre, y habrá. Pero vamos, ahora, si [A-Inn] la gente fuera como había que ser, tendríamos que estar todos contentismos. Contentismos, ¿eh? Porque, si el..., el que tenía algo está bien, el que no tenía nada, también. O sea que... ¡Yo no sé qué quieres ya!
+E1: Claro, que está... Que todo el mundo vive bien, [HS:I1 Bien, bien.] más o menos, o sea...
+I1: Sí, señor, sí. [HS:E1 Sí.] Claro, alguno sale a lo mejor que tiene que pagar piso, pues claro, o, o...
+E1: Entonces, ¿usted diría que nosotros lo tenemos mucho más fácil de lo que lo tuvieron ustedes a nuestra edad?
+I1: Oye, pa... Porque sí, porque gastáis más. Si gastarais como nosotros, lo tendríais mucho más fácil. [RISA] ¿No te digo yo, esa nieta mía que se | toa semana?
+E1: A Bilbao.
+I1: Pues si de | hay cuarenta en l'aula, las cuarenta que fueron. Pues han pagao, pero mu poco, ¿eh? Pero a mí no me pagó nadie ni, ni, ni un céntimo así..., pa estudiar. [R-Vhc] No, ahora les dan. Oye, las cosas..., todos queremos más, y eso nunca l'he discutido.  Pero oye, que se quejan sin vicio. [PS] Porque, oye, aunque lo-, aun los que no cotizaron ahora no sé cuánto cobran, pero estos años que había en España más de quinientas mil pensiones de estas de los viejos. Pensiones sin..., no contributivas. Que no habían pagao. [A-Inn] Medio millón de esas. [HS:E1 ¿Medio] Y cobran.
+E1: millón?
+I1: Medio millón, sí.
+E1: Que cobran la pensión sin haber...
+I1: Sin haber cotizao, pensiones no contributivas, que se llaman.
+E1: No sabía que existía [HS:I1 ¿No?] eso.
+I1: ¿No lo sabías tú eso?
+E1: No. [RISA] [PS] [HS:I1 Pues sí.] ¿Y eso cómo puede ser? ¿Por qué?
+I1: Pues... Porque se | porque... los...
+E1: ¿Porque son gente que ha venido después [HS:I1 No, no,] hasta aquí?
+I1: no, no, no. Gente que ha estao aquí y no ha querido pagar, y pudiendo. Y ahora cobran. [PS] Fue el esta-, el gobierno hizo eso [A-Inn] hace cuatro o cinco años, que lo aprobaron to. Y, y ahora [A-PIn: no hay deja] a nadie, ahora. Alguno que no se haiga afiliao o algo, pero si no, cobran todos. [R-Vhc] Cobran. Más de medio millón había de las no contributivas, que se llaman. [HS:E1 Es mucho, mucha gente.] Y cobran todos, claro, los subnormales, ¿comprendes? Subnormales, todo eso entra. Inutíles, que ahí ha habido un rollo... ¡Buah! Hay dos chicos de aquí... Aprendió a ir en la moto, tiene coche ¿eh? [HS:E2 ¿Y no tra-?] Y musíca. Y, y, y, y le pa-, claro, me dice, me dijo que se la habían quitao..., y de esa... Claro, el medico | los médicos hay veces era menester matalos. Les han dao una paga, ¿Por qué no la pagan de ellos? Pero si no le pertenece, ¡no, señor! Pero, mira, salió la orden que tenían que cobrar todos de España. Pues ¿qué serán cuarenta mil pesetas ahora? Este año no he leído, pero... más de medio millón de pensionistas sin...
+E1: Que no han...
+I1: Que no han cotizao. Las no, no contributivas, que se llama. [RISA]
+E1: Sí, sí.
+E2: Quién se lo iba a decir, a esa gente. Que las cosas iban a estar así.
+I1: Mira | Por eso te he dicho que, que ahora no tenía que estar nadie descontento porque ¡está to'l mundo! Los maestros, ya lo ves, yo, cuando | Ahora estoy hacia | los bomberos, en Zaragoza, ¿verdad? Y, y los guardias, [RISAS] digo, pero bueno, si [A-PIn: hubian] vivido estos como vivimos nosotros después de la guerra, ¿qué harían?
+E1: Nosotros no, no seríamos capaces, yo creo.
+I1: [A-PIn: ¿Capaces de] hacer? Bueno, esa ton-, algunos viejos dicen eso, que los jovénes ahora, si les tocara, digo, pues si no hubian conocido otra cosa, ¡trabajarían igual que nosotros! ¡Y estarían sabádos y domingos trabajando y... | igual que todos!
+E1: Cuando se tiene que hacer...
+I1: |T16| Ahora sería lo malo. Ahora [Rndo: mismo no], eso que vuelva después. Pero si les hubiera tocao, ¡mejor que nosotros! Porque se han crecido antes, han comido mejor y han vestido mejor | Y están más fuertes. [R-Vhc] Bueno, más fuertes, porque no sé tú, llevan, ahí llevan... Allí llevan, me chocó a mí... [A-PIn: ¿Tú no ves] chicos con gafas?
+E1: [R-Vhc] [A-Pau: Sí. Mucha gente lleva gafas.]
+E2: Y las, las alergias, ¿eh? Antes no. La gente no tenía alergias.
+I1: [Rndo: [A-Inn] van a tener!] ¡Pero... no hacías caso! [A-Inn] Alergia ha habido toa vida. Los árboles cuando florecen, la alergia, eso no cabe duda. Pero, mira, nadie | Y, y cuando cogías un resfriao, ¿qué te crees tú? ¿Que ibas al médico u qué? ¡[OTRAS-EM] no! [G-Mst] En el monte, lo curabas. [RISAS] ¡Ay!
+E2: Eso es otra cosa, ¿no? Ahora parece que la gente va al médico, si se aburre.
+I1: Por ir.
+E2: Por ir.
+E1: No cuando está realmente enfermo.
+I1: |T11| Oye, yo pienso que el que va algo tendrá. [HS:E2 No, claro.] Pero vamos, que había | a lo mejor discutimos con algún viejo, digo: "Los hijos nos tenían que hacer pagar algo de pensión".
+E1: Eh, eh...
+I1: En la farmacia, en la farmacia. Porque vosotros os estáis criando entre chicos, y vosotras que porque yo soy viejo, ¿cojo ahí y no pago nada? No, señor. Cuando uno está criando la familia es cuando más falta le hace la ayuda. Pero, hostia, eh, entonces, [A-PIn: si hay que] pagar aquí aunque sean mutilaos, ¡aunque no les haga falta! Se ponen como leones. Digo: "¡Calla! Que no se pue hablar con vosotros". [RISAS] Cago en la u-... [PS]
+E2: Y luego en cuanto a profesiones, por ejemplo, yo creo que ahora los maestros viven bastante mejor que antes, ¿no?
+I1: Sí, eh, cuando hablaban [A-Inn] decía: "Pasabas más hambre que el maestro escuela". [RISAS] Y ahora viven mu bien, ¿eh?
+E2: Sí. Sí, sí, sí.
+I1: Ahora, claro, hay quien le paice poco, ¡es natural! ¡Claro! Si yo lo que meten | Cobro setecientos quince euros de pensión. Si me paece que es poco, pues claro, pues dirás tú que e-, que es que | Pero si echo cuentas, digo | [A-Inn] ¡pues si me caen a mi tos los días más de tres mil pesetas cada día! ¡Uno viejo! Ahora claro, si tuvieras que pagar un piso... Pero, oye, si uno ha llegado a sesenta y cinco años y no ha poído hacer miajica casa, porque ha poído tener enfermedades y mil cosas | Claro, de todo hay | Pero en conjunto bien, oye, todos. ¿Ves? Este, este chico que hay aquí, este también, este es | primero que hay está | También está ma-, malico, este tampoco cotizó nunca, no trabajó. ¡Pero cobra! Ese [NP]... [PS] Este de la gayata.
+E2: ¿De la qué?
+I1: Ese que lleva la gayatica de este lado, ese también cobra, que es...
+E2: La gayata es el, el bastón, ¿no?
+I1: Eh, sí, sí. [SLNC]
+E2: ¿Hay mucha gente mayor, también, en el pueblo, ahora?
+I1: Mucha. ¡Estamos [A-PIn: solos con-, donde más, más que la jabón!] [RISAS]
+E1: ¡Y encima os conocéis todos...!
+I1: ¿Eh?
+E1: ¡Que se conocen todos!
+I1: Eh, pero hay mucho... No, hay viejos que no los conoces.
+E: Que no... Que han venido... [HS:I1 Sí...,] más tarde.
+I1: claro, hombre, a lo mejor pregunta po aquí alguno por la mañana | "¡Coño! Y, pues ¿tú...?". "¡Coño, que te | me se casó una hija y estoy con ella aquí!". [RISAS] Ha venido, en pocos años, ha venido mucha gente... joven. [SLNC]
+E1: Pues sí, es que hemos estado por pueblos, antes, y, y este es de los más grandes que hemos visto por el camino. [HS:I1 Sí.] De pueblos, lo que son... O sea, que no Zuera, que es más grande.
+I1: [R-Vhc] Cho, Zuera sí.
+E1: Hemos estado en | ¿Cómo era? ¿Gau-, Garrúa? De Gállego.
+E2: Eh...
+I1: [HS:E1 Gaurrea.] Gurre-, Gurrea.
+E1: [HS:E1 Gurrea.] Gurrea.
+I1: ¿Cuántos habitantes tiene Gurrea ahora?
+E1: No lo sé. [HS:I1 Pues] Pero...
+I1: como San Mateo, iba así. [G-Mst] [HS:E1 ¿Sí?] Pero me paece que había menguao.
+E1: Sí, sí, [HS:I1 Antes, cuando] estaba pequeño.
+I1: la guerra era igual que nosotros.
+E2: Pues...
+I1: ¿Ha-, has estao [HS:E1 Pues está bastante...] en Almudévar? ¿Has estao en Almudévar?
+E2: [HS:E1 No.] No, hemos estado en otro [HS:I1 Almudévar] [A-PIn: pueblo.]
+I1: era mucho más grande que San Mateo, y ahora, ahora, en pocos años han hecho una variedad de pisos.
+E2: Sí, ¿no?
+I1: Pero también era mucho más que San Mateo y se quedó más pequeño.
+E1: Pues estaba en | en Gurrea hemos estado y había m-, m-, Era mucho más pequeño, [HS:E2 Era mucho más pequeño, sí.] mucha menos gente...
+I1: Sí, sí, ahí se ha quedao... Ahí ha habido pueblos que se ha quedao mucho. [PS] Hay una chica aquí que se casó en Graus, que yo estuve soldao en Graus, también.
+E1: En Graus. ¿Dónde está eso?
+I1: En | De..., de Monzón allí... al lao está... Graus. Pero ya, ya si te metes un poco para allá, ya te irás a la parte Cataluña.
+E1: O sea, [HS:I1 Pero Graus, cuando] que está cerca de Cataluña.
+I1: estuve yo soldao, era mejor que Huesca. Había mejores cines, había dos cines, y en Huesca no había más que [A-Inn] cines, ¿eh? No pienses que Huesca era... [RISAS]
+E2: Claro. [PS] Y la gente...
+I1: Pues Graus, me decía esa chica que se ha casao de aquí que, digo "Bueno, ¿qué...?", dice: "Pues, chico, no, no ha crecido tanto, no. Poco más que San Mateo". Si Graus era más del doble, entonces. Más, ¡buah!, bueno. Te digo, pero en Graus había una fabríca de cosas de mujeres, de fajas, sostenes... Mu grande, cuando la guerra. Pero después se jodió. [PS] [Asent].
+E1: [R-Vhc] Como todo. [SLNC]
+E2: |T6| ¿Iba usted mucho a Zaragoza?
+I1: Hombre, ¡pero con el carro, iba mucho!
+E2: ¿Con el carro? [RISAS]
+E1: A llevar las...
+I1: ¡A buscar abono!
+E1: Ah...
+I1: ¡Y llevar patatas!
+E1: ¿Y cuánto tardaba en, en llegar?
+I1: Cuatro horas.
+E2: [HS:E1 Cuatro horas...] ¡Cuatro horas! ¿Y ahora cuánto se tarda? [RISAS]
+E1: ¿Quince minutos?
+E2: ¡Cuatro horas! [SLNC]
+I1: Sí, oye, pues, ventidós kilómetros, las mulas iban cansás, pues, ¿qué te crees? Si no se podía ir... A obligalas, porque hubian caído malas.
+E1: Claro.
+E2: Claro.
+E1: Se pueden desmayar, y...
+E2: ¿Cuánta carga podía llevar usted en el carro?
+I1: En una [A-PIn: gabela], con tres mulas, cuatro mil kilos de patatas, bajaba... El año que si | ¿tú eres de Zaragoza?
+E2: Yo no.
+I1: ¿No? ¿El Desanche sabes ánde está?
+E2: Eh...
+I1: La calle del Desanche que ecían.
+E2: No, no lo sé.
+I1: Aquí en las tabiñerías abajo, que iba una calle que la ensancharon entonces. ¿Cómo le dicen, a esa calle...? Y, y, y descargaba ahí, y a cargar abono a la química. Oye...
+E1: Y luego lo que, lo que cultivaban aquí, ¿lo vendían o... [HS:I1 Sí, sí.] estaban en una cooperativa?
+I1: No, la remolacha aquí se llevaba a la fábrica, lo tenía aquí, en Zuera y aquí bajo. [HS:E1 ¿Pero cada uno] ¿Sabes? Ahí [A-PIn: donde la cogían].
+E1: tenía su parcela...?
+I1: Su contrata. No, no. Contrato. [HS:E1 Ah...] Ellos ven-, traían | venían un grupo de | pa, pa des-, descuento, de la remolacha, pesador, ¿sabes?
+E1: [Asent].
+I1: Y ahí pesaba, te descontaban y, cuando eso, te lo pagaban. La azucarera. [PS] Sí. [PS] Después de la guerra también hubo un año que se ponía mucho alfalfe, que cambió la evolución, que echó a, [A-PIn: a gastar a] algún animal, claro, había, porque... Si la guerra se quedó... una, un desastre, cho. ¡No había ni el papel de fumar!
+E1: Ni papel de fumar.
+I1: Sí.
+E1: Sí, porque antes, antes siempre los cigarros [HS:I1 Claro...] se los, los liaba uno.
+I1: Sí.
+E1: Siempre.
+I1: Tabaco picao. Ahora no debe existir, ya.
+E2: [HS:E1 Sí...,] Sí hay.
+E1: sí, [HS:I1 ¿Sí hay,] sí.
+I1: picao?
+E1: Es mucho más barato. La verdad es [HS:I1 [A-Inn]] que sale...
+I1: |T11| Que va a hacer cuatro o cinco años, ¡que no creas que me quité de fumar porque no me gustaba, eh! Pero, oye... Di-, digo va a llegar a ochenta años, [A-PIn: y vo-, esto hay] que cortalo porque, ya... ¡No pue ser, oye!
+E2: Está usted más sano que una pera, ¿eh?
+I1: Sí, [RISAS] estoy más sano... Hombre, malo, no he estao nada.
+E2: Yo, mi abuela es más joven que usted y parece mayor. Es bastante más joven. Y parece mayor. Está muy estropeada... [SLNC]
+E1: ¿Y qué hacen normalmente? ¿Se vienen aquí por las tardes, por las mañanas...?
+I1: Yo no tengo otro ya [RISAS] que bajar a por el pan pa la hija y los nietos, ir a echar un café al puente y que es cuñao, y, y venirme aquí, y si no, estar por ahí charlando con la, alcahuetear con alguno. [RISAS] Claro, no hay otra cosa. [R-Vhc] Ah. Pero después de los años la, en la capital, pasaban mucho hambre, ¿eh? Si es que no había nada, tú, si no había nada. Se quedó la guerra, claro, que las guerras son así. Tres años en una nación... Pues cuenta. Sin trabajar nadie. Fíjate, yo fui después de la | terminada la guerra, y aun me junté con... Porque a los de la zona roja, que llamaban, a los republicanos, ¿sabes?, esos no, no les valió la guerra. Cuando se terminó la guerra, el año 40, a los del 37, la quinta del 37, que la quinta del trein-, tenía veintiún año cuando el del año 37. Porque los quintos son cuando tienen vintiún año, el año que haces veintiún año eres quinta de aquello. Por ejemplo, yo nací el vinticuatro, pues el quinto del 45, ¿sabes? Veintiún año después que naces, [HS:E1 [A-Inn]] es los quintos, que llamaban. [PS] Y sí, no había nada, [P-Ssr: me cago en la...] Oye, había unos andaluces que a lo que estábamos en Barbastro, un día | [RISAS] iban de vigilancia, que íbamos por la noche de vigilancia, le pega-, le tiraron a echar tiros a un corral, se llevaron las gallinas y [V-Ljn] después dice que las habían robao. Los hicieron meterse al río ¡con hielo! Es que, eh, eh, ¡tú no te lo pues imaginar lo que era entonces un militar! Nada. No era militar, era un avasallo; no te podías defender nada. Algún jefe había bueno, pero vamos, la mayoría, nada. [PS] Yo... Un chico que estábamos en Lorna de Gallégo, ahí subiendo hacia Sabiñánigo, y me tiende una pieza la iglesia pa el día de santa Bárbara, que es el cuatro de diciembre, pues al correr un cañón, como pesaban tanto, le amolemos una pierna. Entre | ¡Oye! Pues no lo | estuvo en Jaca dos meses y pico. Pues no lo mandaron a casa. Eh, [A-Inn] el ejército | aquello era un avasallamiento. No, no era... Y, y, mira, de cocina, lo dejaban, al mozo. Y me junté después de jubilanos y no, y no le quedó ninguna paga. No sé si después se lo darían, ahí no estaba yo. Así que fue sano y sano, se la jodió una pierna y no lo mandan a casa. Que allí de, de, de cocina, que dicen, eso, ¿sabes? Para pelar patatas, en fin. [PS] Sí, sí. [SLNC]
+E1: ¿Qué le parece que, que los hombres ahora cocinen y que, que se [HS:I1 Oye, muy bien,] dediquen a hacer las cosas de...?
+I1: si trabajan... Oye, hay que comprendelo.
+E1: Claro.
+I1: Cla-, claro.
+E1: [Rndo: A mí también me parece muy bien.]
+I1: |T13| Oye... Yo, con la hija que estoy, porque la otra la tengo en Zuera, cuando | si se van estos de veraneo también yo me voy a Zuera, pero... Pues la de aquí, trabaja por la mañana en la oficina.
+E1: [Asent].
+I1: Pues claro, el marido trabaja en el hospital, en Zaragoza; a las  dos ya vienen todos, pues, oye, eh, yo lo veo que él ahí | yo no ayudaba nada, pero era más torpe... ¡Todos éramos torpes entonces! Si no sabíamos guisar más ¿sabes el qué? Patatas con aceite. [RISAS] ¡Lo que en el monte! ¡Y huevos fritos y tortilla! Un ju-, un puchero judías, lo que se hacía en el monte. Pero para casa, si no, nadie. Si es que | pero si es que no había tiempo tampoco.
+E1: Claro, [HS:I1 Sí.] se pasaban el día trabajando...
+I1: Claro. Trabajando to'l día y no se producía nada. [RISA] [PS] Pero oye, la juventud es siempre igual, ¿eh? Se pasa bien, de joven.
+E2: Sí.
+I1: Con todo que | mal que [Rndo: íbamos | Que m'acuerdo] que íbamos al pueblo... ¡A Zuera, que ices tú! Íbamos de fiesta... Pues, al cine no podemos ir, no llevamos perras más que pa'l baile, [RISA] y cenar, nada, mira...
+E1: Claro.
+I1: Porque entonces la única juerga era el baile. Oye, ahora tienen cuarenta mil. Pero, a ver, lo que discurres, oye, ¡con pocas perras mira a ver, [Rndo: mira a ver cómo te pasas la fiesta!]
+E2: ¿Y qué bailaban? ¿Qué bailaban?
+I1: Todo..., pasodobles, todo, baile... A-, aún hay algún baile de esos, ¿verdad?
+E2: Sí, sí.
+E1: Sí, pero [HS:I1 Yo] ahora...
+I1: me río aquí, que, si los veo algún rato, están así bailando así, eh, y con un vaso. [G-Imt] Ahora no bailan agarraos ni nada. [RISAS]
+E1: Bueno...
+I1: No. No, [A-PIn: yo, es pues] lo que veo, ¿eh? [SLNC]
+E1: No.
+E2: |T11| Y por ejemplo, ¿juega usted a las cartas o al dominó o alguna [HS:I1 No.] cosa de estas?
+I1: Sé jugar, pero no me gusta jugar con [Rndo: estos. ¡Hay cates!] Ca [HS:E2 Hay...] vez que jugamos.
+E2: ¿Hay tradición...? ¿Juega la gente, en algún sitio se juntan para jugar a las cartas, o al domino...?
+I1: Sí, pues, oye, con todo, ahora que hay perras, [HS:E2 [Asent].] se juega menos de la décima parte que cuando te digo yo que no había. Sí. Aquí, cuando se echó a ir a Francia y por ahí, [HS:E2 [Asent].] la gente jugaba. Y ahora que llevan tos perras no juega nadie. Nada. Ni aun el café se juega. Paece mentira, fíjate entonces, ¿eh?, que no había cuatro perras y, [RISA] y, y se las jugaban, oye. [SLNC] [V-Ljn]
+E2: [A-Inn]
+E1: Y... [RISAS] No, más... Llevamos cincuenta minutos.
+I1: Oye, lo que queráis. [HS:E1 Sí, nosotros...] Si querís cortamos.
+E1: No, no. Si nosotros por nosotros, más. O sea que... ¿Qué más nos puede contar? Alguna anécdota, así graciosa, que le haya pasao en el pueblo...
+I1: ¡Bah! Si, [HS:E1 Alguna cosa típica de aquí.] si entráb-, ¡Salíamos de noche | sa- por la mañana y entrábamos de noche! ¿Qué cosas nos iban a pasar? Si no estábamos nunca de día en el pueblo.
+E1: Bueno, pues en el pueblo, o en el campo o... donde sea.
+I1: [P-Ssr: No.] No... ¡Si no había historias, si no había tiempo! Claro. No creas tú que, que el domingo era la fiesta to'l día, ¿eh? Bien, chica, bien. Llegabas a casa puesto el sol. Y el lunes ranca otra vez. Y si estabas por el monte, a quedate al monte. Cho, en la caseta. Y agua al aljibe, ¿eh? [RISA] En el monte no hay... A ver, s'hacían aljibes, ¿sabes? Pa recoger agua cuando llueve. Porque en el monte, claro, no había agua.
+E1: Claro.
+I1: Y había [HS:E1 [A-Inn]] aljibes que se recogía, claro.
+E1: Ya sabían a dónde iban a ir y ya se... [SLNC]
+E2: ¿Y a qué jugaban los niños, por ejemplo?
+I1: Eh, al tocamarro, que no sabrás tú lo que es.
+E2: [HS:E1 No.] ¿Tocamarro? No.
+E1: ¿Qué es?
+I1: [RISA] ¡A pilla Pepa ahí en el puente y por áhi! [HS:E1 A pilla... ¿pilla pilla?] ¡Y a ladrón y a civil! Que eso lo habréis oído.
+E2: ¿Cómo?
+I1: A ladrón y a civil.
+E2: Ah, sí, sí.
+I1: Que se encorría, ¿sabes?, se fugaban dos por ahí, pero hay veces que se iban hasta el monte los ladrones y los civiles detrás. [RISAS] Si es que no había otra cosa, oye. La gente así se divertía.
+E1: Y algo que sea así típico del pueblo...
+I1: Bah.
+E1: Que sea... [HS:E1 [A-Inn]] De San Mateo.
+I1: Almudévar. Almudévar es histórico, fíjate.
+E1: Almudévar.
+I1: Sí. Pedro Saputo [Rndo: fue, fue, fue, fue, fue,] fue | y, la justicia | Había dos ar-, dos carpinteros y un herrero. Y hicieron una muerte. Y la hizo un-, uno de los herreros, que había dos. Y dijeron: "Pues matamos al carpintero, y dejamos al herrero, pa que haiga uno pa apuntar los barrones, para labrar". Trajo... Es-, esa, esa refrán ha salido muchas veces en las Cortes, eh, en los juicios esos. Descalificao. "La justicia de Almudévar, que lo pague el que no lo deba". [RISAS] [PS] Y yo he oído a algunos que hasta en Madrid en el juicio el eso, el Supremo, ha salío a relucir. La justicia de Almudévar. Tenía un | hubo una...
+E1: Y él era de aquí.
+I1: ¿Eh?
+E1: De aquí.
+I1: No.
+E1: Era.
+I1: ¿Ese hombre?
+E1: Sí.
+I1: No. Esos eran de Almudévar.
+E1: Ah, de Almudévar.
+I1: |T18| Y también había un anarquista. Porque entonces, igual que la Guardia Civil había anarquistas, ¿sabes? Se los tagaba la gente rica.
+E2: Pero eso, ¿cuándo?
+I1: Eso hasta, hasta después de la guerra.
+E2: Luego poco anarquista iba a haber. [RISA]
+I1: Hostia, jodo y, pues mataron a todos, [RISA] ¿qué te crees? Ande estaba el seminario, ¿sabes?, en la casa grande, que sales pa allá que estaba el seminario, [PS] [R-Vhc] allí mató | Ascaso se llamaba ese de Almudévar, y mató a un | al de Zaragoza, al que no sé si era canónigo u qué era | Unas huelgas que hubo de la luz. Que huelgas no creas que ahora | solo pasa ahora, ¿eh? [Rndo: Que, que] si lees historias, están de toa vida |
+E2: Sí, sí, sí, sí. [PS] Pero antes igual las organizaban de otra manera, ¿no? Que no había los sindicatos ni las historias...
+I1: No, bah, nada.
+E2: ¿Cómo hacían para organizar, si querían una huelga?
+I1: Aquí no había ninguna huelga, ¿eh?, en este pueblo. [RISAS]
+E2: Con que hubiera trabajo...
+I1: No había ningún sindicato ni nada, pero claro, después, después de la guerra [R-Vhc] ya echaron a formarsen sindicatos y echó ya a trabajar a Zaragoza y ya se... Pero si no, no, bah... [SLNC]
+E2: |T11| Y luego, por ejemplo, eh... ¿cuánto tiempo hace que están pavimentadas las calles?
+I1: Muchos. No te digo, el agua de esa que cambiemos, que ande vivo yo, [HS:E2 [Asent].] cambiaron la tubería, y la calle. Dicen que la tubería, [A-Inn] que esa mala, [A-Inn] y dice que llevaba cuarenta años. Fue la primera que se puso, pero de agua corriente pa to'l pueblo, en la calle esa. No, no el cemento, que el cemento es-, en la calle s'había echao ya antes, porque hubo, ¿sabís? Se hicieron las calles, ¿sabes?, con el hormigón, pero después, cuando llegó el agua, pues hubo que rancalas, claro. Y ya te digo, hace dos años que hicieron esa calle, pues cuarenta años dice que llevaban las tuberías, claro, había algunas, claro, en la tierra, pues cuarenta años... Es mu fácil que se amuelen, que se apudran. Ahora dice que se pon-, porque no había material tampoco. Ahora ponen un material, ahora que yo los vi a lo mejor pa allí por la mi calle, [A-PIn: pa acá que la chica esa de ahí,] y decía yo: "Y oye, ¿y estos?". Y dice: "Es-, este material puede durar hasta ochenta años. Es otra clase de material". Pero entonces lo que había, oye... Claro. [PS] Bueno, aquí hasta la guerra no se hacía ninguna casa de estas de vigas, eh... Las adobas, ¿sabes lo que son adobas? [RISA]
+E2: Sí, sí, sí. Y e | Pero ya no queda nada de eso, ¿no?
+I1: No. Hombre, [HS:E2 [A-Inn]] aún habrá alguna casa... Esa, esa será, será de adobas.
+E2: Ah, ¿sí?
+I1: Sí. Pues esa tiene mucho más de cien años, ya era vieja cuando era chico yo...
+E1: [HS:E2 ¿Esta misma?] ¿Esta?
+I1: Esa, esa. Y esa otra, más. Esa. [G-Mst]
+E1: ¿Más de cien años?
+I1: Buah, esa sí, ¡bueno! ¡Esa!
+E1: ¿De cemento?
+I1: No, eso habrá áhi de todo.
+E1: O de yeso, de...
+I1: De, de todo hay. Esa, esa. [HS:E1 Parece increíble...] Mira, la comp-, el año pasado la compraron una pareja. Esa era... Me contaba ahí mi abuelo que esa casa robaron | a los amos les robaron una tarde cuando venía la gente del campo po quí. [RISA] Esa era la casa la Chana, todo eso eran olivares de ella. [HS:E1 [A-Inn]] Y la fabríca de la luz, que estaba ahí. Todo eso era de esa familia.
+E1: Que se apellidaban Chana.
+I1: Casa la Chana. El olivar le decí-, toa esa finca [A-Inn] le decían el olivar de Vitis.
+E1: No sabía que había olivos por esta zona.
+I1: Buah, ¡muchos, había!
+E2: [Asent].
+I1: Aún queda alguno por el monte. Pero pocos, pocos. Pero has, has | han puesto muchos estos años. ¡Buf! Antes había grandes, pero pocos, pero ahora... ¿No ves que dieron una subvención?, ¿sabes? Pero que [RISA] el de... ¿Cuál fue? Ese... No sé si fue Grecia o quién fue. [A-PIn: Le daba, dice.] | Apuntabas los olivos, y, y daban por olivo, pero llegó el Fritz ese del Mercao Común y dijo: "No, no. Por producción". Porque, en otro, ayer salió de la cárcel, el | Aquel que se peinaba tanto. ¿No sabes tú ese? Que era de un banco. ¿Cómo se llamaba...?
+E1: Mario Conde.
+E2: Ah, el [HS:I1 ¡Mario] Conde.
+I1: Conde! Ayer salió de la cárcel, ¿verdad? O antes de ayer.
+E1: Sí, sí.
+I1: |T6| Ese las ta-, ponía | las puso con foto | que eran como si hubieran fotografiao. Eran de papel pintao. Las oliveras, y aquí pusieron muchas, pues eso, no... Por las oliveras, las pusieron porque si daban mil pesetas por olivera, por ponelas, dijeron: "Aquí las ponemos, nos dan las perras, [CHASQ] Y ahí se quedarán yermas". Pero dijo el otro: "No, no. Esto no. Aquí se pagará...". Les pagan siete | catorce pesetas por pro-, por kilo de producción. Pero, por eso muchos aquí...
+E1: ¿Catorce pesetas?
+I1: Sí. Cada kilo que cogen.
+E1: Eso es muy poco, ¿no?
+I1: Oye, esa es la subvención que tienen. Si va a cien pesetas el kilo...
+E1: ¡Ah! Que, ah, le dan, les subvencionan con [HS:I1 Sí, sí. Les subvencionan con eso.] eso. Ah, vale, vale. Creía que lo compraban, por eso.
+I1: No, no.
+E1: Eso es muy poco.
+I1: Ellos la venden donde quieren, pero cada kilo que entregan en un, eh, en el almacén de...
+E1: Les apoyan con esas catorce [HS:I1 Esas catorce pesetas] pesetas por kilo.
+I1: el kilo.
+E1: Ya. [PS] ¿Y qué más, qué más? [A-Inn] el pueblo. [HS:I1 Y, y, y,]
+I1: y del trigo también les dan mucho.
+E1: ¿Sí?
+I1: De subvención. El trigo vivo dan, dan muchas perras, han dao. [HS:E1 ¿Ahora] [A-PIn: Mira...]
+E1: menos? O ahora siguen dando...
+I1: Bueno, yo no sé, porque no tengo más que una poca y me las quitaron pa hacer esas casas, pero una que tengo hace dos años, porque sembra-, aquí sembramos en el monte cada dos años, a cincuenta dos mil pesetas la [HS:I2 [A-Inn]] hecta-, la hectaréa, tú, a cincuenta y dos mil pesetas la hectaréa, pagaban. [HS:E1 [A-Inn]] Hectaréa es diez mil metros cuadrados, [HS:E2 Sí, sí.] ya lo sabes. Es-, este año, no sé... [Rndo: Tengo el otro [A-PIn: sembrado y de allá] riba, no sé.] | [HCruz: ¡Cállate tú! [Rndo: Que vienes aquí y metiendo la pata.]]
+I2: |T11| Porque te la han puesto, si no [RISAS] [A-Inn].
+I1: ¡Claro que no!
+E1: Se lo hemos dicho.
+I2: Claro, y áhi cogís todo.
+E1: Claro. [HS:I1 ¡Otra!] Estamos grabando.
+I2: Eso lo tengo yo así en casa. Con los, con los nietos.
+I1: ¿Sabes tú lo enfadado que está? Porque vinieron unos | ¿De ánde eran aquellos?
+I2: ¿Quién?
+I1: Una radio, como, como estos.
+I2: ¿Quién?
+I1: ¡Que me sé yo que de ánde eran aquellos!
+I2: ¿Pero quién dices?
+I1: ¡Esos que os preguntaron a tú y a Gallén!
+I2: Esos... Estos yo no sé de qué son.
+E1: ¡De la universidad!
+I2: ¿[A-Inn] de qué son?
+E1: No, no, no, [HS:I2 Estudiantes pa pre-...] estudiantes pa-, para un trabajo de clase.
+I2: Un trabajico vuestro y de va-, y de un pueblo y de otro, a ver las cosicas.
+E2: Claro, [HS:E1 Claro.] claro.
+I2: Los que vinieron aquí. [RISAS] Por eso te he dicho coger a este, que yo no quiero ni, ni... ¡Porque nos engañaron! [HS:I1 Bueno...] Jugaron con los viejos.
+E1: ¿Por qué?
+I1: Bueno, na.
+I2: Mira, esos eran pa eso que están hiciendo nuevo. Las...
+I1: [A-Inn]
+I2: ¿Cómo se llama esas obras? Esa bola es una cosa del pueblo, pero en los diarios [HS:I1 Sí.] y en la, en la televisión de [A-Inn]. Ahí cuando hay que irse al pueblo.
+E1: Sí.
+I2: [HS:I1 El p-, los po-, el | ¿los polígonos, dices?] [A-Inn] ¿Eh?
+I1: ¿Los poligónos?
+I2: No. El poligóno es solo una cosa, pero eso es la... Eso es una urbanización que están hiciendo.
+E1: Sí.
+I2: Cuando tiréis pa Zaragoza a la derecha están las casetas. Bueno, pues llegaron dos como vosotros. [RISAS] [A-Inn] Dos chicos. Y estábamos dos viejos. Como ahora. ¡Oye! Bueno, bueno, dice: "¿Dónde [A-Inn] ustedes?". Pues... Y la primera que nos dicen. Dice: "Este pueblo, con esa urbanización...". Por eso te digo yo que esos no son como vosotros. [HS:I1 Bien...] Son de la construcción. [HS:E1 Que quieren] [A-Inn]
+E1: saber, sí.
+I2: Y el o-, y digo: "Sí, [A-Inn] están hiciendo ahí por ahí". [A-Inn] [R-Vhc] Sin hablar, nosotros [A-Inn]. Y dice... El otro que está con mí dice: "Pues si verán...". Porque, aquí, [A-Inn]. ¿Habís venido de Zaragoza? [HS:E1 No.] ¿Por aquí o por allá?
+E1: Hemos venido de Tude-, Tudela, Ágreda... Hemos bajado.
+I2: Pero bueno, [HS:E2 Hemos estado en Erla.] de Tudela a aquí, ¿por dónde habéis venido?
+E2: Hemos [HS:I2 ¿Por Peñaflor,] pasado por, por...
+I1: Montañana?
+E2: [HS:E1 No.] Por Erla, hemos pasado.
+I2: [HS:I1 [A-Inn]] Ah, habís venido pa arriba. ¡Erla!
+E1: Por Erla.
+I2: Habréis venido por Sierra Luna [HS:I1 Sí,] [A-Inn].
+I1: eso, eso, eso. Estos han venido por ahí.
+I2: [A-Inn] esos pueblos, donde Tudela. Al puerto ese, pueblos nuevos, a salir a Ejea.
+E1: Sí. [HS:I2 [A-Inn] salío por Ejea. [A-PIn: Luego el cruce...],] De los  Caballeros.
+I2: hay un, eh | Sierra | Erla, Sierra Luna, Las Pedrosas, Zuera, y ya, la coges.
+E1: Sí.
+I2: Bueno, pues ellos llegaron y, y, y, y la primera le dicen [A-PIn: estos]: "Todo eso que vis a la entrada de San Mateo, hasta llegar al pueblo, eso es una urbanización que hicieron, que llegaba... Tal como tu padre". Un... Eso, se compraban | son todos de fuera, de Zaragoza, ¿sabes?
+E1: Sí.
+I2: Compraban un corrico y se hacían un chalecico. Venían los domingos, si vienen, y ahora lo están hablando hasta las mujeres, [HS:I1 [TOS]] que... hay un andador cada setenta metros. [V-Ljn] Y del pueblo cara allá, hasta el andador ocho hay..., pues bueno, se urbaniza. Bueno, a, a lo que vamos. Al llegar, al llegar, dice el otro, el otro chico: "¡A la buena Dios!", dice, pues... ¡Eh! Mi bisnieta. [RISAS] Que tengo ya bisnieta. Dice el otro chico, dice "¡Oiga!", dice: "Si viera el saso". [TOS] Y ellos, como era vosotros, dice, el uno, dice: "Eso es... fuera de ley. [HS:I1 Ilegal.]
+I1: Fuera..., ilegal, ¡y era! Que sí, [NP]. Y yo, pues sí, que es ilegal eso, entraron ahí. [HS:I2 [A-Inn] Garra-, y digo, Garrapinillos que...] ¡Y toda España está igual! Toda España. [HS:I2 Y daron media vuelta.]
+E1: Y se fueron.
+I2: Nos dejaron en esos bancos y se pusieron [A-Inn].
+I1: [V-Sml] Igual que Marbella, y Lérida, y todos están [HS:I2 Y venían unos] igual.
+I2: chicos del colegio de Zuera, de ahí del colegio de los frailes de, de áhi. Y se pusieron a hablar con los chicos. Y al otro día venimos en el diario [TOS] [A-Inn]. [RISAS] Y..., y dice que estábamos nosotros conformes con todo, habían preguntao y nosotros... ¡Embusteros!, ¡si nosotros no hablemos! No nos dejaron... [RISAS] [HS:I1 ¡Oye!] [HS:E1 ¿Y habían puesto en el periódico...?] [A-Inn]
+E1: ¿Habían puesto en el periódico que estaban de acuerdo?
+I1: ¡Tú, [HS:I2 Ahora...] pues estos a mí, no..., yo les he contestao a todo lo que me han dicho! [TOS]
+I2: [A-Inn] toa la noche en, en la televisión. [RISAS] [A-PIn: Nos respetan así...] Y yo solo cuando dijo que era in-, inlegal, claro, porque esto era ellos de eso, de jaleo, que ellos solo buscaban eso.
+E1: Sí.
+I2: Y yo le dije: ¡joder! Y Garrapinillos...
+I1: [HS:I2 [A-Inn]] ¡Si está toa, está toa España igual!
+I2: Y se fueron. Al otro día venimos en el diario, [A-PIn: de] conformes, con todo...
+I1: [HS:I2 [A-Inn]] No... No se les han hecho tirar, pero tuvieron que pagar, claro... Oye, toa España está igual, ¿eh? No pienses. [HS:E1 Sí, sí, sí.] Y algunos no lo han arreglao eso.
+I2: Y ese chico que estaba ahí con nosotros, que la ha visto.
+I1: ¿Quién?, ¿[NP]?
+I2: La otra parejica [HS:E1 Sí.] vuestra l'habéis preguntado allí. [NP], a [NP]. A [NP].
+I1: ¡Ah! ¡Mi cuñao!
+E1: Sí. [RISAS]
+I2: Digo, ¡pues yo no los quiero ni ver! [RISAS] [A-Inn] a..., a que nos hagan... [A-Inn]. [HS:I1 [TOS]] Por eso ha sido, pero no...
+E1: No, no. Lo nuestro es un trabajo, para...
+I2: No, [TOS] es que... Es que nos engañaron. ¡Si nosotros no hablemos nada! Nada, nada, de nada.
+I1: Bueno, pues lo pusieron al periódico, ¡pues allí vendría! ¡Y vale!
+I2: [A-Inn] digo estos serán..., [HS:E2 Pero esto,] de estudios...
+E2: esto no va a salir en ningún sitio, ¿eh?
+I1: ¡Si es igual! [HS:I2 [A-Inn]] ¡No pienses que me va a pasar nada porque [A-PIn: lu] vea en el periódico! [RISAS] Que no diré nada.
+E2: [HS:I2 [A-Inn]] No es nada..., del otro mundo...
+I1: Claro.
+I2: Pero aquellos sinv-, sinvergüenzas no vinieron más que a pitorrearsen de nosotros. [RISAS] [SLNC] Con este, habréis cogido todo del [A-Inn] [RISAS] [A-Inn] Es que este, como yo, dende chicos así sabemos to lo malo que [A-PIn: estaba todo.] [A-Inn] [HS:E1 Claro.] [RISAS] [A-Inn] [R-Vhc] la edad, la edad del hambre. Vosotros no lo sabís eso.
+I1: [RISAS] Estos no lo saben [HS:E1 No, no.] eso, no.
+E1: [HS:I2 A nosotros nos tocó...] No lo hemos pasado.
+I1: No.
+I2: |T7| Mira, este y yo hemos estao de quedada en el monte, en una caseta, [PS] de lunes al domingo a mediodía.
+E1: ¿Sin comer?
+I1: [HS:I2 [A-Inn]] [P-Enf: ¡No, hostia! Comer sí,] pero si-, sin luz ni nada, guisándote tú, con las mulas!
+I2: Venías por la | [HS:E1 ¡Qué horror!] el domingo...
+I1: Y el lunes otra vez pa arriba. [HS:I2 [A-Inn] el domingo había que tener...] Mira a ver qué ja-, jaleo había para coger juerga.
+I2: Los sacos de paja, el pienso, las patatas...
+I1: Y otra vez te quedabas, cho. [HS:I2 Y el [A-Inn]] Sin luz, el candil...
+E1: El candil.
+I1: [HS:I2 El pan,] El candil, claro.
+I2: lo masaban...
+I1: En casa...
+I2: ...mis hermanas y mi madre. [A-Inn] Te hacían el pan el viernes porque el sábado no hacían, el sábado. Y ese pan te lo llevabas al monte el lunes hasta el domingo. ¡Anda! ¡Anda! Tú ahora que te llegues tú a casa, te pegas la barrica, [HS:I1 Bueno, pero esto, esto, es-, esto] [A-Inn]
+I1: de ahora no es pan, ¿eh? No confundas.
+I2: [A-Pau: ¿Eh?]
+I1: Que no confundas tú este pan con aquel. [P-Enf: ¡Que valía más aquel al séptimo día que este el primero!]
+I2: Pero, pero, pero ahora un chico aquel pan no lo quiere [HS:I1 ¡Ah, bien,] ni [A-Pau: regalao].
+I1: que sí, que estoy de acuerdo! [RISA]
+I2: Ah, vale.
+I1: Pero es mucho mejor, ¿eh?
+I2: Yo lo veo en los, los nieticos [HS:I1 Es que di] [A-Inn].
+I1: que sí, que en eso [HS:I2 [A-Inn] la barra,] tienes razón.
+I2: perdona, que te toque. Y hacen así en la barra [RISAS] [A-Inn] [V-Ljn]
+E2: |T1| Le iba a preguntar, ahora que ha dicho lo del pan, ¿la bola, la hacían también y la comían? ¿No? Eso que le dicen la bola, nos han dicho en Erla, que [HS:E1 Las bolas.] la hacían con...
+I1: [HS:E1 El mondongo...] Sí. Cuando [A-PIn: la matacía, el mondongo,] claro. Se hacían bola [HS:E1 ¿Qué es] y marcilla | morcilla con arroz.
+E1: exactamente la bola?
+I1: Con | [HS:E1 ¿Qué es exactamente?] Sangre con pan.
+E1: Ah... [HS:I1 Sí.] O sea que es como morcilla con pan.
+I1: Eso es. Bueno, la morcilla la hacen con arroz, aquí. [HS:E1 Sí.] [A-Inn] Y el p-, el..., la bola era con pan. [HS:E1 ¿Y del mondongo?] [A-PIn: Que se hacía el pan.] Y el mondongo pues se hacía lo que | los | saca intestinos del tocino, y hacían butifarra, [HS:E1 Ah.] la cabeza y por ahí lo peor, butifarra... Y lo otro, pues, chorizo y longaniza. [HS:E1 [Asent].] Y los lomos, pues, los, eh, los cogía, los partían y los metían en aceite ¡pa'l verano! Pa, para, no creas que... [HS:E1 Conservar, ¿no?] [RISAS] [A-Inn] guardalos pa'l verano. [HS:E1 Claro.] Porque, claro, [A-Inn] pa recoger la cosecha pues venían, venían segadores por áhi...Mira, aquí venía un montón de Murcia, Murcia. ¡Y aun venían más hace unos años, alguno que vivían! Pero allí, ¡igualico! [HS:E1 Sí, mi abuelo [A-Inn] era de Murcia.] Cuando venían aquí.
+E1: Ya.
+I1: Pero aquí venían muchos a segar, de Murcia. Y hubo dos u tres que tenían amistad y hasta hace po-, ya se han muerto. No venían de hace unos años, ya. [SLNC]
+E2: |T11| Y diría usted, por ejemplo, las, las relaciones entre las personas, eh, sus amigos, por ejemplo. ¿Usted tiene amigos desde que era pequeño en el pueblo?
+I1: Sí... Este... granuja es uno. [RISAS]
+E2: Sí, ¿no?
+I1: No quedan muchos ya, ¿eh? Es que tenemos oche-, que se-, semos del mismo tiempo. Que tenemos ochenta y cuatro años, ¿sabes? [HS:E2 [Asent].] Que no quedan que quedan tantos, pero quedan. Aún nos juntamos tomando café cuatro, alg-, algún día. [HS:E1 Claro. Que bien.] Es que semos los más viejos del bar de los viejos, oye. [RISAS] [A-PIn: Me cago en Dios, le dije,] digo: "¡Chico, pues qué vamos a hacer! ¡Si semos los más viejos!". Hay de días que vienen dos. Que uno tiene noventa y uno, y el otro, ochenta y ocho. Pero si no están esos dos, los más viejos, este, yo y un primo de ese que... que semos quintos. Aún queda alguno, pero ya no se atreven a venir a tomar café, ¿sabes? Que están mal. [HS:E1 Porque...] Porque esos años es fácil de... Uno le falla la pierna, el otro le falla otra cosa y así...
+E: Pero, el caso es que... la gente hoy en día no..., o sea, quiero decir, ustedes trataban mucho unos con otros y se siguen llevando bien, [HS:I1 Ah, eso... No, no...] la gente hoy no tiene aguante.
+I1: En eso no te lo puedes imaginar. [R-Vhc] Aquí, como se parecía en to los pueblos, se moría uno en una calle ¡y lo sentía to'l pueblo! ¿Sabes? ¿Pero ahora...? ¡Bah! [RISA] Ahora se [A-PIn: medió] un hermano y a los... [OTRAS-EM] ¡Oye! Los unos que por una cosa o por otra, ma-... La gente, no hay cariño ya, oye. Se acabó eso y se acabó.
+E1: ¿Y usté vivió con sus padres hasta...?
+I1: ¡Hasta que me casé!
+E1: ¿...que se casó? [RISAS] ¿Y con qué edad se casó?
+I1: Con ventinueve años. ¿Qué te crees que entonces...? Pues a ver si este año se coge un poquico pa..., ¿eh? ¡Pa, pa hacer la boda! Pues... se casan muchos viejos y es que..., había que esperar que cogieras alguna perra, que si no no se podía.
+E1: Claro.
+I1: ¡Claro, y áhi estaba!
+E1: Esperando, o sea, que usté conoció a su esposa mucho antes.
+I1: ¡Hombre!
+E1: ¿Era del pueblo también?
+I1: Sí... [A-PIn: Es que] te conocías desde que ibas a la escuela. [EXCL]
+E1: ¿Cuántos eran en la escuela?
+I1: [A-PIn: Éramos] bastantes. Entonces estábamos muchos chicos, ¡eh! Nosotros éramos seis y este, [A-Inn] este, me paece que eran siete, y, y, y de seis y cinco, cualquiera, ¡eh!
+E2: ¿Cuántos hijos tenía usté?
+I1: Yo tengo un chico y dos chicas. [PS] Pero yo era seis.
+E2: Seis.
+E1: Seis hermanos... ¿Y todos viven aquí?
+I1: No. Hubo una... La mayor, que era mayor que yo dos años, se murió hace cuarenta años ya. Esa del bar, ese bar que hay ahí, ese de..., es hermana. Y otro vive en Peñaflor. Y otra tengo en Caracas.
+E1: [HS:E ¿En Caracas?] ¿En Caracas?
+I1: Sí.
+E1: ¡Qué lejos!
+E2: ¿Y hace mucho que no le ve?
+I1: No... A cualquier hora vienen. Tiene | es más | e-, es dos años más joven que yo, pero el marido es un año más. Y a cualquier hora cogen el avión y vienen aquí, digo, "¡Me cago en Dios! Yo no tengo ganas de viajar!". [RISA]
+E2: ¿Hace mucho que se fue... su...?
+I1: ¡Mucho! ¡Bueno...! De zagal... De joven.
+E2: ¿Después de la guerra?
+I1: Sí. Ya... sería eso ya, el treinta y och-, el 39 terminó la guerra... Ya sería cerca el cincuenta cuando se fueron estos. Allí no tienen | tú, allí no hay pensión. En Caracas. Pero no pueden tenela, eh. Allí, como no hace frío, la gente, en una empresa no puede ponese nadie a llevar. Van | si en dos días ganan pa la semana, los otros ya no vuelven a la fábrica.
+E1: Se van.
+I1: Como no hace frío... Y luego la selva, comen plátanos y por áhi. Claro, y un obre-, uno | un fabr-, un fabricante, ¡un patrón cómo va a coger gente que a los dos días te diga que no viene cuatro días! No puede ser. Allí son casi todo empresas pequeñas. [PS]
+E1: Yo creo que ya... [TOS] [V-Ljn] Una hora y diez minutos. ¿Pero seguimos un rato más?
+E2: ¿Usted tie-, usted tiene cosas que hacer? ¿No le importa que estemos aquí...?
+I1: [Rndo: No, no.] Yo de aquí, a cenar. [RISAS]
+I2: ¿No [A-Inn] a ver el Barcelona?
+I1: ¿A qué hora juega?
+I2: [A-Inn] A las ocho.
+I1: A las ocho, buah...
+E2: Pero ¿ustedes no son del Zaragoza? ¿De qué equipo son?
+I1: [RISA] Yo de... ¡Este sí, es del Zaragoza perdido! Se pone malo si pierde. Yo no. Yo me gusta que gane, pero si pierde...
+I2: [A-Inn] días, al Andrés, me cago en su corazón. [RISAS] [A-Inn] en el campo pronto. Pa ir a estrenalo.
+E2: ¿A usted qué equipo le gusta?
+I1: Ninguno. [HS:E2 ¿Ninguno?] No soy forofo de ninguno. Me gusta que gane [HS:I2 El presidente... El presidente] el Zaragoza, pero que si pierde, no le doy ninguna...
+I2: del Zaragoza, habís pasao por su pueblo. Es de Sierra Luna.
+E1: Ah...
+I2: Cuando entras a Sierra Luna dere-, de Ejea, por la carretera ya que [R-Vhc] [A-Inn] poco pa llegar al pueblo..., pues a la derecha hay una casa de dos pisos, que [A-Inn] perímetro de la carretera, que es la casa de, de [A-PIn: Sierra Luna.] A ver, [A-PIn: vivió con mí] ventinueve meses. ¿[A-Inn], Andrés?
+I1: Pero ahora dice que el presidente, este jodido Agapito, dice que daba, vendía las aciones... [A-Inn] Oye, hay gente que habla a ojo cerrao. Pero no sé quién me lo dijo a mí, digo: "Chico, pues yo, como no leo nada de eso...". Pero el, el, el Levante, ¿juega mañana o no?
+I2: Que juega.
+I1: ¿Sí juega? Ah...
+I2: Que ha dicho la televisión que..., [HS:I1 Ah...] vamos, en la ra-, el diario que pensaban si... dejaban de jugar...
+I1: Claro, el partido sería pa'l..., pa'l Recreativo de Huelva... Pero es que, hubiera habido mucho follón... Porque todos puntos que han sacao sobre el Levante de Valencia, pues habría que quitar, a otros poner, ¡vete a... ver! Además, es una ley que la pusieron así. Si no se presenta, le dan perdido al equipo que no se presenta y...
+I2: Van a jugar. [R-Vcs] El, el, el Barcelona juega a las ocho..., y aquí en los bares no sé si [A-Inn].
+I1: ¿No televisan o qué, el Barcelona?
+I2: [A-PIn: El] que juegan a las diez... Juegan a...
+I1: El de las diez, ¡uno televisarán! [HS:I2 [A-Inn]] Que a, a las diez televisan siempre uno, yo no es que vaya, pero... [V-Sml] ¡Ya llevamos ocho u diez años! [HS:I2 Pero que... [A-Inn]] Pero a las diez de la noche, ¿televisan ese?
+I2: ...leído a mediodía y ahora no m'acuerdo cuál es...
+I1: Sí, oye, áhi, casi siempre juega el sábado, pero ahora, [HS:I2 Barcelona] si no está...
+I2: juega y no lleva a los titulares,  ni lleva al negro, al delantero, ni al argentino ese tan bueno, ni al centro. [R-Vhc] [A-Inn]
+I1: Porque tiene que ir allá, al Manchester ese.
+I2: [A-Inn] tienen que ir a..., al extranjero.
+I1: A los ingleses. [SLNC]
+I2: Pero el otro equipo, no m'acuerdo quién es, ahora. Pero el Levante, el Levante jugará, porque pensaban no jugar, pero..., ahí hay muchos líos [A-Inn].
+I1: Claro... ¡Oye, que no han cobrao! ¡Que no han cobrao, en toa campaña!
+E2: Eso... Los del Levante, no, pero hay que ver el dineral que ganan los futbolistas...
+I1: Buah, hombre, áhi está la ruina que tienen tos equipos... El Valencia..., claro, el Levante es de Valencia, por más que tenga el Valencia y el otro... Pues, vente millones les dio hace poco, pero si vente millones, eh, un equipo no tiene ni pa'l arbítro. ¡De la forma que les dan! Tiene que ser mu malo un jugador pa que no gane trenta o cuarenta millones al año. ¡Mu malo!
+I2: Los equipos..., entra más grandes, más tramposos.
+I1: Pues claro...
+I2: Están todos igual. Y, y, y, y si tú les vieras, te llevarías la ca-, la banca y que se llevaría hasta [A-Inn]. Por eso, se deshace el asunto y no paga nadie.
+I1: Oye, pero, la banca, si no cobra, no sé yo... Tendrá que | alguno firmará, si no un banco, [A-Inn], pa que deje, si no firma alguno... A los demás no... Si no es por ser el fútbol...
+E2: ¿Había aquí..., algún equipillo de fútbol, algún equipo pequeño de fútbol?
+I1: ¡Pequeños...! Ahora hay... s-, ¿cuántos hay, equipos? ¿Seis equipos de fútbol hay ahora, en el pueblo?
+I2: En el pueblo, lo menos cuat-, cinco u seis hay casi...
+I1: [HS:I2 Yo tengo... [A-Inn]] Antes había siempre uno, ¿sabes? [A-Inn] Hasta... a jugar un regional, también.
+I2: Que me se ha ido, a jugar a otro pueblo, ¡fíjate!
+I1: Un nieto de este se ha ido a jugar a Perdiguera, que está allá. [SLNC]
+I2: [A-PIn: Que no tenéis] conocimiento, [A-Inn]. [RISAS] [A-Inn] cuando vengas. Que sí, que vengas con el que vienes y te diga alguno alguna barbaridad, que iré yo con la gayata y ya, ya está lío.
+I1: El mío está todos días ciego con que vaya a velo. El otro día marcó tres goles. Digo: "Pues no iré". Yo no v-...
+I2: Yo cu-, mientras han jugao los nietos, iba todos días. [HS:I1 Como, como Ga-, como,] [A-Inn]
+I1: como Gallén. ¿Yo...? Bien.
+E2: ¿Y con qué jugaban, por ejemplo...? Cuando usté era niño, ¿con qué jugaban al fútbol?
+I1: ¿Cuando éramos nosotros chicos? Con un p-, un saco forrao. [A-Inn]
+I2: Ese cacharro que le habís puesto, este en su vida s'ha colgao un cacharro así.
+I1: No, de eso..., tienes toa la razón. [RISAS]
+I2: Yo, yo, yo tengo dos cada día, de esos. Pa sentir la...
+I1: Yo, mira, a lo mejor me [A-Inn] el nieto y digo: "A mí no | Yo no hablaré con ese cacharro, ¡eh!". [HS:I2 [A-Inn]] Ahora ya, pa qué quiero hablar.
+I2: [A-Inn] Tengo que tener pa mi televisión un..., un...
+I1: [A-Inn] [RISAS]
+E2: ¿Qué me ha dicho que eran? ¿Unos trapos, lo que hacía la pelota?
+I1: Un, un saco, [HS:E1 Un saco forrado.] un saco. ¡Rollao! M'acuerdo, tú, que... el primer pelotón, eh...
+I2: Pero ¿no os estor-, yo no os estorbaré?, si no, me voy ya, eh.
+I1: ¡No...!
+E1: No, no.
+I1: ¡Tú! M'acuerdo que una c-, to-, An-, [NP], que aún vive, [OTRAS-EM] que es más viejo que nosotros. [V-Sml] ¡Un pelotón azul! Azul, era una..., pero gorda era la pelota, ni fútbol... Bien, pero si no, nada...
+I2: ¿Sabes que hay un cine, cuando subís, que pasáis el canal? Y tiráis la primer calle a la izquierda, que se va a parar ande estaba el campo correr antes. Pues allí, cuando [A-Inn] esa calle, a ese a la derecha hay un cine que ese [A-Inn].
+I1: Y, y esa-, esas casas que hay, era el cine. [HS:I2 Era el cine.] ¡Esas! [HS:E1 Ah, ¿eso era un cine antes?] Esas que hay áhi. Esos ladrillos, que esa casa ahí de ladrillos era el cine.
+I2: Ahí llegabas y alguno...
+I1: Si no había otra cosa, ¿qué te crees? ¡Pues era el cine!
+E2: ¿Y cuánto tardaban, por ejemplo, en llegar las películas al pueblo?
+I1: Ah, bien, había de todo, pero, oye..., ¡ese es igual! La fuga de Tomasín... [RISAS] Había una película, [A-PIn: que] decían La fuga de Tomasín.
+I2: [A-Inn] Más quisiéramos cuando empecemos a... Ojito que fueras a, al baile por la noche, por la tarde, que a lo mejor no tenías perras pa ir al cine por la [A-Inn].
+I1: Eso ya se lo he dicho yo, cuando íbamos afuera. [RISAS]
+I2: Eso, eso como lo estoy diciendo yo y este... Aunque hubiera cada uno por áhi, por [A-Inn], cualquier cosa, no os lo creéis. Es la verdá.
+I1: Sí. [A-Inn] Que no creas que podíamos ir al baile siempre que queríamos, ¿eh?, que no había...
+I2: Es que ahora..., [HS:I1 Oye.] ahora se vive de otra forma, pero, oye, cuando nos hacen, yo cuando ya s-... Porque aún hay viejos, aún hay viejos, [A-Inn] si es en tu pueblo [A-Inn]. Las comidas de antes, [A-Inn]. [RISAS] [A-Inn] Pero no compares.
+I1: Bah, bah, no se pue comparar en nada.
+I2: [R-Vhc] [A-Inn] Entonces, cuando yo era chico, eso era la posada, era la fonda.
+I1: [HS:E1 Sí.] Como era la fonda, ¿sabes?
+I2: A comer... Pero nosotros, hasta que no comían los de fuera no comíamos. [RISAS]
+I1: A estos, oye, ¡[NP]!, que ahora a los jovénes estos les hacía falta un añico, un añico.
+I2: ¿Eh?
+I1: Que les hacía falta a los jóvenes un añico de aquello.
+I2: ¡No!
+I1: Pa que se [A-Inn]. [RISAS]
+I2: [A-Inn] [PS] Lo nuestro fue lo más triste de... [HS:I1 Sí. No había nada, es lo que [OTRAS-EM] [A-PIn: les] he dicho yo...] Porque [A-Inn] la guerra.
+I1: Claro.
+I2: Estábamos tos con..., ¿cuánto? Quince, dieciséis añicos, cuando se acabó la guerra.
+I1: Sí, claro, 24 al 39...
+I2: A labrar al monte to'l día.
+I1: Quince años. ¡Adiós, si [A-Inn] van esa, esas!
+I2: Yo tenía dos herm-.
+I1: [RISAS] Bueno...
+I2: Dos hermanos en la guerra, que el uno lo mataron en la guerra ya, de dieciocho años.
+I1: Aq-, [HS:I2 Y el otro [A-Inn]] aquella es, mira, un año más joven, la que va a la izquierda, un año más joven. Y la otra, un año más vieja, que nosotros. [HS:I2 Y el otro,] ¡Pero fíjate cómo están!
+I2: el otro vino enfermo de la [A-Inn] y nosotros, que éramos mu pequeños, un hermano que, que tenía dos años [A-PIn: menos que yo], íbamos al monte y pa las mulas, que [A-Inn], pa podeles echar una cosa que se llamaba aljibe... Tenías que dejales un poco pienso pa que estuvieran así con el cuello [HS:I1 Pa [A-PIn: que estuviera en casa,] que si no no llegabas a echalo.] [A-Inn]
+I1: [HS:I2 [A-Inn]] Tú, [NP], y cuando salen esos moricos con la tripa hinchada, les paece que nos vamos a amedrentar, yo: "Pues si hemos visto nosotros eso".
+I2: [A-Inn] [RISAS] Este y yo llevamos vente años viudos ya. Yo, hará este año en diciembre, diecinueve. Y ahora, cuando algún [A-PIn: mal] en casa, no me lo quien decir, ¿sabes? ¿Y a mí qué me va a asustar ya... si llevas vente años solo? Este aún lleva más que yo.
+I1: Yo llevo ventitrés. Y yo tenía sesenta y uno y la [NP] cincuenta y nueve, cuando se murió.
+I2: La mujer mía tenía, cuando se murió, sesenta... y medio, y ahora tendría tres menos que yo, haría este año, ahora l'hubiea hecho, pa mayo, era san Pedro pa mayo, ¿verdá?
+I1: Sí.
+I2: Y hecho...
+I1: No, pa junio, es igual, es igual, pa junio.
+I2: Ahora pa junio los haría.
+I1: Sí...
+I2: Ochen-, ochenta, este año haría ochenta y uno. Así que [A-Inn].
+I1: Oye, que ibámos a hacer fiestas a Zuera andando, eh... No pienses que íbamos en... Hay siete kilométros, a Zuera...
+I2: ¿Es en Zuera cuando habéis salido de la autopista? [HS:I1 [RISA] ¡Andando íbamos aquí y, y venir por la mañana! Pero llegabas y arrancar a trabajar.] Que hay allí... ¿Ha-, habéis entrao a [A-Inn] que está la retonda así cerca Zuera?
+E1: No.
+I2: Os habís salido pa arriba a la estación.
+E1: Yo creo que hemos ido por la estación. [HS:I2 ¿Habís salido...?] No hemos entrado en Zuera.
+I1: No, no...
+I2: [A-Inn] Es que [HS:I1 [TOS]] [A-Inn] de... eso, te pues bajar abajo... En la carretera de Sierra Luna...
+E1: Sí.
+I2: ¿Y qué habís hecho? Sin baj-, llegar a Zuera... [HS:E1 Es que, hemos ido,] A ver, a ver, a ver, a ver.
+E1: es que hemos ido a Sierra Luna, luego hemos ido a comer a... Gur-, Gurrea, [HS:I1 Gurrea.] después hemos bajado por el Paúl.
+I2: ¿Por debajo de... [HS:E1 Para abajo. Claro. O sea, la autopista] la autopista? ¿Habís pasao cuando habís llegao a Zuera?
+E1: viene por aquí y nosotros hemos bajao...
+I2: Y, y habís dao la vueltica y os habís subido otra vez a la carre-, a, al desenvío que va [HS:E1 Yo creo que sí.] a la estación.
+E1: Sí. Creo que sí.
+I1: ¡Tú! Dice que Gurrea, que, que está mu pequeño, ¿eh? Digo: "Hace años que no he estao allí".
+E1: [V-Sml] Yo lo he visto más pequeño que este pueblo.
+I2: [R-Vhc] [A-Inn]
+E1: Gurrea hemos estao en la calle principal...
+I2: Cuando habís venido de..., de Sierra Luna, ¿hasta dónde habís llegao?
+I1: Ejea, tienen que ir por áhi, [HS:E1 Hasta Gurrea.] como...
+E2: Hemos ido hasta Gurrea y...
+I1: Ah...
+E1: Después hemos vuelto y [HS:I2 [A-Inn] vosotros habís cogido] hemos bajao al Paúl.
+I2: una carreterica que hay en Las Pedrosas a la izquierda.
+E1: Eso es.
+I2: Habís llegao allá alante y luego, a la derecha. Y habís llegao a, a, a Gurrea y habréis pasao El, El Gallégo. Pa pasar a Gurrea. [HS:E1 El Gallégo es Gurrea de Gallé-, de Gállego.] Si habís pasao a Gurrea [HS:I1 Sí, Gurrea de Gallégo.] habís tenío que pasar...
+E1: Claro, pero se llama Gar-, Gurrea de Gallégo.
+I1: Sí..., Gurrea de Gallégo. [RISAS] ¡Pero dice esta que, que, que no ha crecido! Digo, "Chico, yo hace muchos años que no [HS:I2 Gurrea] ý he estao".
+I2: está muy arrinconao.
+I1: Sí.
+E2: Lo hemos visto más pequeño que este pueblo, sí.
+E1: [HS:I2 Vosotros habís llegao a Las Pedrosas,] Bastante más pequeño y bastante más feo.
+I2: y habís hecho así. [G-Mst]
+E1: Creo que sí. Y hemos seguido [HS:I2 Cuando te vas a salir] hasta Gurrea.
+I2: ya de Las Pedrosas, cara abajo. Hay que pasar [A-Inn].
+I1: ¡Tú!, mira, toas que tienes ahí, no conocemos a ninguna. [RISAS]
+I2: Tengo, tengo dos bisnietos ahí dentro...
+I1: [HS:I2 [A-Inn]] Pero to-, la mayoría [A-Inn].
+I2: En vez de... Porque si bís cogío sin pasar el, el Gallégo, a la derecha, habís ido a La Paúl.
+E1: Ahí... es donde hemos estao.
+I2: ¿Habís estao tamién?
+E1: [HS:E2 Sí, sí...] ¡Sí! [RISA]
+I1: ¡Pero ese es más pequeño!
+E1: [V-Sml] Ese...
+I2: [A-PIn: Os] habréis venido de Gurrea...
+E1: Hemos vuelto [HS:I2 Habís regresao y habís pasao el, el Gallégo dos veces.] y hemos bajao al Paúl, eso es.
+I2: Una cara allá y [HS:E1 Claro.] otra cara allí.
+E1: Claro. Probablemente, sí.
+I1: Que ese Gurrea, lo que dices tú, que está mu arrinconao ahí...
+I2: Pero Gurrea...
+I1: Y no l'ha ido la gente por ý, ahí.
+I2: Gurrea es un pueblo que está áhi arrinconao [HS:I1 Bueno, pero...] y está mu lejos de Huesca, está mu lejos de Zaragoza y [HS:I1 Oye, y, y...] [A-Inn] este, que está a vente kilómetros [HS:E1 Y además, que está al lado de la autopista, este pueblo.] [A-Inn].
+E1: Que la autovía [HS:I2 [A-Inn]] está al lado.
+I2: Vaya vuelta que habís dao.
+E1: Sí. Hemos dao una... [HS:I2 ¿Habís venido-?] vuelta.
+I2: Por ahí, por Tudela, habís venido de Francia.
+I1: Este... era estraperlista... [V-Ljn] Iba a comprar [A-PIn: ternero] de estraperlo grande. [RISA]
+I2: [A-Inn] ¿Sabes qué decían unos? Vosotros sois mu jóvenes... Os estamos dando la lata, ¿verdá?
+E2: No, no, no, no.
+I1: Oye, pues, [HS:E1 No, no, si hemos venido nosotros, o sea..., a preguntar.] nos vamos... [RISA]
+I2: Había un-, uno en Zaragoza..., cuando yo era joven, bueno, ya t-, era viejo, ya. [RISAS] [A-Inn] El mataero municipal, ¿sabéis ánde está... [HS:I1 No.] el viejo?
+E1: No.
+I1: No, estos no. La carretera de Castellón, [HS:E1 No somos de Zaragoza...] pero estos no... Que no son de Zaragoza, estos.
+I2: Bueno, pues el matadero de Zaragoza está... en medio del Serve. Sales por San Miguel, coges [A-Inn]. Bueno, está ande esté. Y estábamos allí y hacían... Hacía uno: "Yo he corrido todo a golpe calcetín". [RISAS] [HS:I1 Es que, entonces se corría mu fácil, no había otra cosa...] [A-Inn] la montaña... Y tú decías: "[A-Inn] calcetín". ¿Y sabes qué era eso?
+I1: Andando... [RISA]
+I2: No... Entonces, había unos teleros...
+I1: Ah...
+I2: Que vendían [HS:I1 Sí. Venían con tela a vender por los pueblos.] [A-PIn: telitas] a un [A-Inn] A golpe de calcetín. [RISAS] Y yo he ido donde Viella, he salido por Francia y he salido a San Sebastián.
+E1: Claro, está muy cerca. [HS:I2 [A-Inn]] Bueno, ya vamos a... [HS:I1 Bueno, hala, pues hala...] [A-Inn] porque necesitábamos una hora y media... [RISAS]
+E2: Perfecto.
+I2: Hemos salido alguna noche de aquí... A las, [A-Inn]...

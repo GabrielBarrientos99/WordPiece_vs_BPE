@@ -1,0 +1,475 @@
+Provincia:	Ávila
+Enclave:	Burgohondo (0604)
+Fecha:	10 de diciembre de 1994
+Duración:	00:29:16
+Informantes:	I1: varón, 65 años
+I2: varón, 81 años
+Encuesta:	Enrique Pato, Julia Moraleda, Marta Pulido, Miguel A. Cancela
+Transcripción:	Olga Chicot, Guillermina Pagani, Elena F. Pitkowski, Víctor Lara Bermejo, Alba Aires Salvador
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+2. Alimentación (pan, horno, manteca, huevos, bollos, recetas, pescado)
+3. Animales domésticos (burro, caballo, buey, conejo, gallina, gato, perro)
+4. Labores del hogar (agua, fuente, lavadero, jabón, costura, colchones)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+14. Bodas y noviazgos (boda, anillos, ajuar)
+15. Fiestas populares (romerías, fiestas patronales, carnaval)
+17. Construcciones (la casa, tipos, dependencias, infraestructuras)
+
+E1: ¿Cómo se llaman ustedes?
+I1: [NP].
+E1: ¿Y cuántos años tiene?
+I1: Sesenta y cinco.
+E1: ¿Y usted?
+I2: ¿Yo? [NP].
+E1: ¿Y cuántos años tiene?
+I2: Ochenta y dos vi a hacer.
+E1: Muy bien. [A-Crt]
+E2: |T1| Nos han dicho que ustedes han vivido toda la vida aquí, en el pueblo, ¿no? [HS:I2 Sí.] ¿Hacían matanzas en su época? [HS:I1 Sí... sí.] ¿Sí? [HS:I2 Yo sí,]
+I2: yo sí que la he hecho, y este, tamién, este señor, tamién.
+E2: ¿Y, y cómo, cómo hacían las matanzas?
+I2: ¡Uy! ¿Cómo hacemos la matanza? Pues matar al cerdo y a, y a comer de él luego. [RISAS]
+E1: Sí, lo que, pero, por ejemplo, ¿qué hacían al cerdo?
+I2: ¿Que qué le hacíamos? Pues matarlo. [RISAS]
+E2: Pero ¿cómo le mataban?
+I2: ¿Cómo le mataba? [HS:E2 ¿Cómo mataban al cerdo:]
+E2: cogían al cerdo, lo ponían en un banco...?
+I2: Sí..., sí, sí. [HS:I2 Y un cuchillo y [A-Nul].] [HS:E2 Cuéntemelo usted.] Y un cuchillito, con un cuchillito se le mataba, [HS:E2 [Asent].] sí.
+E2: Pero... ¿cómo se le mataba, qué se hacía con el cerdo?
+I2: Pues me-, meter el cuchillo por los sitios que... que tenían que morir por fuerza.
+E2: [Asent]. [HCruz: ¿Más cosas?]
+I2: Sí.
+I1: [HCruz: ¡Diles más cosas!]
+E2: Por ejemplo, [HS:I2 ¿Qué más cosas [A-Nul]?] ¿había, había muchas personas | [OTRAS-EM] hacían la matanza entre muchas personas?
+I1: Ocho o diez.
+E2: ¿Y co-... cogían el cerdo y lo ponían en una mesa? [HS:I1 En una mesa;] ¿ponían el cerdo en una mesa? [Asent].
+I1: se lava-, y se lavaba; se, se pinchaba, [R-Cmp] se mataba, se socarraba bien y se le... limpia, bien limpio, y na más. Y luego ya le llevamos a casa.
+E2: ¿Y ataban el cerdo?
+I2: Se ataba el hocico, [HS:I1 Bueno..., el hocico.] un poco, para que no pudiera morder, eh. [HS:E2 [Asent].] Sí.
+E2: ¿Y, y cómo se ataba el cerdo?
+I2: [OTRAS-EM] Pues dando vueltas con un cordelillo alrededor de la boca.
+E2: ¿Y qué obtenían del cerdo?
+I2: ¿Eh?
+E2: Que, por ejemplo, ¿qué, qué, qué obtenían del cerdo? ¿Para qué | hacían morcillas, chorizos...? [HS:I2 Sí, sí, [A-PIn: sí], hombre,]
+I2: de todo un poco, de todo un poco.
+E2: ¿Y qué, qué | cómo se hacía la morcilla?
+I2: Pues... ¿qué le vi a decir yo? [OTRAS-EM] Hay quien los hace de una manera, hay quien los hace de otra, ¿no?
+E2: ¿Y ustedes cómo la hacían?
+I2: Yo, todos esos | con calabaza, [HS:E2 [Asent].] se raspaba la calabaza y luego se envolvía con varias cosas y..., y hacer las morcillas luego ya.
+E2: [Asent]. Pero, por ejemplo, ¿la sangre del, del cerdo?
+I2: Tamién había que echar un poco. [HS:I1 [A-Nul] echar un poco.]
+E2: ¿Y, y cómo, por ejemplo, cómo recogían la sangre?
+I2: En uno, en un... aquí, aquí llamábamos una... cazuela de estas de barro, cosas de esas.
+E2: Sí, pero ¿abrían el cerdo y ponían el barreño, o había una forma de hacerlo? [HS:I2 Lo que se estaba, cuando se estaba]
+I2: matando el cerdo, [HS:E2 [Asent].] la sangre que aventaba, [HS:E2 [Asent].] pues de allí se cogía, [HS:E2 [Asent].] sí.
+E2: ¿Pero se le hacía, se le... se hacía al cerdo aquí una raja o...? [HS:I2 Sí, un...] [HS:I1 Sí, se le hacía un...]
+I2: Sí, sí.
+I1: [A-PIn: De áhi, de áhi] se... se hincaba un cuchillo y, ahí, pues allí sale la, la sangre y to.
+E2: [Asent]. ¿Y, por ejemplo, qué se hacía para que la sangre no cuajase?
+I2: Ah, bueno, eso... La sangre pues se cuajaba, claro, al pulso ya de ratos, esas cosas... Se cuajaba.
+E2: Pero ¿qué, qué se hacía, se daba vueltas a la sangre, se...? [HS:I2 Sí...] [HS:I1 En una cazuela se...]
+I2: en una cazuela de esas que llamamos, o en una porcelanita de esas, se daba vueltas hasta que, hasta que se enfriaba, [HS:E2 [Asent].] hasta que se enfriaba.
+E2: ¿Y utilizaban la sangre para algo más?
+I2: No, [A-Inn] [R-Cmp] na, na, na más que pa la morcilla.
+E2: ¿Y al, al chorizo no se echa sangre?
+I2: No, no, no. Pimen-, [OTRAS-EM] al chorizo, pimen-, pimentón [R-Cmp] y... cosas de esas, nada más.
+E2: ¿Y los instrumentos, qué instrumentos utilizaban para matar el cerdo?
+E1: [HCruz: Habla más alto.]
+I2: ¿Instrumentos?
+E2: Sí, ¿qué instrumentos utilizaban para matar al cerdo? [HS:I2 Pues... un cuchillo,]
+I2: un cuchillo y... nada más. Y agarrar, agarrarle, unos de las patas, otros de las orejas. [A-Crt]
+E2: ¿Qué me ha dicho usted que, que hacían con la sangre? Es que... [HS:I2 Pa las mor-...] porque se lo he preguntado, como estaba con... [HS:I2 Pa las morcillas.] [Asent]. ¿Pero...? [HS:I2 Pa las mor-.] ¿Se echaba la sangre en un... barreño?
+I2: Sí, sí. [HS:I1 Y moverla. Se movía, se movía.] Y venga a mover.
+I1: Hasta que se queaba fría.
+I2: Hasta que enfriaba.
+E2: [Asent]. ¿Y por ejemplo, no hacían nada más con la sangre?
+I1: No. [HS:I2 No,]
+I2: nunca, aquí no, yo creo que no, nada más, yo creo.
+E1: Pero una cosa, ¿esos cerdos eran, eran de ustedes o cómo...? [HS:I2 Sí,]
+I2: sí, sí. [HS:I1 Eran nuestros.]
+I1: Los hemos criao nosotros aquí, nos... [HS:I2 Los criábamos, sí.] cuadras, y las... [HS:I2 Bueno,]
+I2: los criamos, o comprábamos de pequeños.
+E3: ¿Y dónde, dónde les criaban? [HS:I2 ¿De adónde?]
+I1: De..., venía, ibas a un mercao o a una feria y comprabas, del que fuera. Lo mismo poían ser de este pueblo que poían ser de Barato, que poían ser de San Juan.
+E1: ¿Y dónde, dónde tenían...?
+I1: Los tenemos aquí, en el pueblo, en un, en cuadras que había, y... [HS:I2 En cuadras.]
+E1: ¿Y qué, y qué comían, y todo eso?
+I2: Bueno, comer, comían de to lo que se los echaba: patatas, calabazas. [HS:E1 ¿Sí?] Sí, [OTRAS-EM] y maíz si los echabas, y muchas cosas, [HS:E [Asent].] mucha. Y remolacha.
+E1: ¿Y qué cuidados tenían o...?
+I2: ¿Eh?
+E1: ¿Les cuidaban o algo?
+I2: Sí, hombre, pues, no... Se los echaba en una pila que hay y allí hasta que se los, [HS:I1 Se lo comían.] hasta que lo comían, ellos.
+E2: ¿Y qué instrumentos me ha dicho que usted, que ustedes utilizaban para matar el cerdo? [HS:I2 [RISA]] Para matar los cerdos.
+I2: [HCruz: El cuchillo, ¿verdad?] [RISAS] [Rndo: A ver...]
+I1: Poca cosa.
+I2: Con poca cosa. [HS:E2 ¿No utilizaban]
+E2: un gancho?
+I2: Sí, no... [HS:I1 [A-Nul].] Hay, hay quien sí lo gasta, hay quien sí que lo gastaba, [HS:E2 [Asent].] hay quien sí que lo gastaba; otros, no.
+E2: ¿Y tienen todavía esos instrumentos, ese gancho?
+I2: Sí, mía tú si habrá quien los tengan, todavía. No, yo no ten-, yo, por lo menos, no, porque ya hace lo menos quince años que no mato. [RISAS]  O más.
+E2: ¿Tanto tiempo?
+I2: [Rndo: Más.] Quince, quince o más que llevaré, que no mato.
+E2: ¿Y cómo...? Y tenían un banco, ¿no?
+I2: Sí...
+E2: ¿También, ya, ya no... ya no tienen el banco?
+I2: Los que... los que matan sí que le tienen, pero los que no matamos, lo hemos echao ya... al tacto.
+E2: ¿Y cómo limpiaban esos instrumentos?
+I2: ¿Con qué lo limpiaban?
+E2: Sí, porque me imagino que estarían llenos de sangre.
+I2: Bueno, pues con agua caliente y un... y una bayeta, bayetas, ¿eh?
+E2: ¿Y, y quién, quién limpiaba esos instrumentos, los hombres o las mujeres?
+I2: Bueno... [HS:I1 Eso ya depende.] Ahí ya depende.
+I1: El que más tiempo tuviera [RISAS].
+I2: Ahí ya depende.
+E2: Y hacían también chorizos, me han dicho.
+I2: Sí, hombre.
+I1: Sí, se hacen los chorizos. [HS:E2 ¿Có-, cómo]
+E2: se hacía el chorizo?
+I2: Pues... eso, de... los menudos del cerdo.
+I1: La carne de cerdo se picaba y se... [A-Nul]. [HS:I2 Se picaba el menudo]
+I2: y se hacían luego chorizos. [HS:E2 [Asent].] Se echaba pimentón y orégano, hierbabuena y cosas de esas, ¿verdá? Pa que supieran.
+E1: ¿Pero cómo se hacía todo, con tripas o cómo se hacía?
+I2: Con la tripa. Con tripa, sí.
+I1: Las tripas de... del mismo guarro.
+I2: Del mismo cer-, del mismo cerdo. [HS:E3 ¿Y cómo se]
+E3: cogía y todo eso?
+I2: ¿Eh?
+E1: Pero, pero ¿cómo se hacían? [A-Nul].
+I2: ¡Uh! ¿Cómo se hacía? Pues, claro, cogiéndolo y trabajando, todas las cosas trabajándolas, ¿verdá?
+E2: Pero, por ejemplo, [OTRAS-EM] ¿para el chorizo utilizaban las tripas, o qué parte del, del cerdo?
+I2: Las, las tripas, las tripas.
+E2: ¿Y las, y, y limpiaban las tripas?
+I2: Sí, tamién las lavan. Tienen que ir a lavar a la... a La Garganta, a [A-PIn: Choprienzo].
+E2: ¿Y cómo se lavaban las tripas?
+I2: Uy, pues [OTRAS-EM] las mujeres; eso las mujeres las lavaban. [A-Inn].
+E2: ¿No sabe usted cómo, si era con agua, con agua y con limón?
+I2: Sí, hombre, claro, con... agua, [HS:I1 Con agua.] con agua, eh, tenía que ser.
+E2: Y, claro...
+I2: Con agua clara, y nada más.
+E2: ¿Y, y el agua, cómo iban a por ella? Porque ahora tenemos grifo... [HS:I2 No, señor, porque iban ahí a...]
+I2: a, a la... aquí, a, a La Garganta, que llamamos. [HS:E2 [Asent].] Eso venía de... del municipio todo.
+E2: [Asent].
+E3: ¿Cómo picaban la carne?
+I2: Ah, ¿cómo picamos la carne? Antiguamente no había máquinas: se picaban en una tabla, una cacho de, un, un cacho de... de tabla, con la, los cuchillos, ¿verdá? Se hacía menudo. Y luego ya, con las máquinas. Ha habido, ya hay máquinas, ya después.
+E3: ¿Y cómo funcionan esas máquinas?
+I2: [A-Inn] pues... a torno. Dan una, una manivela, ¿verdá?, y tiene cuchillas por el medio, y va, [OTRAS-EM] y se va metiendo la carne, y sale luego picada, picada. [R-Vcs]
+E2: Pero...
+E1: Pero, no, pero lo que queremos saber es cómo se hacían los chorizos. [HS:E2 Sí.] ¿Usted, usted ha hecho chorizos?
+I1: Sí, los hemos hecho algunas veces. [HS:E1 Díganos cómo,]
+E1: cómo...
+I1: Se metía [A-Inn] un, un... embudo, en la, en la rue-, en la...
+I2: Es que había un embudo.
+I1: Y se metía la carne, ¿no?, [A-PIn: por allí...]
+I2: Y se metía la tripa en el embudo, y claro, iban atacando, apretando, y hasta que eso.
+E2: Sí, pero por ejemplo, ¿esa carne habría que, que envolver esa carne con algo?
+I2: Sí, ya t'ha dicho: con, [HS:E2 ¿Cómo, cómo se envolvía?] con orégano y esas cosas.
+E2: Pero eso eran las especias que se echaban, pero... [HS:I2 Sí.] Por ejemplo, el chorizo tiene una carn-, tiene como un pellejo alrededor o algo de eso.
+I2: ¡Bah...! [HS:I1 La tripa que...] La tripa que, que ponen a la máquina. [RISA] [Rndo: Vaya...] Pues sí.
+E2: ¿Y esas especias, [OTRAS-EM] dón-, las cosas que echaban al, a, al... chorizo, de dónde la obtenían? [R_Tlf]
+I2: Del campo. Que se cogían. [HS:I1 Se, se recogen]
+I1: en el campo y se traen aquí. [HS:I2 Del campo.]
+E2: ¿No compraban esa... [OTRAS-EM] [HS:I1 No.] el orégano? [HS:I1 Normalmente no.]
+I2: [A-Inn] se cogían del campo, [HS:E2 [Asent].] qu'hay mucho de ello, mucho orégano y mucho de eso, hay mucho de ello. [R-Vcs]
+E2: ¿Y jamones... y hacían también jamones? [HS:I1 Luego se,]
+I1: quitaban los jamones, [HS:I2 Luego... se estazaba.] se apartaban, y sí. [HS:I2 Y luego se estazaba]
+I2: el cerdo, ¿verdá? Se le hacía trozos, y se, claro, cada pieza per-, lo que pidía.
+E2: Ah, [OTRAS-EM] ha dicho usted "estazar el cerdo".
+I2: Estazarlo, sí, estazarlo.
+E2: ¿Qué, cómo se estazaba?
+I2: Pos haciéndolo trozos. Pos eso, el cerdo, cada cosa lo que pide, [HS:E2 [Asent].] cada cosa lo que pide: el jamón es jamón, y el lomo es lomo y... todo; el tocino es tocino.
+E2: ¿Y cómo hacían ustedes los jamones?
+I2: ¿Cómo lo hacíamos? Pos cortándolos de, de, del tocino y de alrededor, y luego curalos a... a, al humo, [HS:E2 [Asent].] al hu-. [HS:E2 Pero,] [RISA]
+E2: pero, por ejemplo, [OTRAS-EM] cuéntenos, cuéntenos ustedes todo porque no sabemos. Por ejemplo, ¿cogían [OTRAS-EM] la parte del jamón, [OTRAS-EM] echaban sal al jamón? Todo, [HS:I2 Y luego... y luego el ja-, y luego, luego el jamón...] cuéntenoslo usted todo lo que recuerde. Sí, es que no, no sabemos nada. [HS:I2 ¿Verdá? Cuando íbamos a segar a La Guadaña.]
+I2: Entoces lo comíamos, pero es porque lo ganábamos. [RISAS] [Rndo: Lo sudábamos.] Un trozo por la mañanita, lo primero, ah, y luego pa por la tarde otro, si pegaba. [HS:E2 [Asent].] Pero había que sudarle, ¿sabes? Había que sudarlo el trozo de jamón. [RISA]
+E2: ¿Y ustedes recuerdan cómo se hacía, cómo...? ¿Todo lo...? [HS:I2 Bueno...]
+I2: lo hemos hecho nosotros, y no lo vamos a recordar.
+E2: Venga, pues cuéntemelo usted.
+I2: [OTRAS-EM] Si estamos contando cómo se hace, [HS:E2 Venga.] ¿qué, qué más quieren, verdá?
+E2: Pues por ejemplo, en algunos sitios [OTRAS-EM] pisan el jamón o, o... ponen peso, [HS:I2 Bueno, sí, tamién hay] ¿qué hacían ustedes?
+I2: quien le pisa bien; ara, tamién hay quien le, le, ¿cómo le llaman eso?, que lo, lo... [HS:I1 Lo aprensan.] Lo aprensan, lo aprensan, ¿verdá?
+E2: ¿Y cómo hacían ustedes eso?
+I2: Ah, eso yo no lo he hecho, aprensale, yo nada.
+E2: ¿Y usted lo ha aprensado?
+I1: Yo no aprensao tampoco, no. [HS:I2 Tampoco.]
+E2: ¿Y echaban sal al jamón?
+I2: Sí, hombre, pa chasco, es lo que lo cura.
+E2: ¿Y dónde compraban la sal ustedes? [R-Vcs]
+I2: Bueno, en la, la tienda. ¿[A-PIn: Adónde íbamos] a comprar?
+E1: |T17| Pero, por ejemplo, antes, ¿había tiendas o venía alguien al pueblo a vender?
+I2: No, señora, había, aquí siempre ha habío tiendas. Y siempre la | yo, yo siempre he conocío tiendas y tengo ochenta y un años cumplidos, voy a hacer ochenta y dos. [RISA] Siempre aquí, esta tienda siempre la he vis-, la he conocido.
+E2: |T1| [Asent]. ¿Y lomos, hacían lomos?
+I2: Sí, hombre.
+E2: ¿Y cómo se hacían los lomos?
+I2: Pues tamién, curándolos tamién. Había quien los metía en adobo, hacía pimentón o esas cosas, ¿verdá? Y lo curaban; y otros lo metían en una tripa pa luego alante tenerlos. [OTRAS-EM] Cada uno... lo hacía cómo le parecía.
+E2: ¿Y ustedes hacían la matanza para comer...?
+I2: Pa comer de ella, claro.
+E2: ¿Y no la, [HS:I2 No, pa tirá no,] no vendía la matanza?
+I2: pa tirala no era, eh.
+E2: No, digo para venderla.
+I2: No...
+I1: No, no.
+I2: No, no.
+E2: ¿No?
+I2: [A-Inn] mira, mira lo que nos o-, ocurrió una vez a este y a mí, por vender algo de la matanza, a pela entera lo hemos cobrao, y hace lo menos ventitantos años, ¿verdá? A poco lo hemos cobrao.
+E2: Y, por ejemplo, más cosas, [OTRAS-EM] ¿manteca?
+I2: Tamién. [HS:E No, da igual, da igual.]
+E2: ¿Qué...?
+I2: Eso se, se derretía, pa'l que lo quería gastar, pa gastalo con patatas o el cocido o esas cosas.
+E2: ¿Y qué se hacía con la manteca, para qué, para qué se usaba la manteca? [R-Vhc]
+I2: Para la, pa las patatas el que quería echarlo en ellas, y... [HS:E2 Y]
+E2: era como aceite, ¿verdad? Servía para algo de... ¿o no? [HS:I2 [OTRAS-EM] Como,]
+I2: como una cosa parecida, ¿verdá?
+E2: ¿Y, y toci-, y... tocino? O sea, del cerdo también. [HS:I2 ¿Tocino? Pues tamién pa comerlo, tamién.]
+I2: Se echaba pa las... [HS:I1 [A-Inn].] El tocino pues... relativamente, se ponía en las patatas, ¿no? Aquí antes gastaban las patatas pa la mañana [OTRAS-EM] pa desayunar. No había la hari-, no había leche, pues un torreznito detrás.
+E2: ¿Y, y siguen ustedes comiendo tocino y manteca, usando?
+I2: Sí... Esto, esto...
+I1: [A-Inn] se come menos, pero si [A-Inn].
+E2: ¿Y ahora, por ejemplo, [HS:I2 No, ahora, ahora.] para qué utilizan ahora la manteca? [A-Inn]. [HS:I2 Ara, ara, ara ya no sé]
+I2: lo que tuali-, tualizarán. Hay quien... eso, hace jabón porque no lo puede comer, o no quiere comerlo. Hay quien hace jabón, y otros, y otros, y otros, nosotros, eso, ya no sabemos nada de eso.
+E2: ¿Y tocino?
+I2: Tocino, pues lo mismo, tamién lo gastan mucho pa'l jabón.
+E2: Se utilizaba tocino, por ejemplo, para el, el cocido, ¿no?
+I2: Sí, señora, ¡anda...! [HS:E2 ¿Se echaba]
+E2: tocino al... cocido? [HS:I2 Cuando habíam-, cuando tiníamos]
+I2: que dar el jamón por, por tocino, ¿qué pasaba? [RISA] [HS:E2 Sí.] ¿Eh?
+E2: Y los huesos, ¿se utilizaban los huesos del cerdo?
+I2: También, sí, también se pica. [HS:I1 Orejas [A-Nul].]
+E2: ¿Para qué?
+I2: Se picaban tamién, y para echalo en la manteca, con la manteca envuelto.
+E2: ¿Y, y qué hacían con, con los huesos, los preparaban en sal o...?
+I2: Sí hombre, echaba un poquito sal, después que se echaba la manteca derritida, ¿verdá? En ellos, se echaba en un poquito sal pa conservarlo, ¿verdá?
+E2: |T7| [Asent]. ¿Y, por ejemplo, [OTRAS-EM] tenían más animales en, en, en el pueblo ustedes? ¿Qué, qué ganado tenían, tenían vacas, ovejas...?
+I1: Este tenía tamién.
+E2: ¿Tenía usted vacas? [HS:I2 Yo...]
+I2: Alguna, pocas, pero que he podío tiner pocas [A-PIn: nunca], pero alguna había.
+E2: ¿Y cómo cuidaba usted las vacas, cómo se cuidaban en, en el pueblo antes? [HS:I2 Sí, pues...]
+I2: llevalas al prao y que com-, y si había hierba, que co-, que lo comieran.
+E2: [Asent]. ¿Simplemente se echaba de comer hierba a las vacas?
+I2: Y heno, y seca, hierba seca tamién.
+E2: ¿Y cómo, con qué se echaba esas cosas a las vacas?
+I2: ¿Con qué?
+E1: Sí, por ejemplo, ¿ustedes iban con, con una mula o... o con algo? [HS:I2 No...]
+I2: nosotros lo, lo, lo recogíamos | este, le pasaba eso. Lo arrecogían en, en, en el prao, hacían un, un... vuelo, ¿verdá? Y luego pues de allí iba a, cuando yo vi a... cuando hacía falta iba tra-, a comer de allí. [RISA] [HS:E2 Muy bien. ¿Y...?] Y..., y cogía las brazás [A-Inn], las ataba con una soga y se lo llevaba adonde le parecía a él.
+E2: Y las, las vacas, las vacas por ejemplo no se limpian, ¿o... o ustedes limpiaban las vacas?
+I1: No.
+I2: Las vacas, no; a, a la cuadra, sí.
+E2: ¿Y cómo limpiaban la, la cuadra?
+I2: Pos quitar las basura, la, la basura que echaban.
+E2: ¿Y con esa basura, se quemaba o...?
+I2: No, señora, la echábamos en...
+I1: En la huerta.
+I2: En la huerta.
+E2: ¿Y..., y... ordeñaba usted las vacas?
+I2: Algún | [HS:I2 Normalmente no.] Algún, casi normalmente casi no. Entonces, casi lo primero no.
+E2: ¿Y entonces la...? [HS:I2 Eran, eran, eran]
+I2: avileñas.
+E2: ¿Y la leche, entonces? ¿Dónde...? [HS:I2 La leche,]
+I2: [A-Inn] nos daban, ¿pues cómo lo íbamos a sacar?
+E2: Sí, pero por ejemplo, si usted no ordeñaba a la vaca, ¿compraba la leche?
+I2: No gasta-, no usábamos leche. No, no, no. [HS:E2 ¿No...]
+E2: no tomian-, no tomaban leche?
+I2: Nosotros tomábamos patatas a medio-, por la mañana.
+E2: ¿Sí, desayunaban patatas? [HS:I2 Y el,]
+I2: y el torrezno. [RISAS]
+E2: ¿Pero ahora, por ejemplo, sí que toman leche?
+I2: Ahora sí, pero..., pero no sabemos de ónde viene, no es de las nuestras.
+E2: Ya no es de las...
+I2: No. [RISA]
+E2: Y... le iba a preguntar que qué leche le gustaba más, si la de antes o la de ahora, pero ya no...
+I2: No, hombre, yo creo que... yo no sé, a mí me gustaba, me, si [A-Inn] de lo de antes y lo, de lo de ahora, me tiraba a, a lo de antes.
+E2: [Asent]. ¿Y nata? ¿La nata, la nata de la leche, esa que quedaba por encima? [HS:I2 Sí, pues...]
+I2: eso pues, [OTRAS-EM] como se cuajaba, hay quien lo cuajaba la leche, pues iba todo a, al montón.
+E2: ¿Se cuajaba la leche?
+I2: Sí, pa hacer el queso.
+E2: Ah, ¿hacían ustedes queso? ¿O se hacía aquí? [HS:I2 Algunas veces sí]
+I2: lo hemos hecho.
+E2: ¿Y cómo se hacía el queso?
+I2: [A-PIn: Anda,] pues cuan-, echando la leche a cuajar y..., y luego se hacía una cuajada, ¿verdá? [HS:E2 [Asent].] Y luego, pues la cuajada pues a, a... a hacer el queso.
+E2: Sí, pero, por ejemplo, ¿cómo se cuajaba la leche? [HS:I1 Con el...] ¿Se hervía? Yo es que no, no, eso se, se queda muy lejos, no, no lo sé, no lo he, [HS:I2 [RISA]] por eso le pregunto. No se ría.
+I1: Eso, eso. [RISAS]
+E2: Cuéntemelo usted. [RISAS]
+I2: Es que cua-, pa cuajá la leche, había que echar un cuajo de cabrito, cosas de esos, o de ternero, ¿verdá? [HS:E2 [Asent].] Que se, se, se, [OTRAS-EM] eso era... cuajo, y cuajaba la leche con ello.
+E2: ¿Pero qué es un cuajo?
+I2: Pos la le-, leche, leche que el ternero cuando está mamando, igual que un crío, [HS:E2 [Asent].] pues tie que tener un cuajo pa cando está mamando la leche. [HS:E2 [Asent].] [OTRAS-EM] Pues igual. [HS:E2 Y...]
+E2: es decir, ¿se cuajaba, se cuajaba la leche y se hacía el queso?
+I2: Caro, caro, claro, se le sacaba al cabrito o al ternero, [HS:E2 [Asent].] y se le colgaba ande se pudiera secar una temporada, [HS:E2 [Asent].] y luego, después de seco, se iba gastando poquito a poco, a medida de la leche que tuvieras, [HS:E2 [Asent].] eh. Sí. [HS:E2 Y no se]
+E2: echaba nada más a, a la leche?
+I2: Nada más, nada más.
+I1: No se echa más, no.
+I2: Nada más.
+E2: Y ovejas, ¿tenían ustedes ovejas? [HS:I2 No,]
+I2: yo, ovejas no, no he poseado. [HS:E2 [Asent].] Las he visto, pero no... [HS:E2 Y,]
+E2: y entonces no me, no, por ejemplo, en algunos sitios dicen que... ¿Qué, qué leche es mejor, la de oveja o la de vaca para, para el queso? [HS:I2 Hombre...]
+I2: yo creo que siempre más, [HS:I1 [A-Nul] oveja.] siempre ha sido la de oveja, ¿verdá?
+E2: ¿Por qué ha sido mejor la, la de o-, la leche de oveja? [HS:I2 Porque lo requiererá así]
+I2: el... el ganao, que si cosas de esas. No sé. [HS:E2 [Asent].] Ahora, poca cantidá, la oveja, poca cantidá.
+E2: Y entonces, si no tenían ovejas, ustedes la lana, ¿dónde compraban lana? ¿O no compraban? [HS:I2 Al que lo tenía]
+I2: por áhi, [HS:E2 [Asent].] al que lo tenía.
+E2: |T4| ¿Y hacían colchones de lana?
+I2: Sí, señora. [RISAS]
+E2: ¿Y cómo se hacían?
+I2: Menos cuando había que dormir en un, en un colchón de ras-, paja, de rastrojo. [RISAS]
+E2: ¿Cómo hacían los colchones? Cuénteme usted.
+I2: ¿[A-Inn] cómo hacían los colchones? Pues la lana lo, lo esqui-, lo que., se lo cortan a la oveja, ¿verdá?
+E2: Sí.
+I2: Y lo lavan, y luego lo secan, y luego, [HS:E2 [A-Inn].] y luego, después de seco, pues ya tienden una tela, un colchón que llamamos, y ya lo echan, y luego ya le cosen y esas cosas. Y se hace eso.
+E2: ¿Secaban la lana de alguna manera? [HS:I1 Sí, sí, sí, sí.] ¿La, la pegaban o...? [HS:I1 Al sol.]
+I2: Al sol. [HS:E2 [Asent].]
+E2: En algunos pueblos dan con va-, con... con va-, varas, [HS:I1 Con varas.] sí, a la...
+I2: Sí, la dan tamién, tamién la dan con varas, sí, [HS:E2 [Asent].] sí. Menos, menos a mi..., a mi consuegra, que lava la lana para la boda de [NP] y lo tienden allí en una piedra, y resulta que viene un, un... airazo, [HS:I1 Y se lo llevó.] y, y se lo llevó pa allá, pa los llanos, allá pa'l tiradero, ay. [HS:E2 [Rndo: ¡Qué faena!]] La, la quitó la lana de, del colchón de la boda. [RISAS]
+E2: |T7| ¿Y corderos, tenían ustedes corderos?
+I2: Que no, nada de eso, nada eso. [HS:E2 Nada, nada de eso.] nada de eso. [HS:E2 Jo. Bueno.]
+E2: |T3| Pues [OTRAS-EM] ¿caba-? [HS:E1 ¿Conejos?] Sí, ¿conejos?
+I2: ¿Eh?
+E1: Conejos.
+I2: Tampoco, tamp-, el que había en el campo, [HS:E1 ¿Y, y no había...?] y le podíamos echá la uña.
+E1: ¿El qué?
+I2: El que había en el campo y le poíamos echar la uña.
+E1: ¿Qué es eso de echar la uña?
+I2: Coño, pues echale la, el guante.
+E1: ¿Al conejo?
+I2: Eso ha hecho este muchas veces, este. [HS:E1 ¿Sí?]
+E1: A ver, cuéntenoslo usted.
+I1: Ese que ha hecho más, yo no, yo no. [HS:E2 [A-Nul]]
+E2: que no, que no está hablando nada. Venga, un ratito.
+I1: Yo ya me he cansao.
+I2: Yo ya me he cansao. [HS:E2 ¿Se ha cansao ya...?] Yo ya me he cansao.
+E2: Venga, háganos el favor, cuéntenoslo, si es... [HS:I1 A ver, ¿qué más, qué más?] Pues eso, por ejemplo, conejos. ¿Ustedes deci-, cómo, [OTRAS-EM] cómo...? "Le echaba la uña" había dicho, ¿no? [RISAS] ¿Y cómo los cocinaba? ¿Cómo se cocinaban los conejos? [HS:I1 Coño,]
+I1: pues igual que toas las cosas: se pone en un... puchero, se arreglaban con la sartén, o lo que fuera.
+E2: [Asent]. ¿Y caballos, tenían para...?
+I1: Algunos había tamién. Burros.
+E2: ¿Y qué, cómo los cuidaban esos animales?
+I1: Pues na más que, [HS:E2 ¡Ay!] [RISA] na más que meter en, en los praos y ahí, se cuidaban ellos solos.
+E2: ¿Y no, no le, no echaban nada de comer a...?
+I1: Algunas veces, otras veces no, según. Si había... hierba en la finca pues no, [A-Inn], y si no había, pos hay que í uno. [HS:I2 [HCruz: Verás]]
+I2: [HCruz: cuando salgamos d'aquí, [HS:E2 [RISA]] verás cuando salgamos d'aquí.]
+I1: Na, a ningún sitio salimos, nosotros aquí no salimos [OTRAS-EM] ningún sitio. [HS:I2 No.] Ahora, [A-PIn: si quieres, salimos, pero...] Saldremos, pero... [HS:I2 Tampoco]
+I2: sabemos hablar.
+I1: [V-Sml] Yo es que no, no puedo. [V-Ljn] Tampoco sabemos hablar.
+E2: |T6| ¿Y... qué más cosas? ¿Y cultivaban en este pueblo? O sea, ¿tenían trigo, cereales?
+I2: Hombre..., algo, [HS:I1 Algo había.] po-, poco, pero algo había.
+E2: ¿Qué cereales había?
+I2: Pues... algarrobas, ¿no? [HS:E2 [Asent].] Centeno, que llamamos nosotros; trigo; cebada; a todo, a... poco, pero de todo había algo.
+E2: ¿Y qué se hacía al trigo para, para trabajar?
+I2: ¿Pos qué se hacía al trigo? ¡Pues, anda, demonio, lo que había que hacer!
+E2: [RISAS] Cuéntemelo usted.
+I2: Lo que había que hacer.
+I1: [HCruz: Venga, [A-Inn].] [HS:E2 Venga, que [OTRAS-EM] necesitamos...]
+I2: Que lo diga este, si este está más descansao ahora. A mí me habéis metido ahora la [A-Inn], que os lo diga este.
+E2: Venga, cuéntenmelo alguno. [HS:I1 No sé, yo no sé,]
+I1: es que yo no sepo hablar. ¡Que me se caen los dientes!
+I2: ¡Anda...! [HS:I1 Me río.] Resulta que el trigo pues, ¿qué había que hacelo? Lo primero, criarlo, ¿no? [HS:E2 [Asent].] Lo segundo, segarlo, llevarlo a la era pa trillalo, y luego, limpiarlo. Al molino.
+E2: Sí.
+I2: Y... muchas cosas, muchas cosas, ya...
+E2: ¿No me lo quiere contar usted? ¿Se está cansando ya?
+I1: [HCruz: Venga...]
+I2: ¡A ver! [HS:E2 ¡Venga...]
+E2: que lo necesitamos [V-Sml] para el trabajo en el colegio. [HS:I2 Que trabaje]
+I2: este otro poco.
+I1: Si es que me caen, me...
+I2: Que trabaje este otro poco.
+I1: Si ya no puedo más, hombre.
+E2: Pues necesitamos para un trabajo del colegio, de la facultad. Nos harían ustedes un favor, cuéntenoslo. [HS:I1 Ya...]
+I1: ya hemos contao muchas cosas. [RISA]
+E2: ¡No...!
+I1: ¡Sí!
+E2: ¡No...! [HS:E1 ¿Y gallinas?]
+E1: ¿Tienen gallinas?
+I1: Aquí hay de, de todo, eh. [HS:E1 ¿Sí?] Hay poco, pero de todo hay algo.
+E3: ¿Y los huevos?
+E2: ¿Y qué se echa de comer [HS:I1 Gallinas.] a las gallinas?
+I1: [A-PIn: Gallinas] se, se le echaba de comer pienso. Y... nada, y allí comen y allí [A-Inn] y..., y se las cuida bien y ya está.
+E2: Y, y las gallinas, [OTRAS-EM] ¿se desplumaba a, a las gallinas de alguna manera, o...?
+I1: No, ellas solas se despluman cuando viene el tiempo.
+E3: ¿Cómo se mataban a las gallinas? ¿De qué forma?
+I1: [Rndo: Yo no he matao ninguna.]
+E2: O a los pollos. [HS:I2 [RISA] ¡La leche!] [HS:I1 Yo...] ¿Qué se hacía para matar a los pollos?
+I2: Agarrarlos el pescuezo y ma-, y matarlos. [RISAS] [V-Ljn]
+I1: Con el cuchillo.
+E2: De todas maneras, no me [OTRAS-EM] | Le voy a volver a preguntar un momento, ¿có-, que...? | Es que, por ejemplo, a las vacas, ¿qué se les echaba de comer?
+I2: Hombre, pues... del campo, lo que había; del campo, lo que había: algarrobas; la, la hierba, ¿verdá? De lo que había, maíz y eso.
+E2: |T3| ¿Y a las gallinas? Me ha dicho usted que se echaba a las gallinas pienso.
+I2: ¡Anda, claro! Este sí las echaba pienso.
+E2: ¿Y trigo, no se echaba trigo a las gallinas, o paja? [HS:I2 ¡Sí, tú verás...!]
+I2: Cualquiera las echaba trigo, [RISAS] cualquiera las echaba trigo.
+E2: ¿No... no, no gustaba a las gallinas el trigo?
+I2: [OTRAS-EM] No, no las gustaba, no. No, no las gustaba. [HS:E2 ¡Muy señoritas!] [Rndo: No las gustaba. Les gustaban...]
+E2: Usted se ríe. ¿Y, y a los cerdos, qué se echaba de comer a los cerdos? Es que no... [HS:I2 Hombre,]
+I2: pues igual que, de, del campo todo, hasta higos, [HS:E2 Higos.] y patatas y todo, remolacha, eso, [OTRAS-EM] ¡todo lo que hay en el campo!
+E2: O sea, los cerdos se comían absolutamente todo.
+I2: De todo lo que los echabas; hasta el amo, si se, si se descuidaba. [RISAS] [Rndo: Sí, hombre.]
+E1: |T2| Y una cosa, y el pan, ¿el pan de antes cómo se hacía?
+I2: ¿Cómo se hacía?
+E1: ¿Hacían pan ustedes?
+I2: Sí, hombre, tamién lo he, tamién lo he masao, sí.
+E1: ¿Sí? Eso... nos interesa. ¿Cómo se hace?
+I2: Sí, pues eso, [A-Inn] decir. El trigo, ¿no? Se muele, se hace harina, ¿no? Y luego, pues, ya se lleva al horno y se, se, las mujeres lo... lo amasan; hacen los panes y a, y a, y ameterlos en el horno, a lo caliente.
+E2: ¿Qué pan era, qué pan era mejor, el de antes o el pan de ahora? ¿Usted qué opina?
+I1: Hombre, normalmente era lo de antes.
+I2: Lo de antes, sí. [HS:E2 [Asent].]
+I1: Lo de antes... [HS:I2 Lo de antes.] Todo lo de antes era mejor que lo de ahora. [HS:I2 Y ahora más.] Menos las personas: las personas son iguales.
+I2: Igual que la carne, igual que todo. [HS:E2 [Asent].] Lo de antes, [A-PIn: más que] lo de antes. [HS:E1 Pero, una cosa,]
+E1: con lo del pan, ¿los hornos dónde estaban?
+I2: Por áhi los tenían, por | cualquiera.
+E1: ¿Pero en casa o, o dónde?
+I2: En casa, en casa, en casa, claro.
+E1: ¿Cada casa tenía un horno?
+I1: No.
+I2: No, cada casa, no, cada... A lo mejor en el pueblo, si hay... los vecinos que haya, había ocho o diez hornos en el pueblo, para, para...
+E1: ¿Para todos?
+I2: Para todos, claro.
+E1: ¿Y había que pagar?
+I2: Hombre, pues sí, había que pagar. [HS:E1 ¿Sí?] Si no, si no era con dinero, era con un, con un pan que dabas.
+E1: Pero la masa, ¿usted ha hecho masa de...? [HS:I2 ¿Eh?] ¿Ha hecho masa para los panes o no?
+I2: Hombre, claro que hay que hacer masa, [HS:E1 [A-Nul].] igual que pa hacer los churros.
+E1: ¿Sí, también ha hecho churros? [HS:I2 Hay que hacer,]
+I2: hay que hacer masa. [RISAS]
+E1: ¿Y cómo hace, como hace la masa? [V-Sml]
+I1: [V-Sml] Este hombre sabe más que yo.
+I2: Sabe, sabe este más que yo, pero que no quiere.
+I1: [V-Sml] Yo es que no sé, no sé decirlo. [HS:I2 Este es un pájaro. Este es un pájaro] [HCruz: ¡Qué no sé decirlo, coño! [HS:I2 Es un pájaro.] ¿Y qué vas a decir ya? Lo hemos dicho todo.]
+E1: No, pero la masa para el pan, ¿cómo se hacía la masa? [HS:E2 No, la masa para el pan.]
+I1: Con la masa... nada, hacer la masa y hacer el pan y meterlo en el horno y, hala.
+E2: Por ejemplo, ¿la masa había alguna manera...?
+I1: Lo hacían las mujeres.
+E2: ¿Y no sabe usted cómo se hacía la masa, [HS:I1 Yo no, yo no sé hacerlo.] no lo ha visto nunca, hacer a su madre o a su mujer?
+I2: [A-Nul] no lo ha visto nunca.
+E2: ¿No, nunca?
+I1: Muchas veces, pero... [HS:E2 Usted sí,]
+E2: usted nos ha dicho que sí.
+I2: Yo no, yo no, yo no lo he visto. Este sí, pero yo no, ¿eh? Yo esas cosas no las he visto. [HS:I1 [A-Inn] sabía y no lo quiere decir.] No, yo no he sido na más que un triste obrero por áhi y un campesino. Que no he visto... hacer la o con un canuto.
+I1: Eso no, que no sabemos hacer la o con un canuto, pero sabemos hacer las cosas. [HS:E2 Pero, por ejemplo,]
+E2: ¿masa de pan sí saben hacer? Eso es algo más que... [HS:I2 No,]
+I2: la hemos visto, yo la he visto hacer, pero no la he... hecho nunca. [HS:E2 ¿Y cómo la,]
+E2: cómo la ha visto usted? Por ejemplo, [HS:I2 Pues eso, como dice este:] yo no la he visto nunca.
+I2: Echar la harina y luego echar el agua, y las mujeres envolverlo hasta que ha hecho la masa, [HS:E2 [Asent].] hasta que ha hecho la masa.
+E1: ¿Y los hornos se limpiaban?
+I2: Sí, señor. [HS:E1 ¿Cómo?] Había que barrerlos, tamién, porque había que meterlo al, al fuego, había que calentalos al fuego, ¿no? [HS:E2 [Asent].] Y luego cuando estaban calientes, pues ya las mujeres lo barri-, lo barrían bien y, y a meter el, el pan pa que se cociera. [HS:E2 [Asent].] [HCruz: Saben, saben ellos más que nosotros, y nos están preguntando.] [HS:E1 No, no, [A-Nul] Madrid.]
+E2: No, si somos de Madrid...
+I2: Nos están preguntando, saben ellas más que nosotros. [HS:E2 No,]
+E2: la, la historia es que [HS:E3 No, no, puede estar seguro.] venimos de distintos pueblos, entonces hay costumbres que cambian de un sitio a otro, [HS:I2 No, poco.] entonces por eso se lo pregunt-, Uy, sí, [HS:I2 Poco, pocas.] no, pues por ejemplo, la matanza se hace en un sitio, por ejemplo en, en Valladolid, [HS:I1 Bueno, la matanza, la matanzas,] en pueblos de Valladolid es distinto que en Ávila.
+I2: eso son las matanzas, que cada uno las hace como le parece, ¿verdá? Eso, y esas cosas. [HS:E2 [Asent].] Unos lo hacen de una manera, y otros la hacen de otra.
+E2: |T15| Por ejemplo, algo que cambia muchísimo son las fiestas. No me diga, de pueblo a pueblo.
+I2: Bueno, es que las fiestas cambian mucho, pero es porque las cambian; si no, no cambiaban ellas. [RISAS]
+E2: No, quiero de-...
+I1: El alcalde es el de la culpa, porque el alcalde... cambia la fiesta.
+I2: Yo no sé quién las cam-, quién lo cambiará, si el de arriba o los de abajo. [HS:I1 Aquí,]
+I1: aquí es el alcalde [HS:I2 [RISA]] el que manda aquí. Se pone aquí... en su [A-PIn: presidencia], y manda él en todo.
+E2: |T6| Me han dicho también que cultivaban trigo, ¿y otros cereales? O sea, ¿cebada o algo de eso en este pueblo?
+I2: Cebada pa... [HS:I2 De todo, [A-Nul] sí.] [HS:E2 De todo.] De todo, se cogía pues poco, un poco más, mucho, se cogía.
+I1: Este, este que viene por aquí con | el que más cogía.
+I2: Este, este, este. [HS:E2 [Asent].] El que más cogía de todos. El corrichero más grande era este.
+I1: Era grande, sí.
+I2: El chorriquero mayor era este. [RISAS]
+E2: Está...
+IE: Yo soy el mayor, porque si he nacido antes, si, pero si no, no.
+I1: El que primero nació es ese.
+I2: Bueno... [HS:E2 ¿Ustedes]
+E2: están casados o estuvieron casados?
+I2: No, no, yo estoy, yo toavía te-, tengo a la mujer.
+E2: ¿Todavía?
+I2: Sí, señora.
+E2: |T14| ¿Recuerda su boda, cómo se hacían las bodas? [HS:I2 ¡Anda, demonio,]
+I2: anda ya! No me acuerdo yo ya. [HS:E2 ¿Eso no?]
+E2: ¡Venga...!
+I2: Al cabo de sesenta años ya, que me casé yo.

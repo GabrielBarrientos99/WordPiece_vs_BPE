@@ -1,0 +1,400 @@
+Provincia:	Álava
+Enclave:	Elburgo/Burgelu (0103)
+Fecha:	07 de mayo de 2000
+Duración:	01:01:19
+Informantes:	I1: varón, 72 años
+Encuesta:	José Luis Sánchez, Raúl Aguayo
+Transcripción:	Raúl Aguayo Paz, Karolina Labisch, Víctor Lara Bermejo, Alba Aires Salvador
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+2. Alimentación (pan, horno, manteca, huevos, bollos, recetas, pescado)
+5. Economía (dinero disponible, salario, nivel de vida, bienes adquiridos)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+10. Vida religiosa (cura, iglesia, misa)
+11. Vida vecinal (anécdotas, inquietudes, gobierno municipal, guardia civil)
+13. Familia (contraste entre generaciones: abuelos, hijos, padres)
+14. Bodas y noviazgos (boda, anillos, ajuar)
+15. Fiestas populares (romerías, fiestas patronales, carnaval)
+18. Ejército/Servicio Militar (mili, quintos, guerra)
+19. Costumbres (ocio, deporte, baile, juegos infantiles)
+21. Viajes y estancias fuera de la localidad
+22. Tiempo meteorológico
+
+E1: Culantzi, [HS:I1 Dulantzi.] o Dulantzi. Bueno, hemos encontrado un señor de... ¿Nos podría decir la edad y el nombre?
+I1: Pues setenta y dos años, y [NP].
+E1: [NP], muy bien.
+E2: Cuéntenos un poquito, ¿a qué..., a qué se dedica el pueblo?
+I1: Bue-, pues mayormente a la agricultura, a la agricultura. Bueno, [OTRAS-EM] chalés que hay, esos viven en, trabajan en Vitoria, o esos chalés que han hecho estos tr-, dos o tres años, esos trabajan en Vitoria, no sé en qué trabajan. [HS:E2 [Asent].] Pero los demás, aquí los del pueblo, pues nada, agricultura. Antes había ganadería, pero ahora ya no hay apenas nada.
+E1: |T6| ¿Y qué se cultiva?
+I1: Pues cebada, trigo, máiz, remolacha, girasol, [HS:E1 [Asent].] y... to eso. [HS:E1 ¿Mayormente?] Patata. La mayormente cereal, trigo... Trigo y remolacha l: que más se cultiva; [HS:E1 [Asent].] algo de patata también y algo de maíz, pero la mayor es trigo y cebada y... [R-Vhc] remolacha.
+E1: ¿Es usted bilingüe? [HS:I1 No.] O sea que no sabe hablar euskera. [HS:I1 No,]
+I1: no, no, no.
+E1: [Asent].
+I1: No sé.
+E2: ¿En esta zona se, se...? [HS:I1 Aquí nadie.] Nadie. [HS:I1 Nadie.]
+I1: Bah, los chavales que van ahora a la escuela y eso sí ya deben de saber, chavales pequeños que van ahí y ya les dan euskera, pero los demás no. [HS:E [Asent].] Aquí no se ha hablao euskera. Mi difunto padre hablaba euskera y, y otra señora que había, que vino de, de la parte de Elduayen, hace pues sesenta años o cincuenta que se casó aquí. Los demás aquí no, nadie sabe, [HS:E1 [A-Nul].] más que los pequeños, vaya, los chavales pequeños.
+E1: ¿Hay mucha gente joven por ahí?
+I1: Muy poca.
+E1: O sea que prácticamente...
+I1: Nada, nada, en, hay cuatro o cinco labradores y... y nada más; los demás, si... alguno está trabajando en Vitoria, o sea, los hijos que son de aquí, prácticamente... hay cuatro o cinco nada más, que están trabajando aquí.
+E1: ¿Entonces el futuro de este pueblo?
+I1: Pues, [A-PIn: ya ves,] va cada vez a menos. [HS:E1 [Asent].] Porque... hace... pues... diez años éramos diez labradores, que vivíamos de la labranza y algo ganadería, y ahora hay cinco nada más, que vivimos. [HS:E1 [Asent].] O sea que mira cómo va aguantando. [HS:E1 Sí.] Y de aquí a cuatro o seis años, como vaya así, se quedarán un par de ellos, me figuro yo, vamos, no lo sé, pero... lo más fácil.
+E1: |T19| ¿Tenéis frontón en el pueblo?
+I1: No, aquí no hay nada.
+E1: ¿No se practica ningún deporte?
+I1: No, no. Bah, aquí antes algo a los bolos se jugaba, pero ahora ya tampoco no se hace nada. [HS:E1 [Asent].] Nada.
+E1: |T10| ¿Y hay cura propio en, de este pueblo?
+I1: No, no, no, hay uno, en Alegría hay dos o tres curas que hacen aquí a varios pueblos, sirven... o sea, los domingos suelen decir misa, [HS:E1 [Asent].] y ahora en algunos los sábados. Hay tres curas pa igual veinte pueblos, y no sé ni los que son, vamos, pero aquí en el pueblo no. Hay ya... pues igual hace quince años que ya no hay; antes había uno pa dos pueblos, pero ahora ya nada.
+E1: |T15| ¿Y las fiestas, hay alguna fiesta en este, en...?
+I1: San Pedro, el patrón, sí, que es el patrón del pueblo, siempre se guarda fiesta.
+E1: ¿Pero se hace algún tipo de cosa?
+I1: Nada, ahora estos años, nada. Antes se hacía música y bailes y eso, pero estos años nada. Hace... prácticamente los del pueblo, se va a misa, una comida, así en hermandad, y nada más. [HS:E1 [Asent].] Y... bah, un campeonato de mus, alguna pijada de esas, pero, vaya, lo demás nada, nada.
+E1: [OTRAS-EM] Supongamos que usted ahora rejuvenece cincuenta años. ¿Qué haría que no ha hecho hasta entonces?
+I1: ¿Qué haría?
+E2: Si fuera el alcalde, por ejemplo, ¿qué haría? ¿Qué cambiaría?
+I1: ¿Qué cambiaría? Pues en trabajar mucho menos que lo que he trabajao, en eso cambiaría, [HS:E1 [Asent].] en eso, porque hace, hasta hace treinta años hemos trabajao mucho; ahora también se trabaja, vaya se trabaja, yo no trabajo, ¿verdad?, [HS:E1 [Asent].] pero, pero ahora los labradores trabajan menos que antes, porque hay más maquinaria, y yo si volvería cincuenta años, pues seguiría de labrador.
+E1: ¿De labrador o estudiaría?
+I1: No, yo pa estudiar no valgo.
+E1: ¿Por qué?
+I1: Porque no, yo... sé muy poco, y he ido poco a la escuela, y además he sido mal estudiante. O sea que mira, [A-Nul]. [HS:E1 Pero ¿porque era vaguillo]
+E1: o porque no le gustaba? ¿Prefería estar en el campo?
+I1: Pues prefería estar en el campo, y hemos sido diez hermanos, y yo era el mayor, y antes no es como ahora. Tenías que ir a maquinar con las yeguas, con las vacas y con el difunto padre, y el mayor era el que tenía que currelar. Y a la escuela íbamos cuando llovía, [HS:E1 [Asent].] cuando hacía malo. Y... no, no, yo a estudiar ni hablar.
+E1: |T13| ¿Tiene usted hermanos?
+I1: Tengo diez, somos diez.
+E1: ¿Diez? ¿Y todos viven el pueblo?
+I1: No, ninguno, más que yo.
+E1: ¿Y entonces, por qué se ha...? No sé. Pero... Ah, bueno, claro, que nació a los cinco años...
+I1: Sí, vaya, yo vine aquí con cinco años, pero, bueno, aquí me he criao; pero los demás, nada, trabajan en Vitoria, por áhi s'han casao.
+E1: Ah, o sea que han pasado un poquillo del pueblo, ¿no?
+I1: Sí, sí, en el pueblo han estao, oye, pues unos hasta doce años, otros hasta catorce... pero s'han pirao todos. [HS:E1 [Asent].] Vienen... bah, pues vienen fines de semana, vienen igual cuatro o cinco, nos juntamos aquí hermanos, pero... prácticamente nada. Viven fuera.
+E1: |T21| ¿Le gustaría viajar? ¿O ha viajado mucho?
+I1: Yo, viajar he hecho poco, pero sí, eso ya me gustaría.
+E1: ¿Sí? O sea, que otra cosa que haría, ¿no?
+I1: Sí, sí, viajar, sí, y... [HS:E1 ¿Conoce el mar?] El mar sí, pero le tengo miedo al agua.
+E1: ¿Por?
+I1: Nada, yo [OTRAS-EM] a mí si me mandan ir a la playa, si me dan, pagan unas vacaciones para ir a la playa, y tengo que po-, ir al monte y pagarlas yo, prefiero pagarlas que ir a la playa y me paguen. [HS:E1 [Asent].] A mí me ha gustao mucho por áhi las ferias y el ganao y eso. [HS:E1 [Asent].] Yo por ahí, el verano, si puedo quince días o diez, tres o cuatro amigos, pa Asturias, pa Galicia, pa Huesca, pa onde sea, a pasar una semana o... hasta que se acaben las perras. A ver las ferias: a mí el ganao lo que me ha gustao, lo que más.
+E2: |T7| ¿Y sigue habiendo ganado aquí o...? [HS:I1 Que no,]
+I1: no tengo más que ocho o diez cabras, y, y hace dos meses maté la última vaca que tenía. [A-Inn]. [HS:E1 ¿Y qué hizo con]
+E1: esa vaca?
+I1: ¡Matarla!
+E1: ¿Pero no se la comen o...?
+I1: Matarla el matadero, o sea, ya se la habrán comido.
+E1: ¡Ah!
+E2: Se vende.
+I1: Se vende, vaya. Al, al carnicero se la vendí.
+E1: O sea que aquí no hacen la, la típica matanza de los pueblos, ¿no?
+I1: No, no, no, ya no se matan ni cerdos. Antes se solía matar, pues, un par de cerdos en to las casas, y ahora nada, [HS:E1 [Asent].] nada.
+E2: ¿Y cómo, que se ha perdido esa costumbre?
+I1: Se ha perdío, sí. Yo creo que estos tres o cuatro años, igual no sé, no sé si matará un vecino, no sé si matará un vecino... pero lo demás, nadie. Y antes se mataba, pues todos, igual dos o tres.
+E1: ¿Y entonces la carne y todo eso dónde la compra? [HS:I1 Pues la compran]
+I1: en Vitoria. [HS:E1 Ah.] O muchos igual, ahora se va cogiendo mucha costumbre, de igual entre un par de ellos, matar un ternero, [HS:E1 [Asent].] y al arcón: muchos hacen eso ya, la mayor parte.
+E1: Al arcón, ¿qué es el, qué es el arcón?
+I1: Un fri-, frigorífico..., una óspera de esas, [HS:E1 [Asent].] donde se conserva la carne igual un año o dos. [HS:E1 Así, muy grande, cuadrado...] Grande, grande, sí, sí, cabe, fíjate, un ternero que pesa cuatrocientos kilos, la mitad cabe tranquilo, y sobra sitio, [HS:E1 [Asent].] o sea que, mira. Muchos hacen eso ya. Eso se va haciendo, así como el cerdo ya no se mata, ya s'ha perdío la costumbre esa, [HS:E1 [Asent].] se ha cogido esa otra, que antes terneros y así no se mataba nunca, así en el pueblo.
+E1: |T11| ¿Se sabe algún dicho de aquí, de por aquí? [HS:I1 ¿Eh?] Algún dicho, algún refrán... que se le venga a la cabeza.
+I1: Pues [LT-Rfn: Alavés, falso y cortés,] [Rndo: eso es lo único que puedo decir.]
+E1: Otra cosa: [OTRAS-EM] usted, usted, usted supongo que se casaría, ¿no? O es soltero. [HS:I1 No,]
+I1: estoy soltero.
+E1: Ah, ¿y qué opina sobre la, lo, el matrimonio?
+I1: Me cago en diez, pues ahora, que... lo mejor, que no se casen: que s'hagan amigos y si, por si se divorcian los mitad, [HS:E1 [Asent].] los mitades, y luego no andan na más que con líos. [HS:E1 [Asent].] Yo cre-, yo, si alguno me aconseja, digo: "No te cases, arrímate y así cuando te rindes, se...". Si se casan cien, se, se apartan cincuenta fácil, [HS:E1 [Asent].] fácil, yo creo. Pos, mira, así menos trabajo, menos líos tienen. Creo yo, vamos.
+E1: Sí. O sea que no tiene hijos.
+I1: No, no, no. No tengo, no.
+E1: |T14| [Asent]. ¿Cómo son aquí las bodas? ¿Cómo son aquí las bodas?
+I1: Bah, pues las bodas, aquí normalmente no se casa nadie. Vaya, se casan en Vitoria, o en Estíbaliz o... por áhi. Si alguno se casa, por el juzgao; si se casan por el juzgao, sí, pero lo demás. [HS:E1 [Asent].] Los más de la iglesia, yo no me acuerdo cuándo ha habido una boda aquí. No me acuerdo, igual hace... [OTRAS-EM] qué te iba a decir, treinta años. [R-Anm] [A-Crt] En Vitoria seguramente, y los chavales también yo creo que van casi todos a, a la escuela, a Vitoria; los de aquí del pueblo ya van a Alegría.
+E1: |T1| ¿Recuerda cómo...? Usted ha estado en alguna matanza, supongo, ¿no?
+I1: ¿Matanza?
+E1: Sí.
+I1: ¿De qué, de...?
+E1: De cerdos.
+I1: Me cago en diez, alguno les he tenido.
+E1: ¿Sí? [HS:I1 Bah.] ¿Cómo quitaban el pelo?
+I1: ¿El pelo? Pues se les, primero, se les quemaba con helechos, que se llama... unas plantas que salen en el monte que se cortan en septiembre, se secan a la sombra, [HS:E1 [Asent].] y luego se les, cuando se mataban, se les echaba por encima, se les daba fuego, y luego en caliente se les raspaba lo mayor, mayor pelo; y luego con agua caliente, un poco, lo más fino. Hasta que se quedaba como afeitao. [HS:E1 [Asent].] Igual que un afeitao.
+E1: ¿Y luego qué se hacía con él?
+I1: ¿Luego? Pues a quitarle las tripas; se le colgaba así un, un palo en una escalera que llamamos, se le colgaba de atrás, con un ramal. ¿Sabes pa qué... se le ataba de atrás con un ramal?
+E1: Para que... No sé.
+I1: Pa que no lo muerda.
+E1: ¡Ah!
+I1: Si se le atas del morro, no muerde.
+E1: Ah, ya, ya.
+I1: Y se le sacaban las tripas y... los menudos, que le llaman, los hígados y todo eso, [CHASQ] y luego se le dejaba una noche al sereno, o sea sin hacerle nada. Y al otro día, pues nada, matarlo o hacer los magros, los jamones, el tocino, los chichiquis y... Cuando se mataba, se hacía en el día que se mataba las morcillas, y luego al otro día ya se hacía... [HS:E1 ¿Y cómo hacían]
+E1: las morcillas?
+I1: Cocía arroz; echabas manteca del cerdo y cebolla y... especias, no sé qué de, bah, [OTRAS-EM] de, algunas chorradas de eso, perejil, y, bah, revuelto con la sangre. Y luego tiene los intestinos del cerdo, los lavaban, [HS:E1 [Asent].] y luego les, le metían eso, y después se cocían en una caldera, con agua, [CHASQ] y ya está hecho, sin más, ya está la morcilla.
+E2: ¿Le gustaría que se siguiera haciendo?
+I1: A mí, sí. Yo, fíjate, yo soy de esas cosas muy... pues no sé, que me gustan esas cosas antiguas. Yo hay en un sitio, por ejemplo, que guisan así [A-PIn: matanzas y eso,] me voy allá. Yo casi to los domingos voy a Marieta a almorzar, [HS:E2 [Asent].] porque ahí, toavía en, en el bar que hay, eran, pues ya hace treinta o cuarenta años, eran... vaya, tenían vacas y eso, bah, y pusieron bar, y toavía matan cada ocho o diez días matan un cerdo o dos, y allí hacen chorizos como los que se hacían aquí hace... veinte años o treinta, [HS:E1 [Asent].] con pimiento y, y yo, ya te digo, casi to los domingos voy a almorzar allí.
+E1: ¿Dónde está Marieta?
+I1: Aquí... El pantano. ¿Sabéis? Landa.
+E1: ¿Landa?
+I1: Sí. ¿De ónde sois vosotros [A-Inn] la pregunta? [HS:E2 De Madrid.]
+E1: De Madrid
+I1: ¡Ah! Bueno, [A-Inn].
+E1: Somos unos desconocidos.
+I1: Por eso. [HS:E2 Da igual.] No, por eso me extrañaba porque si seríais de aquí de Vitoria, yo creo que supierais algo de estos pueblos que están al lao. Ya, ya, bueno, si sois de Madrid, entonces me callo. [HS:E1 [RISA]] Pues está, ese pueblo está de aquí a... en línea recta hay... diez kilómetros, más o menos: hay que ir por esta carretera, y luego hay que, [A-Inn] hay que volver un poco pa atrás, por la general antigua, y na, está cerca. Y bueno... [HS:E1 ¿Cómo ha dicho]
+E1: que se llamaba el pueblo?
+I1: Marieta.
+E1: Marieta.
+I1: Y hay otro tamién, otro pueblo al lao que toavía matan así cerdos y hacen así, Ozaeta, al lao, vaya... a dos o tres kilómetros. [HS:E1 [Asent].]
+E1: O sea, que la carne allí es buena.
+I1: Sí, sí, es buena; y eso, que yo... me gusta eso así, me gusta. Y muchos de áhi, de la parte de Guipúzcoa, que está rayando Álava con, con Guipúzcoa, ahí Marieta, hay todos los días, bueno, to los días, entre semana no sé, pero los viernes, sábados y domingos, no hay sitio pa, para cenar o pa merendar: tienes que pedir un... dos días antes o tres porque se llena. Y cogerán pues, [OTRAS-EM] es una casa pequeña, habrá... setenta tíos pueden estar comiendo, o sea, que no es un... Pero que no hay sitio, o sea, to el mundo viene... O sea que lo antiguo, eso toavía nos gusta mucho, lo apreciamos mucho.
+E1: Claro, lo que pasa es que es muy trabajoso, quizás ya... se pierde.
+I1: Sí, es trabajoso para hacer, y eso, claro, pues eso hace falta pues ya los antiguos, porque la gente joven de hoy, la, las chicas, [A-PIn: por ejemplo], las mujeres que están casadas aquí, que tienen... veinticinco o treinta años, esas no saben ni hacer un chorizo ni hacer nada, no saben; sin embargo, la que tiene, oye, pues cuarenta y cinco o cincuenta años, pues esa toavía sigue la costumbre. [HS:E1 [Asent].] Y por eso, eso se aprecia mucho, aquí se aprecian muchos, vamos, te digo: ahí en ese bar, ahí en Marieta... ya si quieres, oye, pues, pues comer lo que quieras, pero casero de esto, morcilla, chorizo, de cerdo, chuletas y de vaca o de buey o de cordero, de todo tienen, pero... pero típico, hay chorizos y morcilla y eso. Áhi a almorzar, los, los domingos y los sábados en el bar ese, cogerán sesenta tíos más o menos, en el comedor, o los comedores que tiene; pues seguramente que tres veces se llena. O sea, primero irán pa las nueve unos, se marcharán, irán otros, y a las once o las doce toavía va gente a almorzar. O sea, que luego me figuro que ya no comen, claro. [RISAS]
+E1: ¿Y cómo va usted?
+I1: ¿Yo? En el coche, un cuñao y yo vamos to los días.
+E1: Ah... [HS:I1 To los domingos.] ¿Pero usted, usted sabe conducir?
+I1: Sí, pero yo coche no tengo. [HS:E1 [Asent].] Yo conducir sé, pero...
+E1: ¿Cuál es el... medio de transporte que más le gusta?
+I1: ¿El medio de transporte? A mí el coche. El co-, el coche, el coche pero individual, eh, no coche de línea ni hay por áhi. Yo, viajes en autobús ni hablar, no me gusta; [HS:E1 [Asent].] prefiero el tren que el autobús. [HS:E1 [Asent].] Ahora, a mí lo que me gusta es tres o cuatro, amigos o conocidos, y el coche: aquí paramos, allá arrancamos, aquí comemos... Yo, cuando solemos ir por aquí to los domingos, to los veranos, vamos pues doce días o quince, solemos ir pa Asturias y Galicia. Me gusta mucho por septiembre porque ahí hay muchas ferias y mucho ganao. Pues hoy salimos de aquí, y vamos a un sitio, y lo primero que hacemos es buscar la pensión, para dormir, [HS:E1 [Asent].] y después comer donde sea y cenar o lo que sea, la pensión | "Oye, vamos a tal sitio que es la feria", "¡Pau!". Lo primero, para dormir, y después, comer aonde pinta. [HS:E1 [Asent].] Y así solemos pasar diez o doce días.
+E2: |T7| En esta zona había antes tradición ganadera. ¿Y se ha perdido?
+I1: Sí, sí, sí. Aquí... hasta hace... pues treinta años, hasta que se modernizó esto, que vinieron las maquinarias, los tractores y eso que... No se ha trabajao trenta o cuarenta años, cuando se trabajaba [HS:E [TOS]] con animales, pues aquí en este pueblo... entonces había unos veintitantos que vivíamos de la ganadería y de la tierra, y había la mitá de terreno que ahora, eh, porque se la-, se labró mucho monte hace, hace cuarenta años; igual s'han labrao, pues qué sé yo... trescientas hectáreas o más, que antes no se labraba. Y to'l mundo, aquí había igual de animales, pues hubiera cincuenta o sesenta yeguas, otras tantas vacas, y cabras, igual, ochenta o cien; o sea, el uno tenía doce, y el otro, veinte, el otro | y había un pastor que cuidaba a todos, que era esa casa de ahí, era de un pastor: o sea, era del pueblo, [HS:E1 [Asent].] y siempre ahí se le daba la casa gratis, y se le pagaba un sueldo, y cuidaba el ganao de todos. Cada uno pagaba según los que tenía, [OTRAS-EM] a, a, a dos pesetas o tres o a lo que... correspondía, y... Pero ya se perdió, cuando vinieron la maquinaria, ya se, se quitó la ganadería, [HS:E1 [Asent].] la, la mayor parte; algunos hemos resistido algo, que nos ha gustao y eso. Yo, hasta hace cinco o seis años, he tenido yo novillos y eso, siempre guardaba veinte o treinta novillos, o sea, porque me ha gustao, pero algunos que les ha gustao, también hace tiempo que lo han dejao ya.
+E1: Novillos, ¿a qué se refiere, a toros?
+I1: A terneros de estos que cuando tienen un año se matan.
+E1: Ah, vale, vale.
+I1: No, toros no, no, no.
+E1: Ya, ya, ya.
+I1: O sea, para carne. O sea, [HS:E [A-Inn].] se crían con las vacas en el campo, yo he tenido ahí unos praos, y cuando tenían seis meses o siete, se les quitaba de mamar y se les, se les traía al cebadero, o sea... a la cuadra, a darles pienso. Y luego, al año o así, pues se mataban; bueno, o algo más, o algo menos, depende.
+E1: Dígame: ¿la, el, la leche que consumen aquí...?
+I1: Bah, esa toda del mercao.
+E1: ¿Ah, ya no es leche...? [HS:I1 Qué va,]
+I1: qué va. Hará... igual hace dos meses o así, que uno tenía una vaca, ha tenido siempre, y tenía la, una vaca para él, y para, si, si le sobraba leche, y le daba a tres o cuatro vecinos; pero, hace poco, la que ordeñaba la vaca es una que tiene sesenta y cinco años o, o... casi setenta, pues tuvo que ir al hospital: estuvo... lo menos quince o veinte días, y mientras estuvo, el marido le cogió, le vendió la vaca pa que no tenga, porque no quería que, tener, por trabajo, vaya. [HS:E1 [Asent].] O sea, ahora no hay ni una vaca en el pueblo. [HS:E1 [Asent].] [HS:E2 No hay.] Ni una.
+E1: Hombre, alguna mujer así gordita habrá, ¿no?
+I1: No... cago en diez, que se cuidan mucho, eh. [HS:E [RISAS]] ¡Dios...! Se pegan cada paseo por áhi de la órdiga.
+E1: Ya no comen tocino, entonces.
+I1: Ya, ya. Me cago en diez, tocino: no comen ni, ni, ni..., igual que los moros ya.
+E1: ¿Sí?
+I1: Joder, no comen tocino, ya, ya. Aquí, pues que hay cinco o seis mujeres jóvenes, bueno, jóvenes, que tienen treinta años o treinta y cinco; pues esas se pegan por ahí to los días, haciendo, bueno, cada caminata de, que andan ocho o diez kilómetros to los días, de paseo, pa no engordarse. [HS:E1 [Asent].] [HS:E2 [RISA]] Sí, sí. [HS:E1 ¿Cuántos habitantes hay]
+E1: en este pueblo?
+I1: Me cago en diez. pues eso sí que no te puedo decir.
+E1: Aproximadamente, no hace falta.
+I1: Me cago en diez, pues no sé, porque ahí en los chalés yo no sé los que hay, yo no sé los que hay ahí. Porque hay igual veinte chalés y yo no sé si hay diez personas, o cinco, o tres en cada chalé. No te puedo ni decir, eso no tengo ni idea.
+E2: Pero ¿no es, no es gente que vive aquí?
+I1: Sí, sí, esos viven aquí, pero...
+E2: Y trabajan en Vitoria.
+I1: Trabajan en Vitoria: trabajan o estudian o lo que sea, sí, sí. Estos... tres o cuatro, ya te digo, que no sé los que hay; ahí hay ocho o diez chalés, y no sé si hay veinte o hay cuarenta personas.
+E1: |T6| Y el aceite también, ¿no?, del supermercado.
+I1: Sí, sí, sí, aquí no se produce na: aquí, patatas, y alguno... Alguno, pues los que somos así del pueblo, pues igual tienes una docena de gallinas pa tener huevos; lo demás, nada. [HS:E1 [Asent].] Aquí todo... Hala, igual que la capital, a comprar por ahí a los supermercaos, o al Eroski, o a las tiendas, y luego to los días, o sea, una vez a la semana viene, viene uno, [OTRAS-EM] viene con una furgoneta, y ese trae de todo: chorizos, tomates, guindillas, aceite; o sea, a vender por los pueblos, pero vende nada más por los que somos de, de siempre, de labradores: a los chalés y así no va nunca.
+E1: Ah... [HS:I1 Viene por...] ¿Y el pan?
+I1: |T2| El pan, viene to los días un panadero. [A-Inn] Alegría, que recorre, coge de Vitoria, pero pues aquí repartirá en quince o veinte pueblos, o no sé; no sé cuántos, pero, vaya, [HS:E1 [Asent].] viene to los, bueno, los domingos no viene, pero los demás, to los días.
+E1: ¿O sea que el panadero viene aquí todos los días?
+I1: Sí, sí, el panadero sí. Y el pesquero también viene dos días a la semana, un pesquetero que hay ahí en Alegría: viene con una furgoneta, con un frigorífico, vaya, bien preparao, y viene dos veces a la semana. [HS:E1 ¿Y la carne?] La carne... pues aquí, en Alegría, hay también una carnicería, y si no, pues en Vitoria. De Vitoria, [HS:E1 [Asent].] [A-Inn] está a un paso.
+E1: |T21| ¿Ha estado alguna vez en alguna capital?
+I1: Pues sí, he estao.
+E1: Pero grande, grande.
+I1: [A-PIn: Pues] en la que más grande he estao es donde sois vosotros.
+E1: ¿Madrid? ¿Y qué opinión tiene de Madrid?
+I1: Buah, que yo allí, de mayo pa alante, no quisiera vivir.
+E1: ¿Por?
+I1: Por el calor. [HS:E1 Ah...] Por el calor, no por la gente ni por nada. Buah, he estao varias veces. Yo tengo primos en Madrid, y tíos. yo en la feria el campo he estao muchos años, [HS:E1 [Asent].] pero la, ¿sabes cuándo estaba a gusto?
+E1: ¿Cuándo?
+I1: El año que iba a Madrid, que andaban los de Madrid con la gabardina.
+E1: Ah, en [A-Nul]. [HS:I1 Pero el año]
+I1: que iba a Madrid y andaban los madrileños con esas chaquetas que no tienen forros, ¡ay, Dios! Con la lengua así to el día yo. Buah. Ahora, el año que hacía con la gabardina, con el jersey al hombro: buah, qué bien se andaba por allá, a la noche. Pero como hacía calor, yo al calor le tengo mucho miedo.
+E1: |T22| ¿Y el frío aquí cómo lo pasan?
+I1: ¿Eh?
+E1: El frío aquí.
+I1: Buah, el frío... el frío no hay miedo.
+E1: ¿No?
+I1: No, no, el frío nada. Oye, pues, en casa, calefacción pues tenemos to el mundo. Y luego pues, oye, si puedes beber vino, vino, y copas, y quitas el frío como sea.
+E1: |T19| ¿Y cómo pasa los, los ratos así... de ocio?
+I1: Pues mira, yo de ocio tengo bastante itinerario. Yo estoy solo; los martes viene una hermana, y los jueves y los viernes, y hasta el lunes no se marchan, mi hermana, el cuñao y los sobrinos. [HS:E1 [Asent].] Y el lunes, normalmente, no me suelo mover de casa. Me doy dos paseos por ahí. Y los martes casi voy a Alegría a almorzar; el miércoles, descanso; el jueves, a Vitoria to los días, a almorzar [HS:E1 [Asent].] con la cuadrilla de... pues ya hace cuarenta años que andábamos [OTRAS-EM] mercao y eso, pero ahora ya, pues tos jubilaos, y para comer, a casa. Y el viernes, pues igual si llega el caso, también hago una escapadita, o lo mismo estoy en casa. El domingo, a ese pueblo almorzar, y así paso la vida.
+E1: ¿Las cartas?
+I1: Las cartas sí, pero... aquí no jugamos, aquí no jugamos. Yo, si voy por áhi, pues echo una partidilla cuando vamos a almorzar los jueves, pues muchos días | algunos días igual, porque se... charlando igual se hace la hora y no hay tiempo, [A-Inn] una partida que [OTRAS-EM] no te juegas una copa o... nada, vaya, pasar el rato.
+E1: ¿Y a qué juegan aquí?
+I1: Al mus, normalmente; al mus y al tute, [HS:E1 [Asent].] pero lo que más, al mus.
+E1: ¿Y pierde muchas copas o no?
+I1: ¡Que no, que no! [HS:E [RISA]] Si no jugamos nada, hombre, no.
+E1: No, me refiero que si pierde todos los días. [HS:I1 ¡Ah!]
+I1: No, bah, pues unas veces se pierde, y otras se gana, pero nada, jugar, nada: nunca nos jugamos nada.
+E1: ¿Es muy farolero jugando al mus o no?
+I1: Buah, pues un poco sí. [HS:E [Asent].] Alguna vez, cuando hacemos alguna meriendilla, pues nos solemos jugar algún décimo de lotería o así. Entre cuatro o cinco, igual, igual nos juntamos diez o doce, hacemos cuatro o cinco de esas sonadas; bueno, sonadas: comer, matamos un cabrito o lo que sea por áhi, lo mandamos para onde sea, y luego ese día, si se nos [A-Inn] día nos jugamos al mus, pues igual un... un par de décimos de lotería, entre, bah, cuatro; si estamos diez o doce, pues cuatro, cinco, cuatro, o siete décimos, según los que sean; el que pierda, a pagar. Pero lo demás no; con dinero no, no, no se, aquí...
+E1: Vamos, que no se juegan las tierras ni los tractores ni nada de eso. [HS:I1 No, no, no. Eso no.]
+I1: [OTRAS-EM] Hace muchos años ya había algo costumbre de eso. Bueno, aquí... no, pero por áhi por esos pueblos pa la parte de Burgos y por áhi, decían, ¿eh?, yo no he visto, jugarse, bah, los tractores entonces no había, pero parejas de bueyes y eso, sí, se jugaban. [HS:E [Asent].] Por áhi, por la parte de Vitoria pa la parte Miranda, decían, vamos, yo no he visto nunca... jugarse, vamos. Y en Vitoria sí había mucha costumbre de esos pueblos por áhi: los jueves... algunos se jugaban la tela, eh. Y ahora todavía dicen; yo, yo, a mí nunca m'ha gustao jugar dinero, [HS:E1 [Asent].] pero toavía... debe haber costumbre de algunos que van a las cuatro o a las cinco, van al bar, y... allá se ponen ciegos; allá juegan la, la, la tira. Pero... vamos, no hay mucha, mucha afición no hay, pero toavía gente así bastante mayor, por áhi de, de Vitoria y de los pueblos ya juegan, sí, pueblos... [HS:E2 ¿Sí?] Sí, to los días, hay muchos que to los días. Tengo un cuñao... de aquí, de un pueblo de al lao, ese viene, to los sábados viene aquí, a darse una vuelta con los perros por áhi, de paseo... o sea, le gusta venir al pueblo, pero los demás, todos los días, to los días va a echar la partida: a las tres, a echar la partida, hasta las siete, to los días del año tiene que jugar. [HS:E1 Jobar.]
+E1: ¿Y no se echa la siesta entonces?
+I1: No, no, no, no, no echa, bah, está jubilao, no... le queda nada. Pero to los días dice que va a echar la partida. [HS:E1 [Asent].] Todos los días, de las tres a las siete. [OTRAS-EM] No sé a qué jugará, [A-Inn] jugará, jugarán [A-Inn] un café, una copa o, vaya... [HS:E1 Sí, bueno...]
+E1: O jugar por jugar, para... divertirse. [HS:I1 Sí, no, no, pero sí, alguna perrilla también ya se juegan.] ¿Sí?
+I1: Sí, bue-, pero se jugará, oye, pues un duro a tres ochos, o alguna tontada, que si quieres... Pero todos, tos los días. Y todavía hay ahí gente así, de esa... Gente joven no sé, pero gente mayor, sí.
+E1: |T5| [Asent]. ¿Y cómo diría que es la zona: es una zona pudiente? O sea, quiero decir que si es una zona rica o...
+I1: No, pues está de entre medio: [HS:E1 ¿Sí?] ni... ni rica ni, o sea, hay peores y hay mejores; [HS:E1 [Asent].] hay peores y mejores.
+E1: Supongamos que le tocase la lotería. ¿Qué haría?
+I1: Me cago en diez. ¿Sabes lo que haría?
+E1: Dígame.
+I1: Pues... comprar veinte o treinta vacas y echarlas a los praos, y andar de feria en feria por áhi. [HS:E [RISAS]] A joder to lo que puedo, porque ya tengo pocos años de vida creo, vaya. [HS:E1 Pues...] Eso haría. [HS:E1 [Asent].]
+E2: ¿Y si fuera el alcalde de aquí, del... de este pueblo?
+I1: ¿Cómo?
+E2: Si fuera el alcalde, ¿qué haría aquí? ¿Qué cambiaría?
+I1: Ah, bueno, si fuera el alcalde, entonces ya haría algo por mejorar el pueblo, o sea por, por estar un poco más cómodos. Algún bar pa ir a echar la partida, o algún centro de esos, [HS:E1 [Asent].] o alguna cosa de esas, sí.
+E2: Algo se le ocurriría.
+I1: Sí, sí, sí, eso sí. En el pueblo, que se quedaría algo, que se acordarían.
+E2: [Asent]. ¿Y por qué no, y por qué no lo hace, no lo...? [HS:I1 Porque no tengo pasta, joder. ¿Cómo... [A-PIn: voy a hacer]?] No, no, no: que por qué no lo proponen al alcalde que haga un...
+I1: Bah... si, ¿no ves que se anda mal de dinero aquí? [HS:E2 ¿Pero qué tienen,]
+E2: el alcalde aquí o es un alcalde de otro pueblo...? [HS:I1 Es un alcalde,]
+I1: es un alcalde de un pueblo, pero luego entre ocho o diez pueblos hay otro alcalde, que se llama de ayuntamiento, [HS:E2 [Asent].] que eso administra lo del ayuntamiento, pero el del pueblo administra lo que es el terreno del pueblo: el terreno y los bienes o lo, o lo que sea, las costumbres o lo que fuese.
+E2: ¿Y el alcalde... aquí es el de Alegría? ¿Y el del ayuntamiento...? [HS:I1 No, no, no, no.]
+I1: No, no, [HS:E2 ¿Dónde está...?] este es otro ayuntamiento. Está al lao, pero Alegría es uno y este es ayuntamiento Elburgo, este tiene cinco pueblos, de... vaya, todos son pequeños. Pues sí, hombre.
+E1: ¿Le gusta ir al cine?
+I1: No.
+E1: ¿El teatro?
+I1: Tampoco. Ayer hubo aquí un teatro. [HS:E1 ¿Sí?] Me cago en diez, bah, de esos, un teatro... de esos, bah, no sé si eran moros o... bah, no se les entendía, bah, pero un desguace trajeron, no sé cómo les dejaron venir: trajeron unos animales que me daba pena el verlos. [OTRAS-EM], trajeron igual ocho yeguas o doce o no sé cuántas, y un camello que tendría, creo yo, que un día más que el sol, y fíjate los que tiene. [R-Vhc] ¡Bah!, matao... [OTRAS-EM] lo pasaron por áhi; fueron a un prao, que tengo yo derechos, parece que sabían, to los animales allá, y un camello, tos andando de las, de los cascos. [OTRAS-EM] Bueno, bueno, no sé ni cómo les dejaron traer, porque esos no puen traer más que epidemias aquí a, a... a los pueblos. Ya digo, sería más viejo... más que el sol. ¡Me cago en diez! En cuanto llegó al prao, se tumbó, comió así lo que le llegaba... se le levanta otra vez, se cae, y a comer. O sea, no comía de pie, tendría aquel más años, bah, ni sé, ni sé, ni sé; no sé, ya digo, estaba atao, no sé ni cómo, cómo les dejan traer esos animales aquí, no sé, cómo sanidá no, no, no les pone, porque esos no puen traer más que alguna cosa mala si quieres. [HS:E1 [Asent].] Y nada, [A-Inn] trajeron unas, unas llamas y unas cabras, [A-Inn] [A-PIn: qué sé yo], un desguace de eso, nada, nada, bah, nada, de eso nada.
+E1: Por lo que veo, le gusta mucho los animales. ¿No le, no le gustaría si fuese joven estudiar veterinaria?
+I1: Hombre, pues eso igual sí, eso igual sí.
+E1: Y aunque seamos malos estudiantes y tal, bueno... con un poquito de gusto... [HS:I1 Eso igual se me quedaría más fácil que otras cosas,]
+I1: me creo yo. [HS:E1 [Asent].] A mí eso m'ha gustao mucho. M'ha gustao, vaya, el ganao, vaya, estudiar no, pero yo, los animales, localizarles lo que tienen, muy fácil les hago, eh. [HS:E1 [Asent].] O sea, ahora, ¿qué inyección hay que darles? Pues si tengo de otras... más antes las referencias que les he dao, pues compro como aquella, pero más, ahora se va modernizando y si ha salido una nueva, pues no lo sé, [HS:E1 Ah...] pero yo localizarle lo que tiene este animal, no... me quiero tirar así, pero habrá algunos veterinarios que igual han hecho el estudio y no saben lo que tienen, y yo les digo: "Este animal tiene este".
+E2: Se le hubiera dado bien, vamos.
+I1: Yo creo que sí, vamos, no sé; ahora, pa estudiar he sido malo.
+E1: Ah, o sea que usted nunca, los animales suyos nunca han pisado un veterinario, ¿no?
+I1: Sí, sí alguna vez, sí, ya...
+E1: Al principio, y luego ya...
+I1: No, no, pero, yo muchas veces, hubo aquí un veterinario en Alegría, [A-Inn] veinticinco o treinta años, pues yo le veía algún animal que tenía malo por lo que sea, y iba y le decía: "Oye, que tengo una vaca o un... caballo o un buey o que...". Y me decía: "¿Qué tiene?". Digo: "Pues creo que tiene este". Y antes de venir me recetaba, pa que, antes de venir él a verlo me recetaba, había farmacia ahí en Alegría, y traía la medicación pa darle, muchas veces. [HS:E1 [Asent].] Y, vamos, algunos veces había partos difíciles y eso, pues... pues había que llamarles y, y hacer cesáreas y eso, pues yo... de eso nulo.
+E1: ¿Cómo, cómo? ¿El qué?
+I1: Hacer la cesárea a las vacas, [HS:E1 Sí, sí, sí, sí, sí, sí.] que a mí no me digas que le haga una cesárea a una vaca, [HS:E1 Ya, ya.] porque no lo sé, vamos, [HS:E1 No, claro.] no lo sé, pero... [A-Crt]
+E1: |T19| ¿La pelota no le gusta?
+I1: Me gusta ver, o sea... [HS:E1 ¿Jugar nunca?] No, bah, antes cuando éramos chavales algo ya jugábamos ahí en una paré de la iglesia, pero lo más no. [HS:E1 [Asent].] Más ahora los par-, eso ya me gusta: la pelota, si puedo... si hay algunos partidos un poco buenos, los veo en la tele. [HS:E1 [Asent].] Y a Vitoria alguna vez también hemos, [A-Inn] pero, na, hay cuatro partidos aquí en Vitoria. [HS:E1 [Asent].] Eso ya me gusta.
+E1: ¿Y de qué equipo de fútbol es, o no le gusta?
+I1: El fútbol no, el [A-PIn: fútbol, oye, pues] hay partido, lo estoy mirando en la tele si estoy en la cocina o lo que sea, pero que no... no me va; [HS:E1 [Asent].] o sea, prefiero que, por ejemplo, pues que gane el Alavés, como jugó el otro día, y cosas de esas, pero vamos que no, no soy, no soy... por ningún partido; igual me da que gane el Madrid que el Barcelona, que el que sea.
+E2: ¿El partido del miércoles entonces no le va a ver? [A-Nul]. [HS:I1 ¿El...]
+I1: el miércoles? Pues depende.
+E1: ¿No sabe quién juega, o sí?
+I1: Pues no. [HS:E1 ¿No?] Pues no, no me acuerdo quién juega, que ya te digo que es, que no tengo...
+E1: Es la final de la copa de Europa.
+I1: Sí, el otro día sé que [A-InfErr: gallaron], ganaron los gallegos.
+E1: La liga.
+I1: La liga, o la [A-Inn]. Pero que ahora... que, que no, que yo no [A-PIn: veo] el fútbol; ya, ya te digo que si estoy así y veo, pues, pues me gusta ver, pero que, que no me gusta, no pierdo yo, no doy un paso por ir a ver un partido. [HS:E1 [Asent].] No me...
+E1: Y entonces la televisión no la ve, entonces, ¿no?
+I1: La televisión no, la veo muy poco. El parte, que suelen... los partes que dan del tiempo y de... lo que pasa y eso, a poder ser, sí. Y alguna programa que haya así ahora... el cincuenta por quince, o el... programa que hay ahora a las ocho, me parece que hay, el cincuenta por quince o... no me acuerdo cómo se llama. Alguna chorradilla así, [A-Inn]. [HS:E1 [A-Inn].] Películas y eso, nada, cero.
+E1: ¿Por?
+I1: Que no me gustan.
+E1: ¿Entonces por la noche qué hace, dormir?
+I1: |T10| Por, por la noche a hacer los rezos, y luego a la cama. [HS:E1 ¿Ah,]
+E1: reza?
+I1: ¡Hombre, no! ¿Qué te crees? [HS:E1 Sí...] Que hay que guardar las costumbres de antes.
+E1: Ah, yo no lo sabía. [HS:I1 ¿Ah, no?] A mí es que mis padres no me han enseñado a rezar, [HS:I1 ¿No te han enseñao?] entonces no rezo. Nada. [HS:I1 Joder.]
+E2: A algunos sí, a algunos sí.
+I1: O sea, que... allí a misa no vais nunca.
+E1: Sí, hombre. Yo he hecho la comunión, [HS:I1 ¿Ah, sí? Ah, bueno...] y soy católico. [HS:I1 Bueno, bueno, joder.] Pero que, que se ha perdido esa costumbre. Me acuerdo de pequeño, las, las cuatro esquinitas y todo eso, pero no...
+I1: [RISA] Sí, aquí también se ha perdido, y en las capitales más, bah. Aquí vamos a misa, el más joven que, que va, igual... bueno, uno que tiene, tendrá cuarenta y cinco años o cincuenta, y la mujer. Los demás todos de sesenta y cinco, setenta o ochenta. [HS:E1 [Asent].] No, lo más, gente joven no; vaya, si hay algún funeral o alguna cosa de esa, sí, pero lo demás. [HS:E2 [A-Pau: ¿Y usted dónde va, a la iglesia esta o...?]] Sí, sí, sí, a la iglesia. [HS:E2 Viene el cura aquí.] Sí, sí, sí, los domingos viene, [HS:E2 [Asent].] los domingos, to los domingos.
+E1: ¿Es muy grande la iglesia de aquí?
+I1: Sí, me cago en diez, ahí caben tos los moros que hay en, en, en África, yo creo.
+E1: Pues ya caben entonces, ¿no?
+I1: Bah, es que este pueblo ha sido muy grande hace, hace muchos años. [HS:E1 [Asent].] Era vi-, [HS:E1 Co-,] villa.
+E1: Ah. ¿Cómo combatiría usted el hambre del mundo?
+I1: Pues... ¿el hambre del mundo? Oye, pues, pues, el hambre del mundo... hay que competir, pues, oye, produciendo fuerte y... y mandar donde no hay, donde no hay comida. [A-Crt]
+E1: Ya que... ya que nos está invitando a unas cervezas, ¿qué, cuál es la bebida típica de aquí?
+I1: Venga, venga, sentaros, sentaros, joder. [R-Ind] ¿La vida típica de aquí?
+E1: Sí.
+I1: |T11| Pues qué te voy a decir yo | siéntate áhi, ¿o quieres que traiga una silla? [HS:E2 No, no, gracias.] Bah, pues aquí la vida típica... prácticamente, oye, cada uno vive ya casi muy individual. No es como, como hace... cuarenta años que llegaba el domingo y te juntabas todos en el bar a echar una partida, unos juegos de bolos, [HS:E1 [Asent].] pero la gente joven, oye, pues el uno se marcha... al cine si le gusta, el otro marcha por ahí a... donde sea, y prácticamente aquí los del pueblo así ya no se hace... [OTRAS-EM] Se vive muy individual. [HS:E1 [Asent].] Muy individual.
+E1: |T2| ¿Y el, el pacharán se consume mucho aquí?
+I1: Sí, es una bebida que como se hace aquí, [HS:E1 [Asent].] como hay pacharanes, se recoge.
+E1: Sí.
+I1: Pues se hace, sí.
+E1: ¿Y dónde sacan la endrina?
+I1: Pues ahí hay... ar-, [OTRAS-EM] matós, hay árboles, o sea, por aquí, aquí mismo, en las fincas y eso. [HS:E1 [Asent].] Y en el monte.
+E2: Pero eso es una, [OTRAS-EM] también esa bebida la suele hacer también en la familia, ¿no?
+I1: Sí, sí.
+E2: La gente no la compra, sino que se suele hacer...
+I1: No, no, eso se hace normalmente, sí, sí, la familia, en casa se hace. Bueno, también se vende, ¿verdá?, pero... los pacharán esos que se compran por áhi, que si son Zoco, que si son esto, nada, aquí se hace de la pura endrina: se compra el anís o la cazalla o cada uno como le guste, y... se hace.
+E1: Ah, y luego se fermenta con endrina el... el anís o... [HS:I1 Sí,]
+I1: eso se... Cuando están las andrinas maduras, [A-PIn: que suelen madurar] en septiembre normalmente, octubre, se recoge; por ejemplo, se echa, en una botella de un litro, se echa la mitad de andrinas y lue-, y luego se le llena pues con anís, según que el que, la marca que quieras: bueno, malo, peor o mejor; y algunos les echan algo de cazalla, revuelto, según. Y luego a los...
+E1: ¿La cazalla qué es: orujo?
+I1: No, orujo es otra cosa.
+E1: ¿Y cómo se hace la cazalla? ¿Qué es la cazalla?
+I1: La cazalla es una cosa parecida al orujo, pero es diferente: también sacan de la, de la uva, vamos, y luego... [HS:E1 De la madre, ¿no?] Sí, y eso... pues a los quince o veinte días ya está hecho ya. [HS:E1 [Asent].] Quince o veinte días: si están las andrinas muy maduras, los aranes, se hace el pacharán más pronto; si están un poco más verdes, les cuesta igual ocho días más o, o diez. Pero cogiéndolos maduros, en diez días está el pacharán ya bueno. Y luego a la vuelta de... están hasta dos meses o así, y luego ya se quita, porque si no, el hueso le da un deje al, al, al pacharán.
+E1: Amargo, ¿no?
+I1: Sí, un poco como ácido; hasta los dos meses: luego ya, se les quita el pacha-, o sea, los aranes, y ya pues el pacharán igual que el... que el coñá. [HS:E1 [Asent].] [A-Crt]
+E1: |T14| ¿Nunca ha estao enamorado, así con... indicios de casarse?
+I1: Me cago en diez, sí, pero que he tenido mucho miedo a la vida. [HS:E1 ¿Y eso?] [OTRAS-EM] Porque m'ha gusto mucho la juerga. [HS:E1 ¿Sí?] Sí. Y, me cago en diez, cuando tenías un duro... un rato a bailar, y luego, medio borrachera.
+E1: [RISA] Y claro, eso a las mujeres no... [HS:I1 Me cago en diez.] no lo aguantan, ¿no? [HS:I1 Ya iba tan...]
+I1: |T10| Pero, y aemás que antes, me cago en diez, ibas áhi a... a los pueblos por aquí que había eso en mis tiempos... me cago en diez, y las, y las chicas, pa cuando era de noche, ya iban a casa, porque si no el cura, me cago en diez, las tenía así. [HS:E2 [OTRAS-EM]] Antes mandaban los curas en to las chavalas. [HS:E1 ¿Sí?] Sí, sí, sí, sí, aquí... cuando yo tenía veinte o treinta años, o quince, aquí to las... si había quince o veinte jóvenes en el pueblo, pues iban a Alegría al baile, o a un baile, pero pa cuando era de noche, a casa. [HS:E1 [Asent].] O sea...
+E2: ¿Qué, qué mandaba: el cura, [HS:I1 El, el cura...] el alcalde y el guardia civil?
+I1: Aquí mandaban, lo que más, el cura, y los guardias. Yo he vivido siempre con miedo. Cuando era chaval, al maestro y a los padres... y, y al cura. Y después, cuando era mayor, al cura y a la Guardia Civil. Al padre ya no le tenía miedo, y al maestro, tampoco.
+E1: ¿Y a la Guardia Civil, por qué?
+I1: Bah... porque eran peor que el pus.
+E1: ¿Sí?
+I1: |T11| Sí. [A-Crt] Al que mandaban, hacían to lo que querían y [A-Inn] había que [A-PIn: hacerles todo]; estábamos peor que en la cárcel, [HS:E1 [Asent].] porque aquí, aquí hubo unos años que había la Guardia Civil y estábamos así temblando. Porque los años después de la guerra no había | vosotros no os acordaréis porque no os podéis acordar, vamos, pero [A-PIn: igual ni habéis oído], se andaba mal de pan, [HS:E1 [Asent].] y aquí cogíamos trigo, pues to lo que se quería. Pero teníamos un cupo según las fincas, que teníamos que entregar tantos kilos: si teníamos... veinte hectáreas, pues a, a razón de eso había que entregar al servicio, que se llamaba, pa... pa Franco. [HS:E1 [Asent].] Y luego, pues claro, nos daban una, una ración, por decirlo así, pues a cada hijo le daban cincuenta kilos de, de trigo para hacer pan, y a los padres, cien, pero no llegaba bastante, porque entonces... cerdos ya matábamos, pero pescao y hostias no comprábamos, porque se andaba mal de dinero, y... y más hambre. Y guardábamos trigo, y luego teníamos que ir por áhi a moler, de noche, porque además daban un, una... una cartilla, que se llamaba, con mil kilos de trigo, por ejemplo, en mi casa, que estábamos nueve o siete, [A-PIn: o eso], y aquellos los molías adonde querías, pero luego, como no había, no había bastante, si tenías más trigo, lo tenías que es-, esconder por áhi, y ir de noche a algún molino donde se molía para los bueyes, a esas piedras, al estraperlo, a contrabando. Bah, bah, de miedo, de miedo.
+E1: ¿O sea que ya trapicheaban por aquella...?
+I1: Trapichear, no, es que te, trapichear, no; es que tenía, que era obligación pa no morirte de hambre, [HS:E1 Ya, ya, ya.] o sea, [R-Vhc] que era, no es trapichear pa... era necesidad. [HS:E1 [Asent].] Era necesidad.
+E2: Pero nunca se ha pasado hambre, ¿no? Siempre... necesidad. [HS:I1 No...]
+I1: hombre, hombre, de [OTRAS-EM] de una manera o de otra ya... ya nos arreglábamos. [A-Inn] que se andaba mal, pues los cerdos tampoco no se podían matar lo que se quería, [HS:E1 Claro.] no. Pero bueno, matabas un cerdo, declarabas que habías matao uno; tenías que ir al veterinario, al ayuntamiento y tal. "¿Cuántos kilos tiene?"; "Cien, doscientos, trescientos"; pues igual matabas dos, en el mismo día, y llevabas la carne [A-PIn: en lleno] y matabas dos cerdos, o sea, que no te los controlaban en casa, [HS:E1 [Asent].] no sabían sí tenías cuarenta o cien; no es como ahora: ahora tos los animales tienen su carné. Ahora tienes veinte vacas, o veinte yeguas, o veinte... y cada uno tiene su carné de identidad, sabes los que tienes, [HS:E1 Claro.] pero antes no había eso. Bah, mal, mal hemos vivido.
+E2: Entonces qué se vive mejor, mucho mejor ahora, ¿verdad?
+I1: Sí, sí, sí, sí, sí, apenas... Oye, siempre hay quejas y no estamos contentos. pero bueno, bah.
+E1: |T18| ¿Usted ha estado en la guerra?
+I1: No, no. [HS:E1 ¿No?] No. [A-Crt]
+E1: Pero la gente de su, de su quinta sí, ¿no? Mucha... [HS:I1 No,] ¿No?
+I1: no, no, de mi quinta no, joder, [HS:E1 ¿No?] yo tengo setenta y dos años. Yo cuando... la guerra en el treinta y seis salió, o sea que, mira.
+E1: A puntito de caramelo. [HS:I1 Sí, sí.]
+I1: Yo ahora... aquí al lao bombardearon, o sea, los rojos vinieron, [A-Inn] hasta cerca Vitoria, ahí, y cuando tiraban las bombas, los cristales de la casa, aquí, de las ventanas, rrr [ONOMAT], se, se removían. No sé, ahora, no estarían muy bien agarraos tampoco [HS:E [Asent].] con la masilla, pero se, de los estruendos, [HS:E1 [Asent].] o sea, se, se retumbaba, [HS:E1 [Asent].] se retumbaban. Yo me acuerdo. Y aquí... con los bueyes y con los carros, me acuerdo yo, vaya, mi difunto padre, de, de aquí pues igual a veinticinco, treinta kilómetros, a llevar con los bueyes raíles de estos de la vía, pa hacer unos fuertes pa tirarles a los rojos de aquí pa allá y de, y de allí pa aquí, por áhi, por to'l monte, una, una, por, por la muga de Guipúzcoa y de Álava.
+E1: Sí, sí, sí.
+I1: Vaya, yo no he estao, pero, vamos.
+E1: ¿Aquí qué se era: más re-, más rojo o... nacionales?
+I1: ¿Aquí? Aquí... tenía [A-Inn] la mitad andaba entonces, cuando la guerra, más o menos. Más o menos por la mitad, la mitad; había... había bastantes rojos y tam-, y de los otros [A-Inn], pero igual habían, había algunos pueblos que habían más de los rojos que de los otros. O sea, dependía mucho de, de, de los pueblos. [HS:E1 [Asent].] Bah, que las pasaron muy mal, bah. Si algunos... tenían miedo, que venían igual a la noche a, a por ellos, y a la noche cogían los bueyes por áhi y iban a, a, al monte a dormir; [HS:E1 [Asent].] coger la escopeta y, y, y a dormir al monte, porque no se atrevían a dormir en casa, porque cualquier día iban y, y, y lo limpiaban y no aparecía. [A-Crt]
+E1: Antes de morir, ¿qué le gustaría hacer que no haya hecho? Antes de morir. O qué es lo último que le gustaría hacer, para poder decir: "Me puedo morir tranquilo".
+I1: Me cago en Dios, [A-Nul]. Antes de morir, no sé, no sé qué decirte; yo quisiera morirme de repente, lo único.
+E1: ¿Una buena borrachera o algo...?
+I1: No, borrachera no, hombre, que ya no podemos emborracharnos, me cago en diez.
+E1: Como ha dicho que le gustaba antes tanto... [HS:I1 [OTRAS-EM]] la vida alegre.
+I1: Bah, borracheras no, pero juergas y eso, sí.
+E1: ¿Sí? ¿Qué tipo de juerga?
+I1: |T11| Bah, pues lo que pintaba, lo que menos pensaba. Mira, yo una vez, no, igual no me lo vais a creer, pero estuve en la feria el campo en Madrid, he estao varios años, y yo tenía unos tíos, y lo único que solía ir a dormir. [HS:E1 [Asent].] Una vez a... si estaba diez o doce días, una vez solía ir a comer o a cenar donde los tíos; lo demás, a dormir por ahí a mi aire. Y tenía unos primos más jóvenes que yo; el año que fui, estaba uno en la mili. Y... pues yo, cuando iba por áhi, no he presumido de dinero, pero solía llevar pa, pa gastar, [HS:E1 [Asent].] eh, diez días o doce, o sea, sin, sin miedo, vamos, no sin miedo, pero vamos. Y me acuerdo que una vez fui con un primo, pues pa allá, de noche, que, claro por áhi, no habíamos andao en sala, en... puticlubs y eso... por aquí, nada. [HS:E [RISAS]] Y: "Enséñanos to lo bueno que ahí", y yo era el primer año que fui; a ver, sabía, me cago en diez, estaba en la mili: "[A-Inn] onde quieras. Ya estamos bastante jodidos". Y una vez entramos ahí a un... puticlús de esos, y... me cago en diez, viene allá un, un señor con un, con un caballo, con el coche, ras [ONOMAT], y se para allá adelante el puticlús con dos o tres que traía en el coche. Se para, me cago en Dios, y [A-Inn] estábamos, pues cinco o seis solíamos ir así de cuadrilla. "Vamos pa allá", a ver, ya un poco jodidos, se para el de, el que iba con la yegua, a mear allí donde, a la rueda de la carreta. [HS:E1 [RISA]] Me cago en Dios, pues yo que tenía más ganas que la hostia y estaba un poco borracho, me cago en Dios, también, ¡ah, me cago en... ¡Se puso de una hostia!, [HS:E [RISAS]] porque digo: "Si esto es váter público pa usted, pa mí también será". Me ca-, allá un follón de los cojones, bah, yo estaba bastante borracho y él, y el otro, el carrero: "Cago en diez, [A-PIn: pues llámale al que quiera atarme]; ay, pues yo también podré mear". [HS:E [RISAS]] Pues luego resulta que se hizo más amigo que la hostia. Cogí, me... me dio la talla esa que llevan, le pego yo un zumbazo así, se quedó, y después anduvimos to la noche con él, y yo, de chófer, en el carro con él allá alante, los primeros, [HS:E1 [Asent].] un descojono. [HS:E [RISAS]] Nosotros íbamos a dormir to los días a las cinco, las seis, y... Mi tía había tenido pensión, pe-, ya no tenía, pero al lao había otra, y siempre íbamos a dormir allá donde la tía, y... [R-Vhc]
+E1: Ha pinchado.
+I1: Sí. [R-Vhc] Y... solíamos ir, y los serenos ya nos estaban aguardando, ya sabían | entonces había serenos y te abrían la puerta, y ya sabían; aquellos ya sabían dónde estábamos. Ahora, siempre antes de ir, pues cogías y, buah, "pues un café pa allá", o alguna hostia, les pagabas, y te estaban esperando, ya sabían a la hora; el que no le daba propina: "Sereno, sereno", y el sereno que no oía pa allá, me cago en diez. Y una vez me ocurrió, o nos ocurrió: fuimos con un taxista, pues allá, [A-PIn: a Talao], y había un café, allí, pos a las cinco la mañana o las cuatro, más o menos iríamos, bah. Fuimos a tomar un... un chocolate pa ir a dormir, [A-Inn], el chocolate, [A-Crt] tos pedimos cuatro o cinco chocolate. Me cago en Dios: sacan un chocolate, y que no se enfriaba ni pa la hostia, no sé si vale a cincuenta el vaso de chocolate, [A-PIn: no sé qué ponían pero, me cago en Dios], que no se enfriaba, me ca-, [A-Inn] vamos con más ganas de dormir, me cago en la puta. Y se conoce que el taxista nos llevó combinaos allá: "Me cago en diez, tos estos pardillos...". Me cago en diez, se conoce que estaban los vasos allí y abajo estaba el, el, un butano, y claro, no se enfriaba el chocolate ni pa Dios. Digo: "Me cago en Dios, trae unas galletas, a ver si se enfría". [A-Inn], le, le quitaría y se enfrío, pero claro, las, las galletas valían veinte duros, y el chocolate valía [OTRAS-EM] cinco pesetas o diez, bah, no sé, y pa, eso, nos jodieron. [HS:E1 [RISA]] Me cago en diez.
+E1: Como las, las películas de Alfredo Landa, ¿no? [HS:I1 Sí, sí, sí, sí,] El cateto pagaba el pato.
+I1: sí. Bah, de esas nos ocurrían, me cago en diez, pues siempre que, que íbamos... A nosotros nos conocían pues, nosotros en Madrid como los gitanos, [HS:E1 [RISAS]] igual, igual. Una vez me acuerdo que fuimos a un... toavía no se me olvida, al hotel El Pozo, a comer cuatro o cinco, fuimos a la, a ver la feria y luego volvimos. Era un año que fuimos en excursión un par de autobuses de aquí, de tos estos pueblos, y algunos iban con hotel, pero yo, bah, nosotros cuatro o cinco íbamos a lo libre, o sea, en el coche, en el autobús fuimos, y volver, pero lo demás andábamos a nuestro aire. Y fuimos a ver una granja... pues no sé, igual a... a vente o treinta kilómetros de Madrid, una granja de estas de pruebas que hacían de semillas y de ganaos y eso, [HS:E1 [Asent].] y... me cago en diez, fuimos allá pues tos los del autobús, no sé si iríamos, me parece, que estaban los dos autobuses, pues seríamos sesenta tíos o... o cincuenta y pico, no sé, me cago en | Madruguemos un poco, ya estaba el viaje así proclamao, me cago en diez, fuimos allá y no había más que... en un bar, [A-Inn] una escuela que era de granja y eso, y iríamos ochenta tíos y había pues, pues treinta bocadillos, los que venderían to los días pa ahí a la gente que andaba; [HS:E1 [Asent].] me cago en Dios, sin comer hasta las tres de la tarde, [HS:E1 [RISA]] un hambre de Cristo, me cago en diez. Y los que estaban con hotel, pues a las tres a comer pa el hotel, pero a nosotros, vamos, hombre, fuimos allá, a un hotel, al hotel El pozo a comer, claro, [A-PIn: buah, ya, toa] esta gente que cogen el tenedor y esto, nos miraban ya de, vaya, parecíamos nosotros gitanos, gitanos, gitanos, [OTRAS-EM]. Gente pues de pa allá serían, de Madrid o así; algunos... yo creo que te, les daba envidia el apetito que teníamos nosotros. Me acuerdo que fuimos: "Entremeses. Venga. Me cago en, vamos, saca un plato pa tos". "¿Cómo? Un plato pa cada uno de entremeses. ¡Qué hostias vosotros!". Después, bueno, que teníamos un hambre de miedo. Conque... había uno que fue con nosotros aquel día y ya había estado hace... tres años antes o cuatro, otra vez, ya conocía un poco más que nosotros. Nosotros, yo era la primera vez que había estao entonces, [OTRAS-EM] el camarero allá pues, no sé qué pedimos: cordero, sopa, paella... Bueno, a hincharnos, porque teníamos más hambre que Dios, y se conoce que diría el camarero: "Cago en Dios, estos a ver si van a comer y, y no tienen perras". Claro, porque tenemos un po-, parecemos gitanos, y, y ese que había estao más veces dice: "Me cago en diez, ¿tienes miedo de echarnos de comer?". Saca un puño de billetes del bolso. Oye, pues sacaría... veinte o cuarenta mil duros o vamos, así. Bah, enseguida, bah. Ya luego sí | y to cristo mirándonos, cago en Dios, ya digo ya, gitanos parecíamos. Pero yo digo, muchas veces me acuerdo: ¿Cuánto no habían dao que la gente, muchos de ellos, por tener el apetito que teníamos nosotros? [HS:E1 [RISA]] ¡Me cago en diez, bah! Pues luego no daban café: era un comedor y no daban café. Y a nosotros, como fuimos un poco tarde, [A-Inn] café allí, bueno, ya se marcharon to los demás, nos quedemos solos allá en el comedor, me cago en diez: café, copas y, y la hostia. Y luego nos regaló, o sea, tenían la barra abajo, el comedor arriba, y cuando salíamos, me cago en diez, nos dio una copa a cada uno, gratis, el... el del bar o el camarero o el que sería. [HS:E1 [Asent].] Joder, bah, esas... Y otra vez allá, en la feria el campo, me acuerdo que fuimos: "Coño, pues vamos a comer aquí"; estaban asando novillos así como en Argentina, pero, o sea, alrededor; me cago en diez, parecía que tiene buena tipa, buena pinta eso. "Bueno, bueno, pos ya vamos a comer aquí. En vez de ir a Madrid, [HS:E1 [Asent].] vamos a comer aquí". Nos sentamos allá, era... pues un comedor que tenía de estos provisional, to medio como barracas, me cago en Dios, nos sentamos allá cinco o seis, [A-Nul]. "Bueno, ¿qué van a comer ustedes?". "Camarero, pues... un poco ensalada, [A-PIn: mientras venía eso], pues unas chuletas de allá de, de, del buey", o de lo que estaba asao, la vaca o lo que sería. Me ca-, nos traen la ensalada; "Vino, trae del bueno, porque del malo... déjalo". Me cago, teníamos hambre, [A-PIn: hostias, que no venía]: el vino y la ensalada trajeron, y el pan. Nos comimos la ensalada y el pan, un par de botellas de vino, y toavía la carne que se estaba asando; bueno, que se estaba asando, [HS:E1 [RISA]] qué hostias. Pues ya nos trajeron carne, ¡me cago en diez! Pero del, del bicho que estaba asando, aquel llevaría quince días asao: no la pudimos comer. [HS:E1 [Asent].] O sea, de, de viejo que estaba, de viejo, de asao, ¡me cago en Dios! Nos, nos la pegaron bien, nos la pegaron bien.
+E1: ¿Era suela de zapato?
+I1: Na, nada, aquello horri-, mal gusto estaba, como, como vieja... medio podrida, me cago en diez, medio podrida. Sí, hombre.
+E1: Os vieron con tanto apetito quizás que a lo mejor dijeron: "Estos se lo comen". [HS:I1 "Estos tragan todo",]
+I1: dirían, sí, sí, pero, me cago en diez, aunque estábamos un poco jodidos, lo bueno ya distinguíamos [HS:E1 ¿Sí?] toavía. Bueno, jodíos no, ese día así borrachos no estábamos, no; borrachos, un poco castaña pa la noche nos solemos poner, pero entre el día, joder, pos había que ver por allá lo que había, si no a qué ibas.
+E1: Claro.
+E2: ¿Le gustaría ir ahora a Madrid?
+I1: ¡Me cago en diez! Sí, pero... pero ahora a ver la feria esa, eh. Yo sí, [A-PIn: ahora ya...]
+E1: ¿Pero ahora ya no hay de esa de ganado, no, en Madrid? [HS:E2 [HCruz: Sí, sí, sí, sí.]]
+I1: Sí, pero hay | Bue-, este año me paece que ha habido, pero ahora hay poco ya, ahora hay más ganao de montura. Antes llevaban, hace, hace años, cada provincia llevaba su, su clase de ganao que tenía: ovejas, en otro sitio los caballos de montura, en otros de estos de raza de percherones, y en otros vacas de carne, o sea cada provincia llevaba su, su... lo que más ganao había, lo que sea. Daba envidia el ver, y traían ganao de la Argentina y así, también solían traer, pa... y de otras, otras naciones también. Pero ya estos años, bueno, yo hace años que no he estao, pero poco ya hace igual hará veinte años o así que estuve la última vez y ya ganao de esto de, de percherones de estos caballos buenos que a mí eso siempre me ha gustao mucho, bah, como he estado, siempre hemos tenío de eso, ya no había, [HS:E1 [Asent].] ya no había: o sea, de estos de montura sí había muchos, y ga-, y ganao ya de fuera no había, o sea, vacas y eso. De Francia y así solían traer, tamién, y, y ovejas por ahí no sé de dónde traían, cada oveja que eran así como, como burros, tampoco había. [HS:E1 [Asent].] No, no sé por qué, pero ya no había. Y ahora, ahora no sé, ya te digo que hace años que no he estao, igual hace... quince años o más que no he estao.
+E1: |T2| [OTRAS-EM] Usted que le veo que le, que le gusta el comer, ¿verdad? Pues, ¿cuál es el plato fa-, cuál es el plato... típico de aquí?
+I1: El plato típico de aquí, pues qué sé yo.
+E2: Nos han dicho las alubias.
+I1: Pues las alubias sí, sí.
+E2: Como mi madre es más de la zona de... [A-Nul]. [A-Crt]
+I1: No, aquí también, sí, pero así más, más la zona de alubias casi es más pa aquí pa la parte de, de, de Guipúzcoa. O sea, aquí también se usa, sí, pero... no mucho, no mucho, no mucho, eh. A mí me gusta mucho, sí.
+E1: O sea, si vamos a un restaurante, ¿qué pedimos?
+I1: Oye, pues [A-Inn] pedir, joder, cada uno tiene un... gusto, [HS:E1 Hombre, pero... No, pero escuche:] qué sé yo.
+E1: un plato típico que digas: "Aquí sale bueno esto", ¿sabes? "Está | Lo, lo hacen de miedo".
+I1: Ah, bueno, pues oye, ¿qué sé yo, qué sé yo lo que pedir? Oye, pos... Oye, aquí si os gusta el marisco, pues hay también marisco bueno. [HS:E1 [Asent].] Si quieres comer cordero, pues también hay corderos buenos, o chuletas. Aquí, por la parte Guipúzcoa, hay mucha fama de alubias y chuleta, chuletón de buey, de buey, que ya no hay bueyes, bueyes ya sabéis lo que son. [HS:E1 Sí, sí.] Bueno, pues ya no hay, o sea, hay pocos, vamos, pero, bah, le llaman chuletón de buey.
+E1: Que es ternera, ¿no? Ahora.
+I1: No ternera, vaca, no. La ternera no, porque la ternera es, es ternera, es buena, pero no tiene gusto a, a, a... buey. El buey es cebao, o sea tiene que ser el animal viejo, vaya, viejo, de tres años o cuatro, que esté a propicio, y una ternera tiene un año, es buena carne pero no tiene ese sabor de, de mayor ya. [HS:E1 [Asent].] Porque la carne es como to las cosas: se tiene que hacer. Es igual que una manzana: la coges, la coges verde y se madura, pero es mejor cogerla que sepa dura; y en un año, la carne no se hace, o sea, está buena, eh, pero tiene que tener dos o tres años, y que esté gorda, [HS:E1 [Asent].] que esté gordo el animal; entonces es carne, tiene sabor. Hombre, hay, hay quien le gusta igual la carne que tiene un año mejor, casi, es más tierna.
+E1: ¿Y entonces cómo explica eso con el cordero de lechal?
+I1: ¿El cordero de lechal? Pues el cordero lechal es una, una costumbre que hay que... que, que es mucha costumbre, pero yo prefiero comer un, un, uno de pasto, por ejemplo, que le llaman, de, de cinco meses, que uno de, de dos me-, de un mes, [A-Inn] [HS:E1 Ya, pero es más tierno, ¿no?] Sí, pero, pero que tiene menos | no tiene tanto sabor. O sea, es bueno, sí, y se gasta mucho, se usa mucho, [HS:E1 [Asent].] pero a mí me ponen ahora un cordero de cinco meses, por ejemplo, cebao, y me ponen cordero de un mes o de veinte días, y prefiero el otro. Y hay mucha gente | y, y es bueno el cordero de lechal que se llama, de... pues de un mes puede tener, o que no llega.
+E1: Claro. Es que contra más pequeño dicen que es más jugoso, más sabroso, más tierno... [HS:I1 No, no, no, no, no,]
+I1: nada, nada. La carne tiene que tener su tiempo pa que sea jugoso, [HS:E1 [Asent].] su tiempo. Y que esté bien alimentao, claro, porque si tiene tiempo y está alimentao por áhi con drogas, pues se ha jodido.
+E1: Usted lo vemos capaz de cam-, de zamparse un cordero entero.
+I1: No me jodas, no, no. [HS:E1 De joven, sí.] No, entero no, no jodas, un cordero. Yo, no creas, comedor he sido pero no, no tanto. Yo, yo apuestas por comer nunca he hecho, ni por beber.
+E1: Siendo de por aquí, de Vitoria... [HS:E1 No, no, no, no, no, no, no, no.] ¿No?
+I1: Eso... Yo, si m'han servido y veo que no tiene ganas, tengo ganas, ahí se queda en el plato, ¿eh? Aunque lo tenga que pagar, no lo he comido. [HS:E1 [Asent].] No, no, yo eso no he hecho nunca. Beber alguna vez igual un vaso más que lo que tenía que beber ya he hecho, pero comer, no, nunca.
+E1: Sobre todo por las noches, ¿no?
+I1: Hombre, pues claro. Bue-, bueno, por las noches, y si había que hacer... a las tres de la tarde, ir a comer a las dos, igual. [HS:E1 [Asent].]
+E1: |T19| ¿Y qué piensa del modo de diversión de los jóvenes ahora? ¿Está un poco al corriente o...?
+I1: No, no, oye, a mí no me tiene por, bah, no sé, porque yo a los jóvenes de hoy, a lo que les oigo a los sobrinos, que están tos los días por aquí: bueno, pos esos disfrutan yendo por áhi un día... a uno, que le gusta el fútbol; a otro, que le gusta... el rally; el otro, que le gusta ir al monte; el otro, que le gusta ir a esquiar. Y... y coger vacaciones, eso no las perdonan: [HS:E1 [Asent].] así como nosotros no cogemos nunca vacaciones. [HS:E1 ¿Ah, no?] Yo... hasta que tenía cuarenta años no sabía lo que eran vacaciones, o cincuenta, y entonces... pos dos o tres días por áhi si te podías escapar, nada más, ¿eh? [HS:E1 [Asent].] [A-Inn] el sábado, el domingos, el lunes, y no había ni puentes ni ríos, ¿eh? Todos los días seguidos, todos los días había que...
+E1: Si no había ríos, ¿cómo va a haber puentes?
+I1: Pues por eso. [HS:E1 [RISAS]] Ríos ya hay, pero quiero decir que como ahora... se dicen el puente, [HS:E1 Sí.] [A-Inn] pero antes... no había nada de eso aquí.
+E1: Hombre, los doce días de la feria de Madrid, ¿no? Se escapaba usted.
+I1: Bueno, pues eso sí, pero, pero, vaya, pues eso y punto. [HS:E1 Ya.] Y alguna feria que había por ahí si ibas pa un par de días, pero que había. A mí porque me gustaba y... y igual, o sea, a mi difunto padre también le gustaba que iría yo, porque a él también le gustaba. Pero había aquí muchos en el pueblo que eran como yo, que no salían más que a Vitoria una vez al año, por Santiago, que es el que le hacen la feria grande; y tenían treinta años y, y no habían salido a... a diez kilómetros del pueblo, o, bueno, de aquí a Vitoria, sí, verdad, porque, pero más, muchos, muchos, muchos.
+E1: |T13| Apreciaba mucho a su padre, por lo que veo, ¿eh? No deja de hablar de él.
+I1: Pues sí, sí, porque no ves que siempre andábamos por áhi, yo era el mayor, y siempre andábamos juntos. [HS:E1 ¿Sí?] Por áhi a comprar algunos bueyes, o vacas, o a las ferias y eso. [HS:E1 [Asent].] Me gustaba mucho, a él, y a mí también. Y siempre íbamos juntos, siempre. [A-Crt]
+E1: |T11| ¿Conserva aquí algún amigo de la infancia?
+I1: Amigos, sí. Sí, amigos se hacen, aquí hay, hay otro que es como yo, un año más, está igual que yo, soltero también.
+E1: ¿Y eso? ¿Qué hacíais a las mujeres, que no os querían?
+I1: Pues nada, ya te digo, un poco borrachos, [RISAS] y... y que ta-, antes era muy distinto aquí pa los pueblos porque, ahora sí, pero antes las mujeres, así, las chicas jóvenes, a los pueblos no querían casarse, la mayor parte no quería; hombre, alguna siempre hay, había, pero...
+E1: ¿Y eso, por qué no?
+I1: Pues... porque estaba la agricultura y la gente así de los pueblos como muy despreciada. O sea, iba uno y estaba, me cago en diez, de barrendero trabajando en Vitoria, por decirte una, una... frase, y ganaba diez duros a la semana, ¿eh? Me cago en diez, y estaba aquí uno en la labranza, trabajando y, y que, y venía... a tener unos beneficios de veinte duros, si quieres, por decir un... cálculo. Me cago en diez, pero iban con el de diez duros allí, porque iban a Vitoria. Y además, que antes las mujeres aquí en el campo también trabajaban mucho, ¿eh? [HS:E1 [Asent].] O sea, en casa se casaba una, [HS:E2 No le gustaba.] y... y tenía que cuidar los chavales, si tenían, vamos, claro, que es lo más normal, y luego tenía que ir a... ayudarle al marido a... sembrar o a sacar patatas o... o sea, to'l año trabajando, mucho, mucho más. Así como ahora no... que ahora las mujeres de aquí, están aquí casadas, no hacen nada: bueno, hacen, pos hacen la casa, la labor de la casa, y ahora pos tienen lavadora, tienen tos los cacharros, pues no | y a la finca no va nadie, las mujeres de aquí no van a la finca nadie, habrá muchas mujeres, hay, bueno, muchas, hay cuatro o cinco, que no sabrán las fincas que labra el marido, muchas. Y sin embargo antes, joder, pues tos los días: y a ordeñar la vaca, a darles de comer a los cerdos, atarle a la yegua allá pa que coma yerba, y... o sea, el marido se iba a trabajar al campo y la mujer igual se quedaba en casa, pero tenía más labores que si iba al marido al campo; y por eso... no se casaban muchas, [HS:E1 [Asent].] por eso.
+E2: ¿Entonces cómo ve usted ahora el papel de la mujer, que... ahora trabaja, se mete...? [A-Crt]
+I1: Pues lo veo casi... mal. La mujer, me cago en diez, lo que he dicho yo, en casa, me cago en diez; y el hombre, con los pantalones a currelar pa los dos, y así hubiera menos paro. O sea, si en vez de trabajar las mujeres como trabajan hoy, to'l mundo, quieren trabajar las mujeres, pues la mayor parte... pues, pues todas esas no trabajarían y hubiera más... más trabajo. Yo creo que vivirían mejor. Ahora, claro, como ahora hay tanto divorcio y tanta hostia, pues por eso la mujer: "No, no, yo me voy a trabajar y si me divorcio, tengo mi sueldo; pero si estoy que trabaja el marido solo y se marcha, me cago en diez, ¿qué hago luego yo? ¿Del cuerpo?". [R-Anm] Yo creo que mucho es de eso; pero... de aquí, ya digo, aquí en los pueblos ahora las mujeres no trabaja nada: vaya, casa..., la labor de los hijos o de lo que sea; así como antes tenían que hacer la labor de, de la familia y de la casa, y después tenían que ir al campo, ta-, trabajaban doble que el marido. Ahora no hacen nada; vaya, nada, hacen, ¿verdad?, pero viven mucho mejor. Cogen el coche; si tienen que ir a Vitoria, se van a hacer algún recao, o... bueno, lo que sea. Y antes, me cago en diez, a Vitoria... pues aquí solía haber un autobús, que pasaba los lunes, los jueves y los sábados. Pues los jueves, a llevar los huevos, los pollos, los conejos, a vender a... la plaza, a Vitoria, pa sacar algún duro pa luego traer aceite o... o un pantalón pa'l chaval o... la camiseta, o lo que sea, claro, porque se andaba mal de perras, y to el mundo había que currelar. Aquí co-, había hace cincuenta o sesenta años... ¡bah! Había d'ahí, de Alegría, salía un autobús: pa cuando llegaba aquí, ya venía lleno; iba hasta Vitoria hasta a tope de huevos en segunda planta, cestos, [V-Tml] pollos, lo que sería, [A-PIn: to eso llevaba], y luego volvía otra vez porque se, no cabían, a las diez, que es pa cuando iba a Vitoria, y volvía, otro viaje, a llevar los de aquí, de los pueblos, a vender, y así se vivía. Así. Se vivía peor, o sea que ahora, bah, ni diferencia.
+E1: O sea, que está en contra de la... por ejemplo, ahora lo que está haciendo... el Partido Popular que una presidenta del Senado, otra del Congreso...
+I1: Mira, yo que manden las mujeres o no manden, aún toavía ahí... aún me callo, pero, me cago en diez, que no, que no... que no trabajen como, como quieren trabajar todas; oye, que se casan, me cago en diez, que trabaje el marido pa la mujer, me cago en diez; bueno, pa la mujer y pa él, claro. [HS:E1 [Asent].] Que no, pero si [A-Inn] Vitoria, bueno, bueno, y en Madrid y en tos los sitios pasa igual: hoy to el mundo quiere trabajar, la mujer y el marido, y luego, ¿qué pasa? ¡Me cago en diez! Pues si ganan los dos... la mujer, que no sabe ni hacer la comida, porque ha estao estudiando y de ti no ha ido a trabajar; gana y dice: "¡Me cago en diez, s'han casao y no sabe hacer ni un huevo, ni pa'l marido ni pa ella!". Y un día están contentos, otros también, pero otros se empiezan a cabrear: que hoy tú haz la cocina, que el otro hace el otro, y viene el divorcio, a tomar por culo, [HS:E [RISAS]] o separatismo, lo que queráis llamar.
+E1: Así que por eso no se ha casado.
+I1: Pues por eso, y porque en casa había mucha gente, y... y que las mujeres, había, había pocas mujeres que querían venir en, en mi edad, cuando yo tenía de veinte a treinta años, así en los pueblos muy contadas se casaban, ¿eh? Muy contadas.
+E1: ¿Entonces usted, qué pasa, que era tímido o que era... o no era el más guapete del grupo?
+I1: No, no, guapete, eso nunca he sido, eso ni hablar. [HS:E1 ¿No?] No, no, no.
+E1: Pero juergas, un rato, ¿no?
+I1: Juergas sí, algunos se quedaban más atrás que yo, [HS:E1 ¿Sí?] sí.
+E1: ¿Y luego cumplía?
+I1: Sí, sí, sí. [HS:E1 ¿Sí?] Yo la labor | yo si venía a las cuatro la mañana, o a las cinco, de... de por ahí, de farra, al otro día me tenía que levantar, así otros días me levantaba a las siete, aquel día me levantaba a las seis y media, pa que no me echaría bronca el padre, ni la madre, joder. [HS:E1 [Asent].] Y que andábamos mal de dinero, ¡me cago en diez! Te daban veinte duros, y querían que te dure dos semanas, y si los gastabas en una, al otro día andabas jodido, no sabías qué hacer. Igual quedarte en casa, porque si ibas a pedir te decían: "¿En qué has gastao?". "¡Me cago en la puta, pues ya la hemos armao!".
+E1: Y si le dices que lo has gastado encima en...
+I1: Sí, ¡me cago en diez, joder! Y entonces... pos a cenar y así, pues a casa, [A-Inn] cenábamos por áhi ni qué cojones. Alguna vez que yo era alguna fiesta de algún pueblo, los demás tos los días una tripadas de vinos por áhi, a las diez, o a las once, o las doce a casa a cenar. Y, bah, que ya estaban en la cama todos, bah, pos igual solía venir y en, en este tiempo que había cerdos... chorizos, que estaban colgaos, y mientras se hacían los chorizos, o se comían los chorizos igual, tres o cuatro huevos en un sartén, [A-Inn] como barcos... cuando me cansaba de untar pan, cogía unas migas y con la cuchara, [OTRAS-EM] y a dormir a las cuatro la mañana. Como Dios.
+E1: O sea que... comía mucho, por lo que veo.
+I1: Sí, [OTRAS-EM] pero trabajar mucho, ¿eh? [HS:E1 Claro.] Yo..., y otros también, en este tiempo, o sea, de marzo para adelante, hasta, de... diciembre hasta marzo no se trabajaba tanto, bue-, trabajaba uno en casa. Pero en este tiempo, yo pa las, pa las seis de la mañana me levantaba to los días, ¿eh?, a darles de comer a los animales, y pa las ocho o las nueve, hacía así, [G-Mst] y llenaba una botella de cerveza de sudor, [HS:E1 [Asent].] de, de, de trabajar, de echar abono, de sembrar, de andar con los animales, pero días y días, ¿eh?, días y días. [HS:E1 [Asent].] O sea, que beber y comer se hacía, pero gastar mucho, mucha, mucha energía. Bah, antes trabajábamos como los animales, [HS:E1 Claro.] como los animales. Y muchas horas, ¡bah!, pues desde las seis de la mañana, pues hasta, hasta las diez de la noche, hasta que anochecía, o sea, de noche no se hacía porque los animales no tenían faroles, pero... pero lo demás, de sol a sol, pero sin amanecer y... y hasta que no se veía. Y luego venías a casa y si tenías animales, tenías que ir igual a ordeñarles si eran vacas, o a darles de comer, o sea, que toavía no terminabas la labor. [HS:E1 [Asent].] Venías a casa y tenías otra vez pa una hora o dos o lo que sería, casi, casi tos los días del año, sí, hombre.
+E1: ¿Y la primitiva usted no echa entonces, no, aquí? ¿Sabe lo que es la primitiva, la lotería primitiva? [HS:I1 Sí. [OTRAS-EM]] ¿No, no la echa, no...? [HS:I1 A, a esa no me gusta]
+I1: jugar, yo juego to las semanas que voy a Vitoria...

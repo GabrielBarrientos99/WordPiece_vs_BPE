@@ -1,0 +1,414 @@
+Provincia:	Cuenca
+Enclave:	Belmonte (1603)
+Fecha:	11 de mayo de 2003
+Duración:	00:42:50
+Informantes:	I1: mujer, 74 años
+Encuesta:	Álvaro García, Belen García, Patricia Carrasco, Mª Teresa Navarro, Sonsoles Rey
+Transcripción:	María Teresa Navarro García, Beatriz Martín Izquierdo
+Temas:	1. Matanza del cerdo (chorizo, longaniza, morcilla, jamón, tocino)
+2. Alimentación (pan, horno, manteca, huevos, bollos, recetas, pescado)
+6. Agricultura (agricultor, campo, cereal, legumbres, huerto, patata, viñas)
+7. Ganadería (cabra, oveja, vaca, pastor, leche, queso, lana, abejas, miel)
+8. Otras industrias (excluyendo agricultura y ganadería)
+9. Otros oficios (albañil, modista, etc.)
+10. Vida religiosa (cura, iglesia, misa)
+11. Vida vecinal (anécdotas, inquietudes, gobierno municipal, guardia civil)
+12. Educación (escuela, libros, maestros)
+13. Familia (contraste entre generaciones: abuelos, hijos, padres)
+14. Bodas y noviazgos (boda, anillos, ajuar)
+15. Fiestas populares (romerías, fiestas patronales, carnaval)
+16. Sanidad y salud (enfermedad, médico, parto, entierro)
+18. Ejército/Servicio Militar (mili, quintos, guerra)
+
+E1: |T11| Para empezar, ¿cómo se llama usted y cuántos años tiene?
+I: [NP].
+E1: [NP]. ¿Y qué edad tiene usted?
+I: Setenta y cuatro.
+E1: Setenta y cuatro años. ¿Y ha vivido usted aquí toda la vida en este pueblo?
+I: Toda la vida.
+E1: |T12| Y cuando era pequeña, ¿fue al colegio?
+I: Al colegio sí, de unas monjas.
+E1: ¿Cuántos años?
+I: Pues hasta que ya me hice mayorceta.
+E1: ¿Y después trabajó?
+I: Después trabajé ayudándoles a mis padres en el campo, en el campo y eso.
+E1: ¿Cómo era el colegio entonces?
+I: ¿El colegio? Las monjas Dominicas y el colegio era pues que en un libro ahí venía todo.
+E1: ¿Y eran muy duras, [HS:I Era una enciclopedia.] la castigaban o usted era buena? [RISA]
+I: Yo he sío siempre mu buena. Si hubiese sío mu mala, oye, yo he [A-Inn]. Claro que sí, que mira si sería buena que todavía me escriben mis monjas.
+E1: [Asent].
+I: Y ya está hundío el convento, que si lo han visto es el convento que hay para allá, para la parroquia.
+E1: No, no lo hemos visto, luego [HS:I Pues está,] nos acercamos.
+I: está medio hundío. O sea que... está en ruinas.
+E1: |T6| ¿Ya no dan colegio allí? [HS:I No.] Ni nada. Y después usted dice que ayudó a sus padres ¿en qué? ¿Trabajó en el campo?
+I: En el campo sí, en la vendimia, en la siega, he segao a mano.
+E1: ¿Y las tierras eran de sus padres o era... | trabajaba a jornal?
+I: Sí, de mi padre y de mi madre eran las tierras.
+E2: ¿Qué cultivaban?
+I: Cereales y... viña, ajos no hemos sembrao mucho, pos casi nunca pos pa'l gasto hemos sembrao, pero bueno. A los principios... pipas tamién, pipas negras..., cosas de esas.
+E1: |T14| ¿A qué edad se casó?
+I: ¿Que a qué hora?
+E1: ¿A qué edad se casó usted?
+I: Ah. Que yo decía que a qué hora. Yo creía que decías que a qué hora [HS:E1 Vamos, si se casó usted, claro.] [A-Inn] porque esas cosas las tien [A-Inn]. [RISAS]
+E1: Claro, si usted se casó.
+I: Pues sí, no, me casé un poco mayor ya. [HS:E1 [Asent].] Me casé a los treinta y tres años.
+E1: ¿Y cómo eran las bodas entonces?
+I: Pos con un vestido, un traje de chaqueta negro. Llevaba mi ramo y todo eso, bien.
+E1: ¿No ha llevado traje [HS:I No, traje de novia no.] de novia ni nada? ¿Y la celebración?
+I: La celebración sí, en un salón, ahí se hizo un refresco y baile después y ya.
+E1: ¿No hicieron más? ¿No había viaje de novios ni nada?
+I: ¡Uy! ¡Qué lejos pillaba eso! Eso es que pillaba mu lejos para..., [HS:E1 Eso no.] no eso se quedaba pa las principales del pueblo y ya.
+E1: |T9| ¿Y después usted siguió trabajando? [HS:I Sí, sí, sí.] ¿Después de casada?
+I: No, después de casada ya he trabajao menos, porque mi marido era... por cuenta ajena y al ser por cuenta ajena pues yo ya no tenía que ir, porque él iba a podar ajeno, él iba a vendimiar ajeno. Él iba a las cosas ajenas y como yo, no era mío pues yo ya no iba.
+E2: Y le pagaban, ¿no?
+I: Sí, a él le pagaban.
+E2: ¿Cuánto le pagaban?
+I: Pos no lo sé. Entonces poco, poco.
+E2: Poquito, ¿no?
+I: Poquito. No... [HS:E1 Claro,] [A-Inn]
+E1: andaban justitos.
+I: Sí, bueno, justitos, justitos..., pero bien justitos.
+E2: ¿Se les pagaba más a los hombres que a las mujeres?
+I: Pues se solía pagar y a los niños tamién, ya mientras no tenían la edá les pagaban menos todavía.
+E1: ¿Usted tiene hijos?
+I: Tengo una. [HS:E1 Una hija y...] Y dos nietos.
+E1: |T16| ¿Y cómo era entonces? ¿Cómo tenían las mujeres los niños entonces? ¿Tenían ustedes un médico?
+I: No, yo me... la dejaba con mi madre.
+E1: Pero cuando los tuvo, ¿cómo la tuvo? ¿Un médico vino a casa?
+I: Aquí en el pueblo.
+E1: ¿En su misma casa?
+I: Una comadrona de estas caseras, [HS:E1 [Asent].] que se atreven a todo, pos de esas. De esas que dicen: "Yo misma, ¡hala!"
+E1: ¿Y cómo los cuidaban entonces? Porque, claro, ahora [HS:I Sí, entonces yo...] hay más comodidades.
+I: bueno, yo entonces yo a mi hija ya le daba que si Celaz, que si Maizena, que si... [HS:E1 [Asent].] pero antes no les daban na más que gachejas de esas que llamaban de dulce, con harina de trigo y... le echaban una poquita leche y..., y así con galletas María. Solían hacer cosas de esas, eso mismo están cogiendo ahí. [G-Mst] Eso ya lo sé yo. [RISAS]
+E2: |T12| ¿Y la educación de, de los niños cómo era? ¿Era distinta que ahora?
+I: Sí, no, la educación de los niños dependía de los padres tamién mucho. Porque maestras, ya digo, yo ha sido con monjas y la educación de las monjas a mí me parece que me l'han dao buena. Porque mira ya los años que..., que tengo y...
+E2: |T11| ¿Y qué, qué diferencia ve usted entre los niños de ahora y los niños de su tiempo?
+I: Como de la noche al día, como de la noche al día. Porque antes a lo mejor pa desayunar te daban, ¿qué te voy a decir?, una onza de chocolate cuando no te daban media. Pero bueno, onza de chocolate, pon. ¿Y ahora qué? A capricho. Ahora a capricho, lo que quieren y como quieren. Y "dame que me voy a comprar, y dame que me voy a por chuches, y cómprame un ordenador, y cómprame una videoconsola, y cómprame...". Antes to eso no existía.
+E1: ¿Y ustedes a qué jugaban?
+I: ¿Eh?
+E1: ¿A qué jugaban?
+I: ¿Que a qué jugábamos nosotros? Pos al... a la brisca es a lo que más se jugaba entonces, a la brisca.
+E1: ¿Jugaban a lo mismo los chicos que las chicas?
+I: Sí...
+E1: ¿Jugaban juntos?
+I: Sí, y se jugaba tamién a..., a las tres en raya, al cantarillo a cosas de aquellas de antiguamente.
+E2: |T12| ¿Y qué le enseñaban en el colegio?
+I: Sí, en el colegio ya nos enseñaban... pos de todo. Nos enseñaban un poco de gramática, de geografía, de..., de cosas de esas.
+E1: ¿Y les pegaban en el colegio? No, ¿no?
+I: No, bueno, yo no sé si alguna se desliaba un poquito así. Yo no... han tenío ocasión porque yo no.
+E1: ¿Por qué cosas les podían castigar? ¿Recuerda alguien que le hayan castigado?
+I: Pos no solían castigar, pos a lo mejor por estar distraída en la escuela, por no hacer caso a la maestra, por hacer novillos, como se solía decir entonces, salirsen de casa diciendo que se iban al colegio y después no iban, se iban por áhi a jugar y claro, la maestra tenía que hacérselo saber a sus padres.
+E1: |T10| Bueno, como usted ha ido a un colegio de monjas supongo que iría a misa, ¿no?
+I: Sí, y sigo.
+E1: ¿Sigue usted yendo a misa?
+I: Sigo igual.
+E1: ¿Y ha notado diferencia en la iglesia de cómo era antes a cómo es ahora?
+I: Tamién sí, en los curas y en los frailes y en los chichiribailes.
+E1: Por ejemplo, ¿los curas no dejaban a lo mejor ir en manga corta o alguna cosa de esas?
+I: No, antiguamente no.
+E1: ¿No se podía?
+I: No.
+E1: Faldas cortas ni nada de eso.
+I: No, ni escotes viéndose las tetas tampoco..., tampoco dejaban.
+E1: ¿Recuerda que a alguien le regañasen por ir [HS:I No, a mí no] en manga corta?
+I: porque no lo hacía.
+E1: ¿A usted no?
+I: Porque es que no lo hacía, porque yo decían que no había que entrar de manga corta y yo no iba de manga corta... a la iglesia por supuesto. A lo mejor... | ¿sabes lo que hacía? Unos manguitos, manguitos [G-Mst] me los entraba a la hora de entrar a misa, en cuanto salía [R-Prt] de misa me los quitaba. Voy a abrir. Debe de ser mi nieto. [A-Crt]
+E1: ¿Tiene usted dos nietos?
+I: Tengo un nieto y una nieta, hijas na más que una.
+E2: |T11| ¿Y los niños antiguamente tenían más obligaciones que ahora?
+I: No. ¿Obligaciones? Pos sí, porque los, enseguida los ponían a trabajar, enseguida se los llevaban los padres a..., a ayudarles a ellos, porque lo necesitaban. Y hoy no, hoy no se casan porque viven mejor al abrigo de los padres. Hacen lo que quieren en el mundo, a ver si me vais a comprender, hacen lo que quieren en el mundo. Su padre y su madre les dan la sopa boba y dicen: "¿Pa que quiero yo mantener hijos ni..., ni estar lavándole la ropa a un marido?".
+E1: ¿Con qué edad empezó usted a trabajar?
+I: ¿Eh?
+E1: ¿Con qué edad empezó a trabajar?
+I: A los trece años, a los trece años.
+E2: ¿Y antes se obedecía más a los padres que ahora?
+I: Sí, eso por supuesto. Eso por supuesto. Antes tu padre te decía: "Al encender las luces te quiero en casa". [R-Inf] Y... aquí pos en los pueblos pos las daban casi siempre a la misma hora las luces. Pues a esa hora tenías que estar en casa. Ara, querías ir a algún lao y le pedías permiso a tus padres, si te lo dejaban bien y si no te lo dejaban... a lo mejor decías: "Pos mire, me va a dejar de quedarme esta noche un poco más porque esto". Aunque fuera con mentiras pero... había que pedirles permiso. Hoy no, hoy los chicos no obedecen ni a..., a nadie.
+E2: |T14| ¿A qué edad le dejaban casarse?
+I: Bueno, sí, la edá de casarse pues en cuanto ya era la mayoría de edá... a lo mejor a los..., bueno, entonces era a los veintiuno me parece. A los veintiuno pues ya les dejaban casarse en cuanto [A-PIn: que ya...]
+E2: ¿Usted ha conocido a alguien que se haya casado por, por dinero, o obligado por sus padres o algo?
+I: Aquí en Belmonte que yo sepa no he oído así, no. Pero por dinero decir: "Me gusta más fulano, pero ese no tie porvenir y este tiene casas y comer que tiene". Eso sí, eso sí. [R-Prt] [HCruz: ¿Qué quieres, [NP]?] [A-Crt]
+E2: |T12| ¿A usted le hubiera gustado estudiar si hubiera podido?
+I: Pues sí, sí aunque antes nos acobardábamos más que ahora. Ahora un chico... en cuanto tiene diez o doce años le dices que si se quiere ir fuera de con sus padres a estudiar y eso y tan contento. Y antiguamente eso se ponía por delante tamién. Pero de toas formas no había medios, entonces es que no había medios, no había como ahora que si les dan una beca, que si les dan esto... Antes no existía to esto. Antes lo más que eran los que se iban de curas los que les pagaban la beca, eso sí, las cuatro señoras del pueblo...
+E1: Ponían dinero, ¿no?
+I: Sí, ponían dinero pa, [TOS] pa los estudios de esos chicos. Pero el que iba a ser cura el que no, no.
+E1: |T13| ¿Y recuerda usted si alguna vez sus padres le decían: "Si no haces esto va..."?
+I: No, mis padres no han sío severos con nosotros nunca, nunca, nunca.
+E1: ¿Eran ustedes familia numerosa?
+I: Éramos cuatro. Éramos tres chicas y un chico.
+E2: |T6| ¿Podía, podían elegir en qué iban a trabajar o había que trabajar en lo que hubiera?
+I: No, a trabajar en casa. Llevaban unas tierrecillas y en eso trabajábamos.
+E2: ¿Y tenían ustedes gente que viniera a cosechar o algo así?
+I: No.
+E2: ¿Ustedes lo hacían?
+I: Lo hacíamos a mano entonces, luego ya sí empezaron a venir las cosechadoras, empezaron a venir ya maquinaria... y entonces ya sí, claro.
+E2: ¿Pero no venía nadie así de otros pueblos, por ejemplo, a cosechar o algo así?
+I: Sí venían pero máquinas, máquinas de por Murcia venían, murcianas y to eso. Venían máquinas cuando todavía por aquí no existían pero ahora ya...
+E1: O sea que jornaleros ustedes no tuvieron. ¿no?
+I: No, nunca, nunca.
+E2: |T13| ¿Y por qué cosas le regañaba su madre, por ejemplo? ¿Había algo por lo que le regañaran especialmente?
+I: A mí no, mi madre a mí nunca. Como no fuera decir si llegué un poquitín más tarde [RISA] o cosa así..., pero por otra cosa no.
+E2: ¿Y a sus hermanos tampoco?
+I: Tampoco, porque es que en mi casa lo que decían ellos, aquello se hacía, lo que decían mis padres y nosotros nunca les contestábamos.
+E2: ¿Y algún compañero que fuera así un poco más traviesillo y...?
+E1: O algún amigo.
+E2: O algún amigo.
+I: Pues sí, es que yo desde chica he querío ser monja y mis compañeras... [HS:E1 [Asent].] Claro está. Que una está de monja en Madrid, está en Madrid en El Plantío, en El Plantío. Y otra hay que esa era mi maestra de toa la vida, que todavía me llama por teléfono y me llama también está en Madrid, que está en..., en el Hospital de la Milagrosa me parece que es. Ese que hace a..., hace de esquina a la puerta así, pos ahí, ahí está.
+E1: ¿Y por qué no se hizo usted monja?
+I: Porque los padres se oponían mucho a aquello, decían que era perder una hija, que no era lo mismo que ahora que ya la gente lo ve de otra manera. Esas cosas tamién y entonces decían que dejar una hija así era perdela y no querían. Y yo por no darles ese disgusto pos...
+E1: |T11| ¿Sabe si alguna compañera del colegio les tenía, más que respeto, miedo a las monjas?
+I: A las monjas no, por lo menos [OTRAS-EM] ahí en ese sitio que yo he estao es que... eran mu buenas esas monjas, mu buenas.
+E2: ¿Y a qué le tenía miedo usted cuando era niña?
+I: Al coco. [RISAS] Ahí pone coco loco, mira.
+E2: Y, por ejemplo, mucha gente nos ha dicho que tenía miedo a las tormentas. ¿Usted tenía miedo a las tormentas?
+I: Yo no.
+E1: ¿O a las culebras en el campo?
+I: ¡Ah! A eso sí, a los bichos sí, a los bichos sí. Les tenía miedo a las culebras.
+E1: ¿Qué hacían si se encontraban un bicho en el campo?
+I: Chillar, irte una legua. ¿Tú no?
+E1: ¿Y los hombres no las mataban?
+I: Sí, sí las matan, ellos sí las mataban.
+E1: |T7| ¿Y aquí... había ganado en este pueblo?
+I: Había y hay.
+E1: ¿Hay todavía? ¿Y qué había? ¿O qué hay?
+I: Hay... ganao hay todavía bastante aquí.
+E1: ¿Ovejas [HS:I Sí, ovejas.] y vacas?
+I: No.
+E1: ¿Vacas no hay en esta zona?
+I: Vacas yo no sé si ahí tendrán alguna, así por ahí así pero que no. Como ganao así de vacas y eso no. Ovejas sí, ovejas sí hay.
+E2: |T1| ¿Y se hacía matanza por aquí?
+I: Sí. Matanza cada uno criaba un cerdo o dos en su casa que luego se hacía la matanza, que luego eso se guardaba pa'l verano.
+E2: ¿Y cómo se hacía? ¿Qué hacían los hombres, qué hacían las mujeres?
+I: Pues el hombre lo mataba, lo escuartizaba y luego ya las mujeres se encargaban en lavar el menudo, las tripas y to eso pa hacer luego lo...| picar la carne pa hacer los chorizos, adobarla, cosas de esas.
+E2: |T2| ¿Y hay aquí en el pueblo algún plato o algo que sea típico de aquí del pueblo?
+I: Aquí de Belmonte, Belmonte... En La Mancha, sí.
+E2: ¿El qué?
+I: Morteruelo [HS:E2 ¿Cómo se...? ¿Cómo se...?] y el gazpacho manchego.
+E2: ¿Y cómo se hace el morteruelo?, ¿usted sabe?
+I: Yo no lo he hecho nunca, no lo he hecho nunca porque es más bien pa la parte de La Parrilla y to eso es por donde suelen hacer más el morteruelo.
+E1: ¿Y el pisto, cómo hacen aquí el pisto?
+I: ¿El pisto? [R-Prt] Con pimiento y tomate. [A-Crt]
+E2: ¿Cómo se prepara aquí el gazpacho, por ejemplo?
+I: El gazpacho es con torta. Se cuece a lo mejor el conejo y hay quien le echa muchas cosas, eso ya se le puede ir echando de más. Pero se cuece el gazpacho y se deshuesa, se deshuesa y entonces ese líquido, que ha soltao ya, pues después de lavao el conejo y to eso pos lo | el caldo  que suelta al cocerlo, ese se le echa luego al gazpacho y se le echa... Tamién le echan perdiz, le echan de muchas cosas al gazpacho, le echan de muchas cosas y lo van haciendo. Eso se queda pos casi como una tortilla, un poquito más melosa que una tortilla, [HS:E1 [Asent].] la van haciendo pero tiene que ser torta. No pan, pan, pan no, torta.
+E2: |T15| ¿Y cómo son las fiestas del pueblo?
+I: Estupendas. Eso es lo que más le gusta a to el mundo.
+E1: ¿Qué es lo que hacían cuando era usted joven en las fiestas?
+I: La fiesta, que yo sepa, es casi siempre lo mismo. Ahora aquí hay unas ferias... buenísimas.
+E1: ¿Qué había antes, cómo eran antes?
+I: Antes es que había mucho tratante de..., venían muletás, venían..., entonces sí venían toros a vender y toas esas cosas tamién aquí. Y había feria de eso y había feria de... bisutería tamién había. [HS:E1 [Asent].] Pero es que ahora to eso ya no, porque si ya es que to los mercaos es feria.
+E1: ¿Y la música? ¿Qué había de música?
+I: Sí, hay una música de banda aquí mu estupenda.
+E1: ¿Ha habido siempre banda?, ¿usted recuerda...?
+I: Sí, sí, sí la banda de la Virgen. Esa, la música es que es la de la Virgen, eran los instrumentos y todo de la Virgen. [R-Ind]
+E2: ¿Y cuándo son?
+I: En setiembre. La Virgen, la patrona de aquí, Nuestra Señora de Gracia es en setiembre. Y el patrón, que hay patrón, el patrón es san Bartolomé que es en... ¿En qué mes? Espérate a ver que me acuerde... en el mes de agosto, ¿no? [V-Sml] Me parece que sí, que son las ferias aquí.
+E1: ¿Y ahora como son las fiestas? ¿Qué diferencias nota usted? ¿Cómo se divierte ahora la gente y cómo antes?
+I: Bueno, pues ahora lo que más hay en la feria... bares, casetas de esas de... comidas, como yo digo, y... to esas cosas más que otra cosa. Vienen conjuntos allí al... | a la piscina que es un este muy bonito pos vienen, ya digo, conjuntos. [PS] Pero a cantar y a cosas de esas.
+E1: ¿Y usted cómo se divertía en las fiestas? ¿Bailaba? [HS:I Entonces] Eso, entonces.
+I: no venía de to eso, cuando yo me criaba de más joven, no venía de to eso. Entonces bailar aunque fuera con un candil. [RISA] Claro, si es que es verdá, es verdá. Antiguamente no... La vida ha cambiao completamente [P-Enf: a mejor, ¿eh?,] a mejor y... todavía no estamos conformes, todavía decimos: "Si es que no... es que ahora a este viaje le vamos a votar a fulano a ver si todavía nos lo pone más pa arriba". Y no nos damos cuenta... como todos a la hora de votar ofrecen mucho y luego dar... Eso ya cambia.
+E2: |T18| ¿Y había fiesta para los quintos? ¿Hacían algo especial los quintos?
+I: Los quintos se tiraban de ronda toa la noche por ahí ellos, pero ellos.
+E2: Solo se divertían ellos, ¿no?
+I: Sí, solo ellos y una función que le hacían a la Virgen siempre que se iban. La Virgen le hacían una función y... y iban to | mucha gente iba a la misa de los cofrades, esa de los quintos.
+E1: |T11| ¿Ustedes se tenían que ir antes, las mujeres, a casa? ¿No les dejaban estar hasta tarde?
+I: No, eso de andar las mujeres hasta las dos y las seis de la mañana de eso nunca, aquí nunca. Bueno, ahora sí, ahora por supuesto sí, porque ahora, ya te digo, que tengo mi nieto que tiene... ya va pa los catorce, va a cumplir enseguida los catorce y ese ya pues se va, se va a echar el mayo por ahí, el mes de mayo a las cruces y a lo mejor te viene a las tres de la mañana o... y ties que decirle: "Bonito". [HS:E1 Claro.] Es que hay que ir tomando la vida conforme vaya viniendo porque tampoco puedes tener a un hijo esclavo ni a una hija esclava porque a ti no te dejaran entonces. Eso tampoco puede ser, así que hay que hacerlo como va viniendo.
+E2: |T14| Cuando se casaba la gente, ¿había costumbre de molestar a los novios por la noche o algo así?
+I: Sí, eso sí y hacerles fechorías, como yo digo. En la cama que si les meto aunque sea | pelaban un cepillo... y le echaban to los estes a la cama... pa que se estuvián rascando. [RISAS] [HS:E2 [Asent].] Cosejas de esas así..., sí.
+E1: ¿A usted le hicieron alguna?
+I: No, no, porque lo primero que hizo mi marido, que... ya no lo puede contar, porque ya está muerto, fue echarse las llaves en el bolsillo. [A-Crt]
+E1: Así que su marido se preocupó de que no hubiera nada en la cama.
+I: Sí, sí, sí claro, claro. Él lo primero que hizo ya cuando terminamos de poner la casa y eso, cogió la llave y se la echó al bolsillo. Dice: "Verás como no entra nadie". Porque se la dejas a una vecina, a lo que sea pa que... pos esa es la que los lleva luego, ¿sabes?
+E2: ¿Y por la noche venían y tocaban a la ventana o tiraban piedras o algo así?
+I: Sí, algunas veces iban al cristal a dar... [R-Glp] "¿Qué tal va eso?". [RISAS] Detallejos de esos.
+E2: |T11| ¿Y qué más cosas así, travesuras hacían los niños por ejemplo? ¿Algún niño hizo alguna travesura o algo así?
+I: Bueno, travesuras, los chicos siempre han hecho muchas.
+E1: Por ejemplo... [R-Anm] ¿Recuerda así alguna?
+I: Pos de salirsen al corral y... romper tos los huevos que habían puesto las gallinas, pescar uno con otro, ¡pim, pim! [ONOMAT] [G-Mst] ¡Hala!. Eso lo hacían los chicos pequeños no tenían en que... sí, es que... ¡Claro! Antes decían: "Hay muchos chicos, familias numerosas". No había televisión en algo se tenían que entretener, ¿no? [RISAS] ¡Claro! Pero ahora se ponen a ver la tele, yo | termina la película... aunque sean las dos de la mañana y dicen: "¿Ahora me voy a poner a hacer el hongo? Ahora me duermo". [RISAS] Claro.
+E2: ¿Qué diferencia hay de las travesuras de los niños de ahora de las de antes?
+I: Ahora con más maldá, ahora con más maldá. Antiguamente eran travesuras sanas, [R-Anm] pero ahora ya no, ahora ya no. Y a más que ahora no le puedes regañar a un niño. [PS] Antes mi nieto, mi nieta, mi hija iba por la calle y le decían: "Eso no se hace". Y bajaba la cabeza y no decía na. Si le dices ahora: "Eso no se hace". Te mandan... [G-Otr] cerca, te mandan. Ahora no le puedes regañar a un chico [R-Anm], aunque lo veas que está haciendo un mal hecho no le puedes regañar.
+E1: Claro. Antes robaban los chicos en el campo, ¿usted sabe | conoce a alguien?
+I: ¿Robar en el campo?
+E1: Sí, robar fruta y esas cosas.
+I: Bueno, eso sí, pero pasa lo mismo, eso había que perdonáselo.
+E1: El hambre.
+I: Porque antes es que no era lo mismo que ahora. ¿Ahora cómo van a ir a quitar un kilo de tomates si los tienen en su casa y no se los comen? Pos no lo hacen. Pero antes el que no veía un tomate a lo mejor na más que de... fiesta en fiesta pos decía: "Pos como pueda aquí que ha sembrao, yo se lo quito". Y ya está. Y era eso.
+E1: ¿Sabe de alguno que le pillara algún guardia o algo así?
+I: No, no eso no porque deque ya... bueno, que yo ya he vivío más bien pa esta vida que pa la otra, porque pa la otra yo iba a un taller y yo... no estaba...
+E2: Y... ¿En qué, en qué ha cambiado la vida de antes con la de ahora? Por ejemplo, usted con lo que hacía antes y con lo que hace ahora, ¿cómo ve la diferencia?
+I: Mucha, mucha, mucho. Yo ha cambiao, ya digo, de to, de to, de to, de to, de todo ha cambiao. [PS] Ha cambiao porque eso, porque antes tú no eras niña de contestarle a una persona mayor. Tú no podías hacer así ninguna cosa así, decir | porque todo se sabía porque... y si tenían que de ir los guardias a casa de uno a regañarle si... pos tamién lo hacían, sí. Pero yo lo he visto ya en esta época. En esta época de amenazarle que te vi a decir, al cura pero [TOS] ponerle un letrero así largo con la flecha incliná adonde vivía el cura y después ya hacían así [G-Mst]. Así como diciendo que le iban a cortar el cuello, que luego los, los pillaron pero...
+E1: Usted cree que...
+I: Y subir al cementerio a hacer fechorías en el cementerio tamién eso a..., no hace tanto, hace a lo mejor cosa de... cuatro o cinco años.
+E1: ¿Y qué han hecho?
+I: Pos rompían toas las urnas esas que hay así que meten un santejo dentro y rompían la... lápida, la rompían.
+E1: |T10| ¿Antes había más respeto por la iglesia?
+I: Sí, sí, antes había mucho respeto. Si ahora gente joven, gente joven va muy poquito a misa, cuanto caigamos los cuatro viejos, oye, salvo excepciones porque hay mucha gente... y tampoco quiero decir con eso que una persona porque vaya mucho a misa es mejor que otra que no va. A lo mejor la que no va es mejor, pero esa que no va, si es buena, podía ser mejor si juntara las dos cosas.
+E2: Y la fiesta | ¿Hay procesión de santos aquí?
+I: ¿Aquí? Muchas, sí.
+E2: ¿Y quién le viste al santo? ¿Se viste diferente o...?
+I: Los chicos, los..., las cofradías, aquí la Semana Santa cada uno tiene su, su cofradía. Unas son de san Juan, otros son de..., de la Verónica, otros son de... Porque la Semana Santa aquí es estupenda, ¿eh?, estupenda, la Semana Santa [A-Inn] y salen muchas bandas de tambores y...
+E2: ¿Tiene algún nombre, el que viste el santo tiene algún nombre o...?
+I: ¿El qué?
+E2: El que viste al santo.
+I: No, no, porque es que lo visten entre todos ellos, los de la junta. Toas las cosas tienen su junta, pos ellos tienen una junta, la directiva, este es el que manda más, este es el que... y entre tos esos pues lo... pero todos colaboran luego a ayudar a vestirlo.
+E2: ¿Y cómo...? ¿Quién sigue a quién? Sale el cura y después todos o... ¿cómo?
+I: Aquí antes llamaban, a la que vestía a la Virgen, le llamaban la camarera de la Virgen, le decían.
+E1: ¿Tienen costaleros o van en carros?
+I: No, van andando.
+E1: ¿Andando?
+I: Los santos los llevan andando, bueno, andando..., a hombro..., lo llevan a hombro. Pero a lo mejor en cada anda van lo menos veinte. [PS] Son, ya digo, aquí la Semana Santa es estupenda.
+E1: Y usted...
+I: ¿Que no habéis estado nunca por Belmonte? ¿Es la primera vez?
+E1: No, es la primera vez, sí.
+I: Pues no los vayáis sin ver el castillo, os lo digo de tú porque yo soy vuestra abuela, [RISAS] no los vayáis sin ver el castillo.
+E2: |T11| ¿Qué..., por ejemplo, qué diferencia ve usted a la hora de desayunar, de comer... de cuando usted era pequeña a ahora? Las comidas y...
+I: Sí, mucha, mucha porque, ya te digo, que antes a lo mejor te daban un... cántaro pan o un poco pan y una onza de chocolate y tirando a la escuela. Y ahora les ponen su vaso de leche que si sus magdalenas, que si sus... | [R-Anm] cosas de esas.
+E2: ¿Y a la hora de comer?
+I: Y a la hora de comer lo mismo; a la hora de comer, si ponían potaje, era potaje, pa to'l mundo potaje y allí no se echaba nadie fuera y ahora: "Yo no quiero eso, yo quiero que me hagas otra cosa". Y ya no es una cosa sola, ahora ya ponen que si... eso pero después a lo mejor ponen dos filetes, después ponen... aunque sean unas sardinas, que no se refiere to a los filetes, cosas de esas.
+E2: Y, por ejemplo, cuando usted, cuando usted iba al, al cole, al colegio, ¿y le daban algo para llevarse, para el recreo? Como ahora que van los niños y llevan un bollo. [HS:I No.]
+I: Nunca. Nunca, nunca, nunca.
+E2: |T14| Y cuando se casaban, ¿llevaban un ajuar?
+I: Sí.
+E1: ¿Y era hecho por ustedes o...?
+I: Yo por lo menos sí, yo en mi caso sí.
+E1: ¿Lo hacían desde niñas?
+I: Sí, yo llevé to mi ajuar bordao y lo hice yo.
+E2: |T11| ¿Y la ropa cómo la hacían? ¿La compraban o la hacían ustedes?
+I: La hacíamos nosotros casi siempre, ahora es cuando ya no la hago, no veo. [RISA] Es verdá.
+E1: ¿Lo hacían todo, hasta..., [HS:I Todo.] desde la ropa de los niños hasta la de los mayores?
+I: Sí, antes a lo mejor de una camisa de su padre le sacabas una a un chico.
+E1: ¿Y para comprar comida? ¿No había tiendas o...?
+I: Sí, sí, tiendas ha habío [HS:E1 ¿Ha habido siempre?] siempre. Sí, mejor o peor que las de ahora, pero ha habido siempre tiendas aquí.
+E1: ¿Podían comprar ya el pan hecho y todo eso?
+I: Sí, sí, sí. Se podía cocer, pero se podía comprar el pan hecho tamién.
+E2: |T16| ¿Y había médico aquí?
+I: Siempre, siempre y ahora ya pos cambia, porque ahora ya es el centro de salú. Ya cambia mucho porque ahora ya... Antiguamente la que se ponía mala iba el médico a su casa a visitarla, y ahora si tienes fiebre como si no tú tienes que ir al centro.
+E2: ¿Y, y cómo le avisaban al médico antes en su tiempo cuando alguno se ponía malo?
+I: Ir en persona a ir a avisale, ir en persona, lo mismo que ahora coges el teléfono y llamas al centro de salú que vengan que no puedes subir y vienen rápido. Eso sigue igual tenemos un... dos médicos tenemos aquí dos, dos practicantes.
+E2: ¿Se atendía a todo el mundo por igual o había algunos que tenían...?
+I: Pues, hombre, yo me creo, yo no me ha ocurrido porque a mí me han tratao bien, ya le digo, que yo en mi caso no es pero siempre ha habido excepciones y las habrá. Deque se igualen los dedos de la mano, se igualarán las demás cosas. ¡Y mira que es difícil que se igualen los dedos de la mano! Pos igual va a pasar con todo. Ni que manden los unos ni que manden los otros. Yo no soy política ni..., ni na, pero que sí mandan unos y sí mandan otros... la igualdá para todos no puede ser.
+E2: La comadrona, ¿cómo se le avisaba? ¿Cuándo...?
+I: Pues te ibas en persona, bueno, no la que iba a parir..., iba otra de al lao y decía: "Oye, ven que fulana... ya va a dar a luz". Y venía la mujer. [HS:E2 Era de aquí entonces.] Y esas de pago, pos esas le daban lo que querías luego ya, esas ya cada una le daba.
+E2: ¿Los partos eran aquí en el pueblo?
+I1: Sí.
+E1: ¿En la misma casa? Normalmente.
+I: En la misma casa, yo, cuando mi hija, en mi casa y, en cambio, ella ya no.
+E2: ¿Y los maridos estaban presentes en el parto o no?
+I: Pues no, no. Bueno, si hay alguno que dice que quiere estar, pos si le dejan tamién. Pasa igual que ahora en Cuenca, el que quiere estar está y el que no quiere no está.
+E1: ¿Y en su caso estaba su marido en casa o estaba trabajando?
+I: Estaba trabajando..., estaba trabajando. ¡A ver! Pilló en el verano, que pilló en el mes d'agosto. Estaban haciendo la recolección y deque vino le dijeron: "Ya tienes una nena". Ya tiene una nena.
+E1: ¿Y no dejó de trabajar [A-Inn]?
+I: ¿Y pa qué iba a dejar? Si en cuanto dejara de trabajar..., dejaba de cobrar, y anda que es que en eso pueden hacer ellos algo.
+E1: ¿No podían pedir un día como ahora?
+I: No, ahora por eso digo que no tenemos conocimiento muchas personas. Y yo no me refiero, pues claro... yo... ustedes no sin más no pueden decir que yo me dirijo a ustedes ni, [HS:E1 No.] ni a nadie. Pero no tienen conocimiento porque ahora una, porque está en estado un mes antes, y dos o tres después... del parto les dejan y les guardan el puesto y toas esas cosas. [A-Crt] Y todavía no estamos conformes porque decimos que no estamos bien atendíos, que no se ocupan de nosotros... pos qué queremos más. Yo no lo | yo es que me lo imagino así, yo es que como me conformaba con menos...
+E2: ¿Se asustaban antes con las enfermedades cuando veían a alguien que no sabían lo que tenía? ¿Se asustaban ustedes?
+I: Pues no porque ya lo habías visto así, y sí se sabía lo que era pero..., se sabía a lo mejor te decían lo que tenía porque el médico que es buen médico pos..., pero que antes se morían sin tener que operalos, sin tener que operalos.
+E2: Había menos medicinas, ¿no?
+I: Sí había menos.
+E1: El médico, ¿había uno para cada pueblo o tenía que venir de un pueblo a otro?
+I: No, aquí siempre había dos.
+E1: ¿Dos médicos para el mismo pueblo?
+I: Pa'l mismo pueblo, no se iban a ningún lao. Aquí siempre ha habido dos médicos y ahora tamién, hay dos y dos practicantes hay. Cada médico lleva el suyo.
+E2: |T6| ¿Aquí se cultivaba uva?
+I: Sí.
+E2: ¿Se hacía vino?
+I: Hacían, antes sí, ahora ya no hacen.
+E2: ¿Usted ha hecho vino? ¿Cómo lo hacían el vino?
+I: El vino, pos había unas estrujadoras que se llamaban, que iban echando la uva con horcas, con horcas la iban echando a la estrujadora, y otro dándole vueltas y se molía la uva.
+E1: ¿Qué son las horcas? No sé.
+I: ¿Las horcas? Pos esas que llevaban a las eras la gente, llevaban horcas pa volver las parvas, pa [HS:E1 ¿Cestas?] [A-Inn]. Sí, de hierro no se podían llevar porque se pinchaban las lonas, claro. Y, y eso que ya luego después pos lo pasaban a la prensa, la prensa que tamién eran cosas así [G-Mst] con tablejas así de madera un..., un redondo grande. Eso lo llenaban, bajaba un..., un torno, que era como un torno, le iban dando al torno, dando al torno hasta que eso iba escurriendo to'l este y se quedaba a lo mejor todo. Y había antes de moler la aceituna, aquí tamién.
+E2: ¿También?
+I1: Sí, tamién había, ahora no.
+E2: |T8| ¿Hacían aceite también?
+I: Aquí hacían aceite tamién, ahora ya no.
+E1: ¿Usted ha recogido aceituna?
+I: Sí, nuestra.
+E1: ¿Y cómo se recogía la aceituna entonces? Porque ahora vemos que hay máquinas, pero entonces...
+I: No, nosotros la seguimos cogiendo a mano.
+E1: ¿A mano?
+I: Con unos ganchos la cogemos, hay unos ganchos que llevan así mucho así [G-Mst] y van haciendo así en la oliva y va cayendo a las lonas que tenemos puestas debajo.
+E2: ¿Y miel tienen aquí?
+I: No, ha habío algunos casos que han..., algún particular que ha tenío algunas colmenas y eso pero no, como productor de eso no.
+E1: ¿Y queso?
+I: Queso tamién hacen aquí, hacen, pero tampoco... vive la gente de, del pueblo con eso del queso, [HS:E1 Lo ven-.] no hay más que una quesería.
+E1: ¿Lo vende alguien esas cosas que..., lo de aceite, el queso, [HS:I Sí... Sí...] lo de la matanza...?
+I: Sí, nosotros mismos hemos vendío un poco de aceite que nos sobraba y lo hemos vendío.
+E2: |T1| Y la matanza, cuando hacían la matanza, ¿lo vendían también o solo era para ustedes?
+I: No, no la matanza cada uno criaba... si necesitaba un cerdo como si necesitaba dos. Lo criabas con la cebá que cogías de..., de tu cosecha, lo criabas y luego, ya te digo, hacías los chorizos y esos chorizos se, se guardaban pa'l verano.
+E2: Cuando mataban al cerdo, ¿había que llamar al veterinario [HS:I Sí,] o al matarife?
+I: eso sí.
+E2: ¿Era obligatorio?
+I: Tenías que llevar las muestras al veterinario, y el matarife que iba a matarlo claro, y a cuartizarlo el gorrino y el gorrino pos no sabes.
+E1: ¿Qué enfermedades podía tener? [A-Nul]
+I: Claro, claro, porque el cerdo, aunque mal comparao esté, es igual que una persona. Porque él tiene sus enfermedades como... y así te cogían de que... cogían me parece un poco de hígado de... y cogían tamién de entre, entre pulmones, cogían así de esas telas tamién para... yo es que he ido muchas veces a llevarlo y de las quijás que tamién cogían.
+E2: ¿Venía gente a ayudar a la matanza o lo hacían ustedes solos?
+I: No, nosotros siempre nosotros los de la casa.
+E2: Todos los...
+I: Claro, nosotros éramos tres chicas y un chico pos nosotras nos apañábamos pa... [R-Ind] la matanza.
+E2: ¿Y cómo hacían el chorizo y el jamón?, ¿qué le echaban?
+I: Pues se les echaba pimentón, se les echaban especias, especias de a lo mejor como... que querías que te saliera un poco picante, pues le echabas un poco de esa pimienta, una poca pimienta y cosas de esas. Pero ajo asao, el ajo asao tamién se les echaba y yo era muy este pa las especias, que no me hacían mucha gracia mucha especia en el chorizo.
+E2: ¿Y había | el jamón se hacía de una forma especial para que no le picara la mosca o algo así?
+I: Les echaban, luego después ya, salvajamones. Se echaban una cosa que decían que se llamaba, porque lo ponía en la caja, salva jamones y les echabas tú alrededor del hueso así un poquito y ya no iba la mosca.
+E2: Perfecto. ¿Y sabía mejor que lo que se hace ahora o...?
+I: ¡Bueno! Yo ahora no lo quiero. Yo ahora es que no me gusta. Es que ni aun ni el olor de que ponen sopa, ponen sopa que ese olor antes tan rico a caldo del cocido, pues ahora no, ni huele ni sabe.
+E1: ¿En qué época se hacía la matanza?
+I: Pues al..., áhi por el mes de..., a últimos de noviembre y... por ahí.
+E1: ¿Para conservarlo mejor? [HS:I Por los santos]
+I: y por ahí, por los santos y por..., y eran las pascuas, eso se hace con el frío, eso se hace con el frío. Con causa de que... es mejor pa la matanza el frío.
+E2: |T6| Cuando..., cuando se hacía la cosecha, ¿cómo se avisaba a los cosechadores para que fueran a cosechar?
+I: ¿Cómo?
+E2: ¿Cómo se avisaba a los cosechadores? ¿Se tocaba la campana o cómo se hacía?
+I: No, porque si iba la máquina sola tú no te tenías que preocupar na más que de ir donde el tractor y el remolque a..., a que te lo vaciasen en tu este.
+E1: ¿Y antes de que hubiese máquinas cómo lo hacían?
+I: Antes de... a mano, [HS:E2 Pero...] con una hoz y a mano.
+E2: su marido, ¿cómo le avisaban para que fuera a la cosecha? ¿Venía alguien a llamarle o...?
+I: Pos no, él ya sabe que a las tres entran y procuraba estar a esa hora o ya les dicen la hora. Aquí mi yerno va con una cosechadora.
+E1: ¿Sigue dedicándose al campo [HS:I Sí,] parte de su familia?
+I: sí, sí ellos siguen con el campo.
+E2: ¿Y las mujeres siguen ayudando o ya no?
+I: Pos no ahora ya no tanto, ahora está to más mecanizao y ya no se necesita tanta mano de obra como...
+E2: |T11| ¿Y el pueblo ha cambiado mucho desde que usted era niña a ahora?
+I: Pues sí ha cambiado tamién mucho, antes no se hacían obras ni a la de tres [R-Anm] porque no había cuartos, claro, no había cuartos y ahora sí. Ahora ha habido algunas que por capricho han hundido su casa pa volverla hacer más..., más moderna.
+E1: ¿Viene gente? ¿Viene mucha gente de fuera aquí?
+I: Sí, vienen a ver el castillo, viene mucha gente.
+E2: ¿Y si tienen aquí casa a lo mejor [A-Inn]?
+I: Sí, tienen casa, aquí hay muchos, muchos que tienen casa aquí, que no la tienen na más que para venir los..., las vacaciones, en verano, en Semana Santa y en las Pascuas.
+E1: ¿Ha salido gente del pueblo? ¿Salió mucha?
+I: Sí, antes sí se fue mucha gente, ahora ya salen menos, bueno, ahora ya salen... a lo mejor, gente joven que se va a estudiar y ya a lo mejor si se coloca por áhi o eso pos ya... pos si aquí no hay plaza de maestros porque eso, porque hay instituto que pueden estar hasta los... hasta los dieciséis o diecisiete años, parece que es, pueden estar yendo al instituto.
+E2: Y... Pues... no sé qué más preguntarle. ¿Se te ocurre...?
+I: Es mejor que me preguntéis porque así [RISAS] me oriento yo mejor.
+E2: ¿Cómo le gustaba más a usted el pueblo?, ¿antes cuando era usted niña o ahora?
+I: Ahora, ahora.
+E2: ¿Por qué?
+I: Porque las calles estaban de barro, antes las calles estaban de barro. El alumbrao eran cuatro luces de esquina en esquina y de esas luces... [HS:E2 Que no se veía.] pos eran bombillas, bombillas pequeñas y ya.
+E2: ¿La gente cómo ha cambiado? La gente...
+I: La gente yo aquí no ha..., aquí no hay nada malo todavía, aquí no ha llegado todavía lo malo ¿Qué tendrá que llegar algún día? Pos d'acuerdo. Pero que todavía no ha llegao así de decir: "Han matao a fulano por..., por esto". Pos no, no ha llegao, toas esas cosas no han llegao. Ni así decir: "Hay robos", alguna vez pos hace dos o tres años robaron en la Caja Rural, ¿sabes?, pero... En el estanco tamién robaron la otra vez... Pero bueno, eso son ya a lo mejor rateros de mala muerte porque saben que en un pueblo de estos normalmente en el estanco no se deja el dinero allí por la noche, ya... pos sí se llevan a lo mejor el género o algo así.
+E2: ¿Le gusta a usted vivir aquí en este pueblo?
+I: Yo sí, me gusta mucho mi pueblo, me gusta mucho mi pueblo y la tranquilidá que hay en los pueblos, hay mucha tranquilidá y da gusto. Que dices: "Ahora me vi a dar un paseo..., ¡hala, pa las afueras!". Pues te sales a las afueras, das un paseo tan ricamente que te da el aire... Y en la capital que tienes que estar, tienes que estar allí metida entre cuatro paredes, en tu casa, o si sales... pos si no ves na más que edificios altos y...
+E2: ¿Y conserva usted algún amigo de cuando era niña?
+I: ¿Cómo?
+E2: Amigos [HS:E1 [A-Inn]] de cuando era niña. ¿Tiene usted alguno todavía?
+I: Yo sí, sí, sí, sí, y amigas igual, amigas igual.
+E2: ¿De aquí del pueblo?
+I: Sí.
+E1: ¿Aquí en invierno queda gente o se queda vacío?
+I: Sí, queda la misma que hay. Cuatro que tienen por aquí casas, que vienen a pasar así el verano y luego se van, pero sí se queda más tranquilo porque esas que vienen, pos aunque dicen que está la vida mala vienen na más que a... de bar en bar. [PS] A lo mejor vienen diciendo... eso que te estoy diciendo: "Es que hay que ver qué vida hay tan mala que no sé qué, que no sé cuántos y es que...". Y luego a lo mejor llegan esos días, y que "si me meto en este bar, que si me salgo de aquel, que si me meto en el otro". Y se están hasta las dos o las tres de la mañana, cosa que a lo mejor los del pueblo no lo hacen.
+E1: O sea que vienen buscando tranquilidad.
+I: Tranquilidá o bullanga. Porque pa tranquilidá se están en sus casas. [RISAS]
+E2: Y... [OTRAS-EM] ¿Sus padres eran de aquí del pueblo también? ¿Vivieron siempre aquí? ¿Nacieron aquí también?
+I: Sí, mal, y se irían sin ver el mundo por un agujero ¿Qué te crees? Si mi padre es [A-Inn], ¿no?
+E1: ¿Usted viajó alguna vez? ¿Salió?
+I: Yo sí, he estao... no mucho, pero bueno, a Cuenca he ido mucho, mucho, a Cuenca he ido mucho, a Albacete tamién he estao, en Madríd lo he visto, en el Valle de los Caídos, [HS:E1 [Asent].] Las Cuevas del Águila, to eso, to eso lo he visto yo, ¿sabes? pero... El Escorial tamién estuve.
+E2: ¿Su marido también era de aquí del pueblo?
+I: Sí, tamién.
+E2: ¿Le conoció usted aquí?
+I: Aquí sí.
+E2: Bueno, pues nada más. Yo creo.
+E1: Yo creo que ya sí, ya le hemos preguntado todo. Muchas [HS:E2 Muchas gracias.] gracias.
+I: No.
+E2: Es usted muy amable.
+I: Yo me he creído... que digo, como estamos ya de votaciones. [RISAS]
+E2: A mucha gente le ha pasado, nos ha preguntado lo mismo.
+I: Digo pos una, pos una vez me pillaron en el parque, en el parque me pillaron y era pa eso de política y digo: "Si son pocas preguntas y eso...". Pos lo que ya os he dicho a vosotras. Y dice: "No, van a ser pocas". ¡Joé, pocas! Menudo chorreo.
+E1: Bueno, nosotras también hemos estado un rato.
+E2: Bueno, pues muchas gracias.
+I: Pues nada...
